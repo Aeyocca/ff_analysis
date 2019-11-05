@@ -7,6 +7,7 @@ First release, add classes as you see fit
 tradeAnalyzer only class currently, but will be rearranging / adding things over time
 
 1.) Download this repo as a zip file
+
 2.) Unzip and move into this directory:
 
 `$ unzip ff_analysis-master.zip && cd ff_analysis-master`
