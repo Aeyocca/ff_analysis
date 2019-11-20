@@ -2,15 +2,28 @@
 	"leagueID": 592833,
 	"year": 2019,
 	"player_list_one": [
-		"David Johnson",
-		"DJ Moore",
-		"Auden Tate"
+		"Mecole Hardman",
+		"DJ Moore"
 	],
 	"player_list_two": [
-		"Marlon Mack",
-		"Alexander Mattison",
-		"Marquise Brown"
+		"Tyreek Hill",
+		"Tyler Lockett"
 	],
-	"week_start": 8,
-	"week_end": 9
+	"week_start": 4,
+	"week_end": 11,
+	"drop_position" : "D/ST",
+	"Team Translations" : {
+		"1": "I did waste $100",
+		"2": "Meme Team",
+		"3": "Trash Pandas",
+		"4": "Chark's Famous Route Beer",
+		"5": "Token Female",
+		"6": "Paid Man Gets Board",
+		"7": "The DadBodKillSquad",
+		"8": "50 Shades of Tay",
+		"9": "Did I waste $100?",
+		"10": "Mac Miller's Drugs",
+		"11": "1992 Chargers",
+		"12": "Get Spoiled Dilly Dilly"
+	}
 }

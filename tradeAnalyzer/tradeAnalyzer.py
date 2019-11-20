@@ -23,6 +23,19 @@ class tradeAnalyzer:
 	def __init__(self,ctl_file):
 		self.ctl_file = ctl_file
 		self.glob_vars = self.readCTLfile(self.ctl_file)
+		
+	def adjustArgs(self, **kwargs):
+		if kwargs.get("week_start") is not None:
+			self.glob_vars["week_start"] = kwargs.get("week_start")
+		if kwargs.get("week_end") is not None:
+			self.glob_vars["week_end"] = kwargs.get("week_end")
+		if kwargs.get("player_list_one") is not None:
+			print("Entered player list")
+			self.glob_vars["player_list_one"] = kwargs.get("player_list_one")
+		if kwargs.get("player_list_two") is not None:
+			self.glob_vars["player_list_two"] = kwargs.get("player_list_two")
+						
+	def createOutput(self):
 		self.table_1 = self.multiplePlayers(self.glob_vars["player_list_one"],
 						self.glob_vars["week_start"],
 						self.glob_vars["week_end"],

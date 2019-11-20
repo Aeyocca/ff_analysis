@@ -1,0 +1,29 @@
+{
+	"leagueID": 1804892,
+	"year": 2019,
+	"player_list_one": [
+		"David Johnson",
+		"DJ Moore",
+		"Auden Tate"
+	],
+	"player_list_two": [
+		"Marlon Mack",
+		"Alexander Mattison",
+		"Marquise Brown"
+	],
+	"week_start": 1,
+	"week_end": 10,
+	"drop_position" : "K",
+	"Team Translations" : {
+		"1": "Defending Champ GOAT",
+		"2": "Draft Sadly",
+		"3": "Bark 'n Chark's Touchdown Co.",
+		"4": "Christian McKirkery",
+		"5": "Here Comes The Wallerus",
+		"6": "Joe’sPlayPlace GSD",
+		"7": "Greatest Show On Paper",
+		"8": "Pittsburgh Kneelers",
+		"9": "Shadys Back",
+		"10": "Conner? I hardly know"
+	}
+}
