@@ -13,7 +13,7 @@ parser.add_argument("--salary", required=True, help = "Salaries file")
 parser.add_argument("--include", required=False, help = "Comma separated list of teams to include")
 parser.add_argument("--exclude", required=False, help = "Comma separated list of teams to exclude")
 parser.add_argument("--max_iter", required=False, type = int, default = 9999999999, help = "max_iterations")
-
+parser.add_argument("--platform", required=False, default = "fanduel", help = "max_iterations")
 
 args = parser.parse_args()
 
@@ -138,7 +138,12 @@ combinations = [p for p in itertools.product(*full_list)]
 #yea there aren't enough combinations for me to be worried about it
 
 max_score = 0
-max_weight = 60000
+if args.platform == "fanduel":
+    max_weight = 60000
+elif args.platform == "draftkings":
+    max_weight = 50000
+else:
+    sys.exit("Specify fanduel or draftkings for platform")
 max_lineup_idx = []
 
 print("Assessing combinations")

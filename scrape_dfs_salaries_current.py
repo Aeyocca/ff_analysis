@@ -9,13 +9,24 @@ import pandas as pd
 import sys
 import datetime
 import re
+import argparse
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--platform", required=False, default = "fanduel", help = "fanduel or draftkings")
+
+
+args = parser.parse_args()
 #https://www.fantasypros.com/daily-fantasy/nfl/fanduel-salary-changes.php
 
 #automate this please
 date_string = str(datetime.date.today())
 
-url="https://www.fantasypros.com/daily-fantasy/nfl/fanduel-salary-changes.php"
+if args.platform == "fanduel":
+    url="https://www.fantasypros.com/daily-fantasy/nfl/fanduel-salary-changes.php"
+elif args.platform == "draftkings":
+    url="https://www.fantasypros.com/daily-fantasy/nfl/draftkings-salary-changes.php"
+else:
+    sys.exit("Select one of fanduel or draftkings for --platform")
 
 response = requests.get(url)
 soup = bs(response.content, 'lxml')
@@ -78,7 +89,6 @@ data = {"Name" : all_name,
 		"Team" : all_team}
 
 df = pd.DataFrame (data, columns = ['Name','Position','Salary','Team'])
-
-df.to_csv("fanduel_dfs_salary_" + date_string + ".csv", index = False)
+df.to_csv("salary/" + args.platform + "_dfs_salary_" + date_string + ".csv", index = False)
 
 

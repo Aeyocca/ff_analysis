@@ -1,0 +1,58 @@
+/cygdrive/c/Users/aeyap/Documents
+
+
+Possible ranking sources:
+
+- ESPN 8 rankers, can use variance in rank to identify upside players??? This seems the dumbest
+
+- ideally I want the watson lines... without having to click through everything
+	- selenium clicking through these will probably be the only way
+	- thats going to be an incredible pain, but why not start somewhere...
+
+https://fantasy.nfl.com/research/projections?position=0&statCategory=projectedStats&statSeason=2024&statType=seasonProjectedStats#researchProjections=researchProjections%2C%2Fresearch%2Fprojections%253Fposition%253DO%2526sort%253DprojectedPts%2526statCategory%253DprojectedStats%2526statSeason%253D2024%2526statType%253DweekProjectedStats%2526statWeek%253D11%2Creplace
+#cheese and crepes
+
+
+each week find a reliable place to get stats, probably EPSN box scores and calculate it myself?
+
+This also does not factor in scoring bonuses, but is that really that important... 
+
+fanduel is half ppr fwiw
+
+100+ Receiving yard bonus = 3pt
+300 passing yard bonus = 3pt
+interception -1
+
+
+would like to get hockey up and running also, chat with Keith about how to inject upside if that exists...
+that upside should be baked into these average projections because people just use linear models for point estimates
+
+This spits out a single lineup, but I can get a post hoc analysis of the probability of picking profitable lineups from this pool and how to pick a better lineup that the "top" or just submitting a handful of random ones, or if I can specify addition / subtraction of certain players
+for example, want to stay away from Lamar against the steelers and dont really want to start two tight ends...
+
+need the function for draftkings as well as fanduel
+
+want to keep track of my own lineups also to track if there is an edge or if these projections are wrong as often as I am
+
+I think if I had the watson things I could get higher upside... lets make that a goal
+
+
+things to do:
+- scrape watson boom / bust metrics
+- setup a scrape of past scoring data (ESPN box score scraping)
+	- do I loop the player pool? Naw just go every game that happened on a certain day / week... selenium again???
+
+fuck yea they have specific gameIDs, get that from first page then we can just edit the url so selenium not necessary. Does 
+- defensive scoring..... I can calculate this actually sadly, take everything except defensive/ST TDs (so just add TDs from the other team
+- check 2 pt conversions and XPs
+
+
+
+
+
+
+
+
+
+
+
