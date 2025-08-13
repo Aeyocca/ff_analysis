@@ -1,0 +1,144 @@
+1	1	Jalen Hurts Phi, QB	The Steagles
+1	2	Christian McCaffrey SF, RB	The Fun Police
+1	3	Josh Allen Buf, QB	Bill
+1	4	Lamar Jackson Bal, QB	Sesame Seed Sons
+1	5	Tyreek Hill Mia, WR	Raheem Mostert Haters Club
+1	6	Bijan Robinson Atl, RB	Amon Ra Dog
+1	7	CeeDee Lamb Dal, WR	Chumpion
+1	8	Patrick Mahomes KC, QB	Broken Female
+2	1	Justin Jefferson Min, WR	Broken Female
+2	2	Breece Hall NYJ, RB	Chumpion
+2	3	Amon-Ra St. Brown Det, WR	Amon Ra Dog
+2	4	Ja'Marr Chase Cin, WR	Raheem Mostert Haters Club
+2	5	Anthony Richardson Ind, QB	Sesame Seed Sons
+2	6	Garrett Wilson NYJ, WR	Bill
+2	7	A.J. Brown Phi, WR	The Fun Police
+2	8	Saquon Barkley Phi, RB	The Steagles
+3	1	Puka Nacua LAR, WR	The Steagles
+3	2	Jonathan Taylor Ind, RB	The Fun Police
+3	3	Jahmyr Gibbs Det, RB	Bill
+3	4	Kyren Williams LAR, RB	Sesame Seed Sons
+3	5	Kyler Murray Ari, QB	Raheem Mostert Haters Club
+3	6	Travis Etienne Jr. Jax, RB	Amon Ra Dog
+3	7	Marvin Harrison Jr. Ari, WR	Chumpion
+3	8	Isiah Pacheco KC, RB	Broken Female
+4	1	Michael Pittman Jr. Ind, WR	Broken Female
+4	2	Mike Evans TB, WR	Chumpion
+4	3	Derrick Henry Bal, RB	Amon Ra Dog
+4	4	Chris Olave NO, WR	Raheem Mostert Haters Club
+4	5	Sam LaPorta Det, TE	Sesame Seed Sons
+4	6	Drake London Atl, WR	Bill
+4	7	Alvin Kamara NO, RB	The Fun Police
+4	8	James Cook Buf, RB	The Steagles
+5	1	Davante Adams LAR, WR	The Steagles
+5	2	Joe Burrow Cin, QB	The Fun Police
+5	3	Travis Kelce KC, TE	Bill
+5	4	Nico Collins Hou, WR	Sesame Seed Sons
+5	5	De'Von Achane Mia, RB	Raheem Mostert Haters Club
+5	6	DJ Moore Chi, WR	Amon Ra Dog
+5	7	Dak Prescott Dal, QB	Chumpion
+5	8	Josh Jacobs GB, RB	Broken Female
+6	1	Deebo Samuel Sr. Wsh, WR	Broken Female
+6	2	Jordan Love GB, QB	Chumpion
+6	3	Cooper Kupp Sea, WR	Amon Ra Dog
+6	4	Brandon Aiyuk SF, WR	Raheem Mostert Haters Club
+6	5	Rachaad White TB, RB	Sesame Seed Sons
+6	6	DK Metcalf Pit, WR	Bill
+6	7	Zay Flowers Bal, WR	The Fun Police
+6	8	C.J. Stroud Hou, QB	The Steagles
+7	1	Jaylen Waddle Mia, WR	The Steagles
+7	2	Rashee Rice KC, WR	The Fun Police
+7	3	Malik Nabers NYG, WR	Bill
+7	4	Stefon Diggs Hou, WR	Sesame Seed Sons
+7	5	Brock Purdy SF, QB	Raheem Mostert Haters Club
+7	6	DeVonta Smith Phi, WR	Amon Ra Dog
+7	7	Mark Andrews Bal, TE	Chumpion
+7	8	Trevor Lawrence Jax, QB	Broken Female
+8	1	D'Andre Swift Chi, RB	Broken Female
+8	2	Tee Higgins Cin, WR	Chumpion
+8	3	Jayden Daniels Wsh, QB	Amon Ra Dog
+8	4	Kenneth Walker III Sea, RB	Raheem Mostert Haters Club
+8	5	Amari Cooper Buf, WR	Sesame Seed Sons
+8	6	Trey McBride Ari, TE	Bill
+8	7	Justin Herbert LAC, QB	The Fun Police
+8	8	Tank Dell Hou, WR	The Steagles
+9	1	Dalton Kincaid Buf, TE	The Steagles
+9	2	Joe Mixon Hou, RB	The Fun Police
+9	3	James Conner Ari, RB	Bill
+9	4	Terry McLaurin Wsh, WR	Sesame Seed Sons
+9	5	Calvin Ridley Ten, WR	Raheem Mostert Haters Club
+9	6	Evan Engram Den, TE	Amon Ra Dog
+9	7	Chris Godwin TB, WR	Chumpion
+9	8	George Kittle SF, TE	Broken Female
+10	1	Keenan Allen Chi, WR	Broken Female
+10	2	Rhamondre Stevenson NE, RB	Chumpion
+10	3	Aaron Rodgers FA, QB	Amon Ra Dog
+10	4	Tua Tagovailoa Mia, QB	Raheem Mostert Haters Club
+10	5	Najee Harris LAC, RB	Sesame Seed Sons
+10	6	David Montgomery Det, RB	Bill
+10	7	George Pickens Pit, WR	The Fun Police
+10	8	Jaxon Smith-Njigba Sea, WR	The Steagles
+11	1	Javonte Williams Dal, RB	The Steagles
+11	2	Zamir White LV, RB	The Fun Police
+11	3	Xavier Worthy KC, WR	Bill
+11	4	Caleb Williams Chi, QB	Sesame Seed Sons
+11	5	Aaron Jones Min, RB	Raheem Mostert Haters Club
+11	6	Brian Robinson Jr. Wsh, RB	Amon Ra Dog
+11	7	David Njoku Cle, TE	Chumpion
+11	8	Diontae Johnson Bal, WR	Broken Female
+12	1	Christian Watson GB, WR	Broken Female
+12	2	Jaylen Warren Pit, RB	Chumpion
+12	3	Christian Kirk Hou, WR	Amon Ra Dog
+12	4	Brian Thomas Jr. Jax, WR	Raheem Mostert Haters Club
+12	5	Jake Ferguson Dal, TE	Sesame Seed Sons
+12	6	Kirk Cousins Atl, QB	Bill
+12	7	Kyle Pitts Atl, TE	The Fun Police
+12	8	Jared Goff Det, QB	The Steagles
+13	1	Jayden Reed GB, WR	The Steagles
+13	2	Raheem Mostert LV, RB	The Fun Police
+13	3	Rome Odunze Chi, WR	Bill
+13	4	Austin Ekeler Wsh, RB	Sesame Seed Sons
+13	5	Jonathon Brooks Car, RB	Raheem Mostert Haters Club
+13	6	Ladd McConkey LAC, WR	Amon Ra Dog
+13	7	Nick Chubb Cle, RB	Chumpion
+13	8	DeAndre Hopkins Bal, WR	Broken Female
+14	1	Zack Moss Cin, RB	Broken Female
+14	2	Ezekiel Elliott FA, RB	Chumpion
+14	3	Jerome Ford Cle, RB	Amon Ra Dog
+14	4	Keon Coleman Buf, WR	Raheem Mostert Haters Club
+14	5	Mike Williams LAC, WR	Sesame Seed Sons
+14	6	Chase Brown Cin, RB	Bill
+14	7	Khalil Shakir Buf, WR	The Fun Police
+14	8	Tony Pollard Ten, RB	The Steagles
+15	1	Gus Edwards FA, RB	The Steagles
+15	2	Joshua Palmer Buf, WR	The Fun Police
+15	3	Jameson Williams Det, WR	Bill
+15	4	Rico Dowdle Car, RB	Sesame Seed Sons
+15	5	Jordan Mason Min, RB	Raheem Mostert Haters Club
+15	6	Courtland Sutton Den, WR	Amon Ra Dog
+15	7	Jordan Addison Min, WR	Chumpion
+15	8	Dallas Goedert Phi, TE	Broken Female
+16	1	Matthew Stafford LAR, QB	Broken Female
+16	2	Adonai Mitchell Ind, WR	Chumpion
+16	3	Tyjae Spears Ten, RB	Amon Ra Dog
+16	4	Will Levis Ten, QB	Raheem Mostert Haters Club
+16	5	Jakobi Meyers LV, WR	Sesame Seed Sons
+16	6	Devin Singletary NYG, RB	Bill
+16	7	Bo Nix Den, QB	The Fun Police
+16	8	Darnell Mooney Atl, WR	The Steagles
+17	1	Brock Bowers LV, TE	The Steagles
+17	2	Cade Otton TB, TE	The Fun Police
+17	3	Tyler Allgeier Atl, RB	Bill
+17	4	Deshaun Watson Cle, QB	Sesame Seed Sons
+17	5	Taysom Hill NO, TE	Raheem Mostert Haters Club
+17	6	Browns D/ST Cle, D/ST	Amon Ra Dog
+17	7	Baker Mayfield TB, QB	Chumpion
+17	8	Ravens D/ST Bal, D/ST	Broken Female
+18	1	Hollywood Brown KC, WR	Broken Female
+18	2	Cowboys D/ST Dal, D/ST	Chumpion
+18	3	Blake Corum LAR, RB	Amon Ra Dog
+18	4	Steelers D/ST Pit, D/ST	Raheem Mostert Haters Club
+18	5	49ers D/ST SF, D/ST	Sesame Seed Sons
+18	6	Bengals D/ST Cin, D/ST	Bill
+18	7	Bears D/ST Chi, D/ST	The Fun Police
+18	8	Jets D/ST NYJ, D/ST	The Steagles

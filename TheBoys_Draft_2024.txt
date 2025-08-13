@@ -1,0 +1,192 @@
+1	1	Christian McCaffrey SF, RB	Team Tendonitis
+1	2	Josh Allen Buf, QB	Hamas Rockets
+1	3	Patrick Mahomes KC, QB	Token Female
+1	4	Jalen Hurts Phi, QB	Good on Paper
+1	5	Lamar Jackson Bal, QB	LamaRB1 and the Funky Bunch
+1	6	CeeDee Lamb Dal, WR	My team name long enough Alan?
+1	7	C.J. Stroud Hou, QB	Zero Whiffs Club
+1	8	Amon-Ra St. Brown Det, WR	Bear-Force 1
+1	9	Tyreek Hill Mia, WR	PeePeePooPoo123
+1	10	Bijan Robinson Atl, RB	Team Jeff
+1	11	Breece Hall NYJ, RB	Mr. Big Chests
+1	12	Ja'Marr Chase Cin, WR	Chase Mix
+2	1	Kyler Murray Ari, QB	Chase Mix
+2	2	Justin Jefferson Min, WR	Mr. Big Chests
+2	3	A.J. Brown Phi, WR	Team Jeff
+2	4	Garrett Wilson NYJ, WR	PeePeePooPoo123
+2	5	Isiah Pacheco KC, RB	Bear-Force 1
+2	6	Jonathan Taylor Ind, RB	Zero Whiffs Club
+2	7	Joe Burrow Cin, QB	My team name long enough Alan?
+2	8	Puka Nacua LAR, WR	LamaRB1 and the Funky Bunch
+2	9	Anthony Richardson Ind, QB	Good on Paper
+2	10	Travis Etienne Jr. Jax, RB	Token Female
+2	11	Dak Prescott Dal, QB	Hamas Rockets
+2	12	Saquon Barkley Phi, RB	Team Tendonitis
+3	1	Jordan Love GB, QB	Team Tendonitis
+3	2	Cooper Kupp Sea, WR	Hamas Rockets
+3	3	Aaron Rodgers FA, QB	Token Female
+3	4	Jahmyr Gibbs Det, RB	Good on Paper
+3	5	Rachaad White TB, RB	LamaRB1 and the Funky Bunch
+3	6	Kyren Williams LAR, RB	My team name long enough Alan?
+3	7	Jayden Daniels Wsh, QB	Zero Whiffs Club
+3	8	Caleb Williams Chi, QB	Bear-Force 1
+3	9	Marvin Harrison Jr. Ari, WR	PeePeePooPoo123
+3	10	Mike Evans TB, WR	Team Jeff
+3	11	De'Von Achane Mia, RB	Mr. Big Chests
+3	12	James Cook Buf, RB	Chase Mix
+4	1	Drake London Atl, WR	Chase Mix
+4	2	Alvin Kamara NO, RB	Mr. Big Chests
+4	3	Brock Purdy SF, QB	Team Jeff
+4	4	Sam LaPorta Det, TE	PeePeePooPoo123
+4	5	Tua Tagovailoa Mia, QB	Bear-Force 1
+4	6	Derrick Henry Bal, RB	Zero Whiffs Club
+4	7	Travis Kelce KC, TE	My team name long enough Alan?
+4	8	Josh Jacobs GB, RB	LamaRB1 and the Funky Bunch
+4	9	Chris Olave NO, WR	Good on Paper
+4	10	Brandon Aiyuk SF, WR	Token Female
+4	11	Davante Adams LAR, WR	Hamas Rockets
+4	12	Trevor Lawrence Jax, QB	Team Tendonitis
+5	1	Malik Nabers NYG, WR	Team Tendonitis
+5	2	DeVonta Smith Phi, WR	Hamas Rockets
+5	3	Stefon Diggs Hou, WR	Token Female
+5	4	Michael Pittman Jr. Ind, WR	Good on Paper
+5	5	Jared Goff Det, QB	LamaRB1 and the Funky Bunch
+5	6	Justin Herbert LAC, QB	My team name long enough Alan?
+5	7	Nico Collins Hou, WR	Zero Whiffs Club
+5	8	DJ Moore Chi, WR	Bear-Force 1
+5	9	Deebo Samuel Sr. Wsh, WR	PeePeePooPoo123
+5	10	Kenneth Walker III Sea, RB	Team Jeff
+5	11	Baker Mayfield TB, QB	Mr. Big Chests
+5	12	Joe Mixon Hou, RB	Chase Mix
+6	1	Rashee Rice KC, WR	Chase Mix
+6	2	Trey McBride Ari, TE	Mr. Big Chests
+6	3	Tee Higgins Cin, WR	Team Jeff
+6	4	Matthew Stafford LAR, QB	PeePeePooPoo123
+6	5	Dalton Kincaid Buf, TE	Bear-Force 1
+6	6	Jaylen Waddle Mia, WR	Zero Whiffs Club
+6	7	Zay Flowers Bal, WR	My team name long enough Alan?
+6	8	DK Metcalf Pit, WR	LamaRB1 and the Funky Bunch
+6	9	Mark Andrews Bal, TE	Good on Paper
+6	10	D'Andre Swift Chi, RB	Token Female
+6	11	James Conner Ari, RB	Hamas Rockets
+6	12	George Pickens Pit, WR	Team Tendonitis
+7	1	Diontae Johnson Bal, WR	Team Tendonitis
+7	2	Raheem Mostert LV, RB	Hamas Rockets
+7	3	George Kittle SF, TE	Token Female
+7	4	Tank Dell Hou, WR	Good on Paper
+7	5	Aaron Jones Min, RB	LamaRB1 and the Funky Bunch
+7	6	Zamir White LV, RB	My team name long enough Alan?
+7	7	Brian Robinson Jr. Wsh, RB	Zero Whiffs Club
+7	8	David Montgomery Det, RB	Bear-Force 1
+7	9	Najee Harris LAC, RB	PeePeePooPoo123
+7	10	Rhamondre Stevenson NE, RB	Team Jeff
+7	11	Chris Godwin TB, WR	Mr. Big Chests
+7	12	Calvin Ridley Ten, WR	Chase Mix
+8	1	Terry McLaurin Wsh, WR	Chase Mix
+8	2	Bo Nix Den, QB	Mr. Big Chests
+8	3	Jake Ferguson Dal, TE	Team Jeff
+8	4	Kirk Cousins Atl, QB	PeePeePooPoo123
+8	5	Ezekiel Elliott FA, RB	Bear-Force 1
+8	6	Keenan Allen Chi, WR	Zero Whiffs Club
+8	7	Javonte Williams Dal, RB	My team name long enough Alan?
+8	8	Amari Cooper Buf, WR	LamaRB1 and the Funky Bunch
+8	9	Tony Pollard Ten, RB	Good on Paper
+8	10	Christian Kirk Hou, WR	Token Female
+8	11	Evan Engram Den, TE	Hamas Rockets
+8	12	Kyle Pitts Atl, TE	Team Tendonitis
+9	1	Jaylen Warren Pit, RB	Team Tendonitis
+9	2	Austin Ekeler Wsh, RB	Hamas Rockets
+9	3	Jaxon Smith-Njigba Sea, WR	Token Female
+9	4	Jerome Ford Cle, RB	Good on Paper
+9	5	Courtland Sutton Den, WR	LamaRB1 and the Funky Bunch
+9	6	Zack Moss Cin, RB	My team name long enough Alan?
+9	7	David Njoku Cle, TE	Zero Whiffs Club
+9	8	Jayden Reed GB, WR	Bear-Force 1
+9	9	Jerry Jeudy Cle, WR	PeePeePooPoo123
+9	10	Xavier Worthy KC, WR	Team Jeff
+9	11	Christian Watson GB, WR	Mr. Big Chests
+9	12	Chuba Hubbard Car, RB	Chase Mix
+10	1	Jordan Mason Min, RB	Chase Mix
+10	2	Brian Thomas Jr. Jax, WR	Mr. Big Chests
+10	3	Deshaun Watson Cle, QB	Team Jeff
+10	4	Nick Chubb Cle, RB	PeePeePooPoo123
+10	5	J.K. Dobbins LAC, RB	Bear-Force 1
+10	6	Rico Dowdle Car, RB	Zero Whiffs Club
+10	7	Joshua Palmer Buf, WR	My team name long enough Alan?
+10	8	Gus Edwards FA, RB	LamaRB1 and the Funky Bunch
+10	9	Chase Brown Cin, RB	Good on Paper
+10	10	Devin Singletary NYG, RB	Token Female
+10	11	Tyler Lockett FA, WR	Hamas Rockets
+10	12	Bryce Young Car, QB	Team Tendonitis
+11	1	Rome Odunze Chi, WR	Team Tendonitis
+11	2	Geno Smith LV, QB	Hamas Rockets
+11	3	Mike Williams LAC, WR	Token Female
+11	4	Tyjae Spears Ten, RB	Good on Paper
+11	5	Will Levis Ten, QB	LamaRB1 and the Funky Bunch
+11	6	Khalil Shakir Buf, WR	My team name long enough Alan?
+11	7	T.J. Hockenson Min, TE	Zero Whiffs Club
+11	8	Gabe Davis Jax, WR	Bear-Force 1
+11	9	Tyler Allgeier Atl, RB	PeePeePooPoo123
+11	10	Antonio Gibson NE, RB	Team Jeff
+11	11	Jonathon Brooks Car, RB	Mr. Big Chests
+11	12	Daniel Jones Ind, QB	Chase Mix
+12	1	Ladd McConkey LAC, WR	Chase Mix
+12	2	Curtis Samuel Buf, WR	Mr. Big Chests
+12	3	Keon Coleman Buf, WR	Team Jeff
+12	4	Blake Corum LAR, RB	PeePeePooPoo123
+12	5	Michael Penix Jr. Atl, QB	Bear-Force 1
+12	6	Browns D/ST Cle, D/ST	Zero Whiffs Club
+12	7	Drake Maye NE, QB	My team name long enough Alan?
+12	8	Darnell Mooney Atl, WR	LamaRB1 and the Funky Bunch
+12	9	Jameson Williams Det, WR	Good on Paper
+12	10	Russell Wilson Pit, QB	Token Female
+12	11	Ravens D/ST Bal, D/ST	Hamas Rockets
+12	12	Ty Chandler Min, RB	Team Tendonitis
+13	1	Jordan Addison Min, WR	Team Tendonitis
+13	2	Jaleel McLaughlin Den, RB	Hamas Rockets
+13	3	DeAndre Hopkins Bal, WR	Token Female
+13	4	Derek Carr NO, QB	Good on Paper
+13	5	Gardner Minshew KC, QB	LamaRB1 and the Funky Bunch
+13	6	Cade Otton TB, TE	My team name long enough Alan?
+13	7	Brandin Cooks Dal, WR	Zero Whiffs Club
+13	8	Hollywood Brown KC, WR	Bear-Force 1
+13	9	Justin Fields NYJ, QB	PeePeePooPoo123
+13	10	Brock Bowers LV, TE	Team Jeff
+13	11	Sam Darnold Sea, QB	Mr. Big Chests
+13	12	Trey Benson Ari, RB	Chase Mix
+14	1	Dalton Schultz Hou, TE	Chase Mix
+14	2	Jakobi Meyers LV, WR	Mr. Big Chests
+14	3	Miles Sanders Dal, RB	Team Jeff
+14	4	Jets D/ST NYJ, D/ST	PeePeePooPoo123
+14	5	Steelers D/ST Pit, D/ST	Bear-Force 1
+14	6	Taysom Hill NO, TE	Zero Whiffs Club
+14	7	Adam Thielen Car, WR	My team name long enough Alan?
+14	8	Pat Freiermuth Pit, TE	LamaRB1 and the Funky Bunch
+14	9	Isaiah Likely Bal, TE	Good on Paper
+14	10	Cowboys D/ST Dal, D/ST	Token Female
+14	11	DeMario Douglas NE, WR	Hamas Rockets
+14	12	Dallas Goedert Phi, TE	Team Tendonitis
+15	1	49ers D/ST SF, D/ST	Team Tendonitis
+15	2	Zach Charbonnet Sea, RB	Hamas Rockets
+15	3	Romeo Doubs GB, WR	Token Female
+15	4	Chargers D/ST LAC, D/ST	Good on Paper
+15	5	Ja'Lynn Polk NE, WR	LamaRB1 and the Funky Bunch
+15	6	Bears D/ST Chi, D/ST	My team name long enough Alan?
+15	7	Kimani Vidal LAC, RB	Zero Whiffs Club
+15	8	DJ Chark Jr. LAC, WR	Bear-Force 1
+15	9	Cole Kmet Chi, TE	PeePeePooPoo123
+15	10	Xavier Legette Car, WR	Team Jeff
+15	11	Bengals D/ST Cin, D/ST	Mr. Big Chests
+15	12	Adonai Mitchell Ind, WR	Chase Mix
+16	1	Seahawks D/ST Sea, D/ST	Chase Mix
+16	2	Jaylen Wright Mia, RB	Mr. Big Chests
+16	3	Dolphins D/ST Mia, D/ST	Team Jeff
+16	4	Tyler Boyd Ten, WR	PeePeePooPoo123
+16	5	Alexander Mattison Mia, RB	Bear-Force 1
+16	6	Martavis Bryant FA, WR	Zero Whiffs Club
+16	7	Tyrone Tracy Jr. NYG, RB	My team name long enough Alan?
+16	8	Eagles D/ST Phi, D/ST	LamaRB1 and the Funky Bunch
+16	9	Dontayvion Wicks GB, WR	Good on Paper
+16	10	Rashod Bateman Bal, WR	Token Female
+16	11	MarShawn Lloyd GB, RB	Hamas Rockets
+16	12	Rashid Shaheed NO, WR	Team Tendonitis
