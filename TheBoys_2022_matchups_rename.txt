@@ -1,0 +1,3236 @@
+SLOT	Player_name	Player_team	Player_position	Player_projection	Player_score	Matchup	Owner	Week
+QB	Jameis Winston	NO	QB	17.8	21.66	TN_v_JR	TN	1
+RB	Nick Chubb	Cle	RB	13.9	15.3	TN_v_JR	TN	1
+RB	Josh Jacobs	LV	RB	12.9	8.3	TN_v_JR	TN	1
+WR	Cooper Kupp	LAR	WR	19.7	31.8	TN_v_JR	TN	1
+WR	Deebo Samuel	SF	WR	16.5	12.6	TN_v_JR	TN	1
+TE	Dalton Schultz	Hou	TE	11.7	13.2	TN_v_JR	TN	1
+FLEX	Diontae Johnson	Pit	WR	14.7	12.5	TN_v_JR	TN	1
+OP	Daniel Jones	NYG	QB	17.5	17.02	TN_v_JR	TN	1
+D/ST	Ravens	Bal	D/ST	6.6	11.0	TN_v_JR	TN	1
+Bench	Christian Kirk	Jax	WR	12.8	17.7	TN_v_JR	TN	1
+Bench	Robert Woods	FA	WR	11.5	2.3	TN_v_JR	TN	1
+Bench	James Cook	Buf	RB	6.3	-1.8	TN_v_JR	TN	1
+Bench	Mitch Trubisky	Pit	QB	15.7	12.66	TN_v_JR	TN	1
+Bench	Skyy Moore	KC	WR	5.4	4.0	TN_v_JR	TN	1
+Bench	Mike Gesicki	NE	TE	8.6	1.1	TN_v_JR	TN	1
+Bench	Mecole Hardman	KC	WR	9.8	10.6	TN_v_JR	TN	1
+QB	Russell Wilson	Den	QB	19.7	17.8	TN_v_JR	JR	1
+RB	Jonathan Taylor	Ind	RB	21.8	27.5	TN_v_JR	JR	1
+RB	Breece Hall	NYJ	RB	10.3	10.1	TN_v_JR	JR	1
+WR	Tyreek Hill	Mia	WR	15.9	18.0	TN_v_JR	JR	1
+WR	Brandon Aiyuk	SF	WR	10.7	6.7	TN_v_JR	JR	1
+TE	T.J. Hockenson	Min	TE	10.4	7.8	TN_v_JR	JR	1
+FLEX	Rhamondre Stevenson	NE	RB	11.3	4.7	TN_v_JR	JR	1
+OP	Derek Carr	NO	QB	16.8	16.8	TN_v_JR	JR	1
+D/ST	Commanders	Wsh	D/ST	7.2	4.0	TN_v_JR	JR	1
+Bench	Devin Singletary	Hou	RB	10.7	8.2	TN_v_JR	JR	1
+Bench	Davis Mills	Hou	QB	14.7	15.5	TN_v_JR	JR	1
+Bench	George Pickens	Pit	WR	8.6	1.3	TN_v_JR	JR	1
+Bench	Robbie Anderson	FA	WR	9.4	21.2	TN_v_JR	JR	1
+Bench	Michael Carter	NYJ	RB	12.8	17.0	TN_v_JR	JR	1
+Bench	Jacoby Brissett	Wsh	QB	14.8	10.88	TN_v_JR	JR	1
+Bench	Mo Alie-Cox	Ind	TE	6.8	4.6	TN_v_JR	JR	1
+QB	Matthew Stafford	LAR	QB	17.8	10.8	MF_v_MR	MF	1
+RB	Najee Harris	Pit	RB	16.4	10.6	MF_v_MR	MF	1
+RB	Mike Davis	FA	RB	10.6	1.1	MF_v_MR	MF	1
+WR	Tee Higgins	Cin	WR	14.6	4.7	MF_v_MR	MF	1
+WR	Mike Williams	LAC	WR	13.9	3.0	MF_v_MR	MF	1
+TE	Tommy Tremble	Car	TE	5.6	1.1	MF_v_MR	MF	1
+FLEX	Jerry Jeudy	Den	WR	13.5	20.2	MF_v_MR	MF	1
+OP	Baker Mayfield	TB	QB	14.6	19.0	MF_v_MR	MF	1
+D/ST	Buccaneers	TB	D/ST	5.9	12.0	MF_v_MR	MF	1
+Bench	J.K. Dobbins	Bal	RB	0.0	0.0	MF_v_MR	MF	1
+Bench	Kadarius Toney	KC	WR	12.2	2.3	MF_v_MR	MF	1
+Bench	Marquez Valdes-Scantling	KC	WR	10.3	8.1	MF_v_MR	MF	1
+Bench	Raheem Mostert	Mia	RB	8.5	4.2	MF_v_MR	MF	1
+Bench	David Njoku	Cle	TE	8.0	1.7	MF_v_MR	MF	1
+Bench	Jamison Crowder	Buf	WR	5.2	5.8	MF_v_MR	MF	1
+Bench	George Kittle	SF	TE	0.0	0.0	MF_v_MR	MF	1
+QB	Tua Tagovailoa	Mia	QB	18.1	14.8	MF_v_MR	MR	1
+RB	Austin Ekeler	LAC	RB	19.6	11.2	MF_v_MR	MR	1
+RB	D'Andre Swift	Det	RB	16.0	26.5	MF_v_MR	MR	1
+WR	Jaylen Waddle	Mia	WR	13.5	17.7	MF_v_MR	MR	1
+WR	Stefon Diggs	Buf	WR	16.7	26.2	MF_v_MR	MR	1
+TE	Cole Kmet	Chi	TE	7.9	0.0	MF_v_MR	MR	1
+FLEX	Keenan Allen	LAC	WR	14.0	10.6	MF_v_MR	MR	1
+OP	Carson Wentz	FA	QB	17.2	29.72	MF_v_MR	MR	1
+D/ST	Eagles	Phi	D/ST	7.7	5.0	MF_v_MR	MR	1
+Bench	Cordarrelle Patterson	Atl	RB	11.1	22.6	MF_v_MR	MR	1
+Bench	Rashaad Penny	Phi	RB	13.2	8.7	MF_v_MR	MR	1
+Bench	Jahan Dotson	Wsh	WR	9.4	18.0	MF_v_MR	MR	1
+Bench	Marcus Mariota	Phi	QB	15.7	19.8	MF_v_MR	MR	1
+Bench	DJ Chark	Det	WR	9.4	15.2	MF_v_MR	MR	1
+Bench	Tony Pollard	Dal	RB	10.6	4.2	MF_v_MR	MR	1
+Bench	Sam Howell	Wsh	QB	0.0	0.0	MF_v_MR	MR	1
+QB	Lamar Jackson	Bal	QB	22.1	21.22	CC_v_Zach White Commanders	CC	1
+RB	Derrick Henry	Ten	RB	18.0	8.2	CC_v_Zach White Commanders	CC	1
+RB	James Conner	Ari	RB	17.0	16.5	CC_v_Zach White Commanders	CC	1
+WR	Brandin Cooks	Dal	WR	13.7	15.2	CC_v_Zach White Commanders	CC	1
+WR	Allen Robinson II	LAR	WR	12.9	2.2	CC_v_Zach White Commanders	CC	1
+TE	Pat Freiermuth	Pit	TE	9.5	12.5	CC_v_Zach White Commanders	CC	1
+FLEX	Amon-Ra St. Brown	Det	WR	13.1	20.4	CC_v_Zach White Commanders	CC	1
+OP	Joe Burrow	Cin	QB	18.8	22.22	CC_v_Zach White Commanders	CC	1
+D/ST	Packers	GB	D/ST	5.8	0.0	CC_v_Zach White Commanders	CC	1
+Bench	Miles Sanders	Car	RB	12.8	18.5	CC_v_Zach White Commanders	CC	1
+Bench	Chris Olave	NO	WR	9.6	9.1	CC_v_Zach White Commanders	CC	1
+Bench	Drake London	Atl	WR	11.7	12.4	CC_v_Zach White Commanders	CC	1
+Bench	Ryan Tannehill	Ten	QB	17.2	19.34	CC_v_Zach White Commanders	CC	1
+Bench	Rex Burkhead	Hou	RB	8.0	12.0	CC_v_Zach White Commanders	CC	1
+Bench	Noah Fant	Sea	TE	8.8	4.6	CC_v_Zach White Commanders	CC	1
+Bench	Samaje Perine	Den	RB	4.8	6.7	CC_v_Zach White Commanders	CC	1
+QB	Patrick Mahomes	KC	QB	23.4	34.9	CC_v_Zach White Commanders	Zach White Commanders	1
+RB	Joe Mixon	Cin	RB	17.3	21.5	CC_v_Zach White Commanders	Zach White Commanders	1
+RB	Saquon Barkley	NYG	RB	15.9	33.4	CC_v_Zach White Commanders	Zach White Commanders	1
+WR	A.J. Brown	Phi	WR	14.4	25.5	CC_v_Zach White Commanders	Zach White Commanders	1
+WR	Courtland Sutton	Den	WR	12.8	11.2	CC_v_Zach White Commanders	Zach White Commanders	1
+TE	Kyle Pitts	Atl	TE	11.9	3.9	CC_v_Zach White Commanders	Zach White Commanders	1
+FLEX	David Montgomery	Det	RB	14.5	8.0	CC_v_Zach White Commanders	Zach White Commanders	1
+OP	Jared Goff	Det	QB	14.9	16.5	CC_v_Zach White Commanders	Zach White Commanders	1
+D/ST	Patriots	NE	D/ST	5.7	6.0	CC_v_Zach White Commanders	Zach White Commanders	1
+Bench	Rashod Bateman	Bal	WR	12.2	13.9	CC_v_Zach White Commanders	Zach White Commanders	1
+Bench	Melvin Gordon III	FA	RB	9.0	7.2	CC_v_Zach White Commanders	Zach White Commanders	1
+Bench	Kenny Pickett	Pit	QB	0.0	0.0	CC_v_Zach White Commanders	Zach White Commanders	1
+Bench	Jakobi Meyers	LV	WR	10.6	10.2	CC_v_Zach White Commanders	Zach White Commanders	1
+Bench	Darrell Henderson Jr.	FA	RB	7.9	12.3	CC_v_Zach White Commanders	Zach White Commanders	1
+Bench	Romeo Doubs	GB	WR	9.8	8.8	CC_v_Zach White Commanders	Zach White Commanders	1
+Bench	Isiah Pacheco	KC	RB	3.1	12.2	CC_v_Zach White Commanders	Zach White Commanders	1
+QB	Tom Brady	TB	QB	19.9	11.38	SH_v_EM	SH	1
+RB	Antonio Gibson	Wsh	RB	15.5	20.0	SH_v_EM	SH	1
+RB	Christian McCaffrey	SF	RB	21.0	15.7	SH_v_EM	SH	1
+WR	Ja'Marr Chase	Cin	WR	17.0	28.9	SH_v_EM	SH	1
+WR	DJ Moore	Chi	WR	14.5	8.0	SH_v_EM	SH	1
+TE	Darren Waller	NYG	TE	11.9	11.9	SH_v_EM	SH	1
+FLEX	Tyler Lockett	Sea	WR	12.2	5.8	SH_v_EM	SH	1
+OP	Aaron Rodgers	GB	QB	20.1	4.7	SH_v_EM	SH	1
+D/ST	49ers	SF	D/ST	9.3	6.0	SH_v_EM	SH	1
+Bench	Chris Godwin	TB	WR	10.4	6.5	SH_v_EM	SH	1
+Bench	Brian Robinson Jr.	Wsh	RB	0.0	0.0	SH_v_EM	SH	1
+Bench	Khalil Herbert	Chi	RB	6.2	11.3	SH_v_EM	SH	1
+Bench	D'Onta Foreman	Chi	RB	3.0	0.5	SH_v_EM	SH	1
+Bench	Mark Ingram II	NO	RB	6.0	1.3	SH_v_EM	SH	1
+Bench	Alec Pierce	Ind	WR	8.5	0.0	SH_v_EM	SH	1
+Bench	Russell Gage	TB	WR	10.0	3.3	SH_v_EM	SH	1
+QB	Josh Allen	Buf	QB	23.4	33.48	SH_v_EM	EM	1
+RB	Aaron Jones	GB	RB	15.7	10.6	SH_v_EM	EM	1
+RB	Clyde Edwards-Helaire	KC	RB	11.6	22.4	SH_v_EM	EM	1
+WR	Davante Adams	LV	WR	17.3	30.1	SH_v_EM	EM	1
+WR	Terry McLaurin	Wsh	WR	14.2	13.8	SH_v_EM	EM	1
+TE	Dawson Knox	Buf	TE	9.4	1.5	SH_v_EM	EM	1
+FLEX	Darnell Mooney	Chi	WR	11.6	1.8	SH_v_EM	EM	1
+OP	Trevor Lawrence	Jax	QB	16.9	14.4	SH_v_EM	EM	1
+D/ST	Steelers	Pit	D/ST	6.0	24.0	SH_v_EM	EM	1
+Bench	DK Metcalf	Sea	WR	13.1	8.6	SH_v_EM	EM	1
+Bench	Chase Claypool	Chi	WR	11.7	9.4	SH_v_EM	EM	1
+Bench	James Robinson	NE	RB	8.6	19.9	SH_v_EM	EM	1
+Bench	Hunter Henry	NE	TE	9.1	4.0	SH_v_EM	EM	1
+Bench	Jarvis Landry	NO	WR	8.9	18.4	SH_v_EM	EM	1
+Bench	Marvin Jones Jr.	Jax	WR	10.1	7.8	SH_v_EM	EM	1
+Bench	Jerick McKinnon	KC	RB	5.9	7.9	SH_v_EM	EM	1
+QB	Kyler Murray	Ari	QB	21.4	20.62	JK_v_DW	JK	1
+RB	Dalvin Cook	Min	RB	16.8	13.8	JK_v_DW	JK	1
+RB	Ezekiel Elliott	FA	RB	13.3	5.9	JK_v_DW	JK	1
+WR	Mike Evans	TB	WR	14.8	18.1	JK_v_DW	JK	1
+WR	Marquise Brown	Ari	WR	14.5	14.3	JK_v_DW	JK	1
+TE	Mark Andrews	Bal	TE	14.4	10.2	JK_v_DW	JK	1
+FLEX	Hunter Renfrow	LV	WR	12.6	5.1	JK_v_DW	JK	1
+OP	Matt Ryan	FA	QB	16.6	16.28	JK_v_DW	JK	1
+D/ST	Bills	Buf	D/ST	5.8	18.0	JK_v_DW	JK	1
+Bench	Mac Jones	NE	QB	15.4	9.52	JK_v_DW	JK	1
+Bench	Nyheim Hines	Buf	RB	8.3	11.4	JK_v_DW	JK	1
+Bench	Zach Ertz	Ari	TE	10.0	11.4	JK_v_DW	JK	1
+Bench	J.D. McKissic	FA	RB	10.1	7.8	JK_v_DW	JK	1
+Bench	Kenneth Gainwell	Phi	RB	6.6	11.2	JK_v_DW	JK	1
+Bench	DeVante Parker	NE	WR	9.5	1.9	JK_v_DW	JK	1
+Bench	Kenny Golladay	FA	WR	9.3	4.2	JK_v_DW	JK	1
+QB	Justin Fields	Chi	QB	14.6	14.64	JK_v_DW	DW	1
+RB	Kareem Hunt	Cle	RB	12.0	23.0	JK_v_DW	DW	1
+RB	Alvin Kamara	NO	RB	18.7	7.6	JK_v_DW	DW	1
+WR	Michael Thomas	NO	WR	13.1	22.7	JK_v_DW	DW	1
+WR	JuJu Smith-Schuster	NE	WR	12.4	11.9	JK_v_DW	DW	1
+TE	Travis Kelce	KC	TE	14.3	26.1	JK_v_DW	DW	1
+FLEX	CeeDee Lamb	Dal	WR	17.0	4.9	JK_v_DW	DW	1
+OP	Dak Prescott	Dal	QB	19.4	5.46	JK_v_DW	DW	1
+D/ST	Colts	Ind	D/ST	8.0	8.0	JK_v_DW	DW	1
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	JK_v_DW	DW	1
+Bench	DeAndre Hopkins	Ari	WR	0.0	0.0	JK_v_DW	DW	1
+Bench	DeVonta Smith	Phi	WR	12.2	0.0	JK_v_DW	DW	1
+Bench	Julio Jones	TB	WR	9.8	11.6	JK_v_DW	DW	1
+Bench	Alexander Mattison	Min	RB	4.3	3.6	JK_v_DW	DW	1
+Bench	Treylon Burks	Ten	WR	8.0	8.5	JK_v_DW	DW	1
+Bench	Sammy Watkins	Bal	WR	8.7	4.8	JK_v_DW	DW	1
+QB	Justin Herbert	LAC	QB	21.5	23.26	CM_v_AY	CM	1
+RB	Leonard Fournette	FA	RB	17.2	15.7	CM_v_AY	CM	1
+RB	Javonte Williams	Den	RB	15.3	19.8	CM_v_AY	CM	1
+WR	Gabe Davis	Buf	WR	12.3	18.8	CM_v_AY	CM	1
+WR	Elijah Moore	NYJ	WR	12.8	9.9	CM_v_AY	CM	1
+TE	Dallas Goedert	Phi	TE	10.1	9.0	CM_v_AY	CM	1
+FLEX	Cam Akers	LAR	RB	12.4	0.0	CM_v_AY	CM	1
+OP	Kirk Cousins	Min	QB	16.4	19.08	CM_v_AY	CM	1
+D/ST	Broncos	Den	D/ST	7.1	10.0	CM_v_AY	CM	1
+Bench	Elijah Mitchell	SF	RB	15.2	4.1	CM_v_AY	CM	1
+Bench	Amari Cooper	Cle	WR	11.6	4.7	CM_v_AY	CM	1
+Bench	Damien Harris	Buf	RB	11.0	7.8	CM_v_AY	CM	1
+Bench	Tyler Boyd	Cin	WR	8.4	13.3	CM_v_AY	CM	1
+Bench	Michael Gallup	Dal	WR	0.0	0.0	CM_v_AY	CM	1
+Bench	Tyler Higbee	LAR	TE	8.8	8.9	CM_v_AY	CM	1
+Bench	Garrett Wilson	NYJ	WR	8.4	9.2	CM_v_AY	CM	1
+QB	Jalen Hurts	Phi	QB	23.6	24.72	CM_v_AY	AY	1
+RB	Travis Etienne Jr.	Jax	RB	13.6	8.5	CM_v_AY	AY	1
+RB	Dameon Pierce	Hou	RB	10.9	4.9	CM_v_AY	AY	1
+WR	Justin Jefferson	Min	WR	17.9	39.4	CM_v_AY	AY	1
+WR	Michael Pittman Jr.	Ind	WR	14.9	27.1	CM_v_AY	AY	1
+TE	Albert Okwuegbunam	Den	TE	8.2	8.3	CM_v_AY	AY	1
+FLEX	Chase Edmonds	TB	RB	10.6	10.5	CM_v_AY	AY	1
+OP	Trey Lance	SF	QB	18.1	10.96	CM_v_AY	AY	1
+D/ST	Saints	NO	D/ST	9.2	5.0	CM_v_AY	AY	1
+Bench	AJ Dillon	GB	RB	10.6	20.1	CM_v_AY	AY	1
+Bench	Adam Thielen	FA	WR	12.9	6.6	CM_v_AY	AY	1
+Bench	Allen Lazard	NYJ	WR	0.0	0.0	CM_v_AY	AY	1
+Bench	Zach Wilson	NYJ	QB	0.0	0.0	CM_v_AY	AY	1
+Bench	Kenneth Walker III	Sea	RB	0.0	0.0	CM_v_AY	AY	1
+Bench	Isaiah McKenzie	FA	WR	8.8	9.9	CM_v_AY	AY	1
+Bench	Zamir White	LV	RB	3.8	0.0	CM_v_AY	AY	1
+QB	Russell Wilson	Den	QB	20.7	12.06	JR_v_SH	JR	2
+RB	Jonathan Taylor	Ind	RB	21.7	7.3	JR_v_SH	JR	2
+RB	Michael Carter	NYJ	RB	13.4	10.0	JR_v_SH	JR	2
+WR	Tyreek Hill	Mia	WR	17.0	42.0	JR_v_SH	JR	2
+WR	Robbie Anderson	FA	WR	11.2	4.2	JR_v_SH	JR	2
+TE	T.J. Hockenson	Min	TE	10.5	5.6	JR_v_SH	JR	2
+FLEX	Devin Singletary	Hou	RB	11.3	4.1	JR_v_SH	JR	2
+OP	Derek Carr	NO	QB	18.6	18.98	JR_v_SH	JR	2
+D/ST	Commanders	Wsh	D/ST	6.9	-1.0	JR_v_SH	JR	2
+Bench	Breece Hall	NYJ	RB	10.1	13.0	JR_v_SH	JR	2
+Bench	Rhamondre Stevenson	NE	RB	10.6	6.1	JR_v_SH	JR	2
+Bench	Davis Mills	Hou	QB	15.1	7.18	JR_v_SH	JR	2
+Bench	Brandon Aiyuk	SF	WR	10.7	11.3	JR_v_SH	JR	2
+Bench	George Pickens	Pit	WR	8.8	3.3	JR_v_SH	JR	2
+Bench	Jacoby Brissett	Wsh	QB	15.0	16.46	JR_v_SH	JR	2
+Bench	Mo Alie-Cox	Ind	TE	5.4	1.9	JR_v_SH	JR	2
+QB	Tom Brady	TB	QB	18.9	9.4	JR_v_SH	SH	2
+RB	Antonio Gibson	Wsh	RB	16.2	12.1	JR_v_SH	SH	2
+RB	Christian McCaffrey	SF	RB	22.4	16.8	JR_v_SH	SH	2
+WR	Ja'Marr Chase	Cin	WR	16.8	10.8	JR_v_SH	SH	2
+WR	DJ Moore	Chi	WR	14.0	13.3	JR_v_SH	SH	2
+TE	Darren Waller	NYG	TE	11.5	17.0	JR_v_SH	SH	2
+FLEX	Mark Ingram II	NO	RB	11.1	6.1	JR_v_SH	SH	2
+OP	Aaron Rodgers	GB	QB	20.1	16.36	JR_v_SH	SH	2
+D/ST	49ers	SF	D/ST	7.8	13.0	JR_v_SH	SH	2
+Bench	Chris Godwin	TB	WR	0.0	0.0	JR_v_SH	SH	2
+Bench	Tyler Lockett	Sea	WR	10.5	19.7	JR_v_SH	SH	2
+Bench	Brian Robinson Jr.	Wsh	RB	0.0	0.0	JR_v_SH	SH	2
+Bench	Khalil Herbert	Chi	RB	5.6	5.1	JR_v_SH	SH	2
+Bench	D'Onta Foreman	Chi	RB	3.0	0.9	JR_v_SH	SH	2
+Bench	Alec Pierce	Ind	WR	0.0	0.0	JR_v_SH	SH	2
+Bench	Russell Gage	TB	WR	10.4	7.8	JR_v_SH	SH	2
+QB	Tua Tagovailoa	Mia	QB	18.0	40.86	MR_v_AY	MR	2
+RB	Austin Ekeler	LAC	RB	18.8	18.4	MR_v_AY	MR	2
+RB	D'Andre Swift	Det	RB	15.6	16.7	MR_v_AY	MR	2
+WR	Jaylen Waddle	Mia	WR	13.2	40.1	MR_v_AY	MR	2
+WR	Stefon Diggs	Buf	WR	17.3	44.8	MR_v_AY	MR	2
+TE	Cole Kmet	Chi	TE	7.8	0.0	MR_v_AY	MR	2
+FLEX	Cordarrelle Patterson	Atl	RB	12.9	4.1	MR_v_AY	MR	2
+OP	Carson Wentz	FA	QB	19.1	28.78	MR_v_AY	MR	2
+D/ST	Eagles	Phi	D/ST	5.5	14.0	MR_v_AY	MR	2
+Bench	Keenan Allen	LAC	WR	0.0	0.0	MR_v_AY	MR	2
+Bench	Rashaad Penny	Phi	RB	12.2	1.5	MR_v_AY	MR	2
+Bench	Jahan Dotson	Wsh	WR	8.8	17.9	MR_v_AY	MR	2
+Bench	Marcus Mariota	Phi	QB	16.5	15.44	MR_v_AY	MR	2
+Bench	Tony Pollard	Dal	RB	9.2	19.8	MR_v_AY	MR	2
+Bench	Logan Thomas	Wsh	TE	8.7	12.7	MR_v_AY	MR	2
+Bench	DeVonta Smith	Phi	WR	11.0	15.0	MR_v_AY	MR	2
+QB	Jalen Hurts	Phi	QB	22.7	34.02	MR_v_AY	AY	2
+RB	Dameon Pierce	Hou	RB	10.5	8.7	MR_v_AY	AY	2
+RB	AJ Dillon	GB	RB	12.4	7.7	MR_v_AY	AY	2
+WR	Justin Jefferson	Min	WR	19.7	10.8	MR_v_AY	AY	2
+WR	Allen Lazard	NYJ	WR	11.4	9.3	MR_v_AY	AY	2
+TE	Hayden Hurst	Car	TE	7.8	7.4	MR_v_AY	AY	2
+FLEX	Chase Edmonds	TB	RB	12.9	5.1	MR_v_AY	AY	2
+OP	Trey Lance	SF	QB	18.7	2.5	MR_v_AY	AY	2
+D/ST	Browns	Cle	D/ST	7.7	2.0	MR_v_AY	AY	2
+Bench	Michael Pittman Jr.	Ind	WR	0.0	0.0	MR_v_AY	AY	2
+Bench	Travis Etienne Jr.	Jax	RB	10.3	8.3	MR_v_AY	AY	2
+Bench	Adam Thielen	FA	WR	12.1	9.2	MR_v_AY	AY	2
+Bench	Zach Wilson	NYJ	QB	0.0	0.0	MR_v_AY	AY	2
+Bench	Kenneth Walker III	Sea	RB	6.0	3.5	MR_v_AY	AY	2
+Bench	Isaiah McKenzie	FA	WR	10.3	5.7	MR_v_AY	AY	2
+Bench	Geno Smith	Sea	QB	14.8	7.08	MR_v_AY	AY	2
+QB	Matthew Stafford	LAR	QB	19.0	20.88	MF_v_JK	MF	2
+RB	Najee Harris	Pit	RB	16.3	13.9	MF_v_JK	MF	2
+RB	Jeff Wilson Jr.	Mia	RB	11.5	12.3	MF_v_JK	MF	2
+WR	Mike Williams	LAC	WR	14.4	25.3	MF_v_JK	MF	2
+WR	Jerry Jeudy	Den	WR	12.7	2.2	MF_v_JK	MF	2
+TE	Albert Okwuegbunam	Den	TE	8.8	0.0	MF_v_JK	MF	2
+FLEX	Marquez Valdes-Scantling	KC	WR	11.2	3.3	MF_v_JK	MF	2
+OP	Baker Mayfield	TB	QB	16.0	13.3	MF_v_JK	MF	2
+D/ST	Buccaneers	TB	D/ST	7.9	28.0	MF_v_JK	MF	2
+Bench	Tee Higgins	Cin	WR	13.9	19.1	MF_v_JK	MF	2
+Bench	J.K. Dobbins	Bal	RB	0.0	0.0	MF_v_JK	MF	2
+Bench	Kadarius Toney	KC	WR	7.5	2.0	MF_v_JK	MF	2
+Bench	Raheem Mostert	Mia	RB	8.4	10.9	MF_v_JK	MF	2
+Bench	David Njoku	Cle	TE	7.8	6.2	MF_v_JK	MF	2
+Bench	Jamison Crowder	Buf	WR	8.5	2.6	MF_v_JK	MF	2
+Bench	George Kittle	SF	TE	0.0	0.0	MF_v_JK	MF	2
+QB	Kyler Murray	Ari	QB	20.8	26.88	MF_v_JK	JK	2
+RB	Dalvin Cook	Min	RB	18.0	7.6	MF_v_JK	JK	2
+RB	Ezekiel Elliott	FA	RB	13.3	5.9	MF_v_JK	JK	2
+WR	Mike Evans	TB	WR	13.8	9.1	MF_v_JK	JK	2
+WR	Marquise Brown	Ari	WR	13.7	12.8	MF_v_JK	JK	2
+TE	Mark Andrews	Bal	TE	13.7	25.7	MF_v_JK	JK	2
+FLEX	Hunter Renfrow	LV	WR	11.7	10.9	MF_v_JK	JK	2
+OP	Matt Ryan	FA	QB	16.6	4.8	MF_v_JK	JK	2
+D/ST	Bills	Buf	D/ST	6.8	22.0	MF_v_JK	JK	2
+Bench	Mac Jones	NE	QB	15.0	13.68	MF_v_JK	JK	2
+Bench	Nyheim Hines	Buf	RB	9.6	7.7	MF_v_JK	JK	2
+Bench	Zach Ertz	Ari	TE	8.9	15.5	MF_v_JK	JK	2
+Bench	J.D. McKissic	FA	RB	9.6	13.3	MF_v_JK	JK	2
+Bench	Kenneth Gainwell	Phi	RB	6.9	2.8	MF_v_JK	JK	2
+Bench	DeVante Parker	NE	WR	9.6	0.0	MF_v_JK	JK	2
+Bench	Kenny Golladay	FA	WR	8.8	0.0	MF_v_JK	JK	2
+QB	Patrick Mahomes	KC	QB	22.9	17.3	Zach White Commanders_v_EM	Zach White Commanders	2
+RB	Joe Mixon	Cin	RB	16.6	11.3	Zach White Commanders_v_EM	Zach White Commanders	2
+RB	Saquon Barkley	NYG	RB	17.3	11.8	Zach White Commanders_v_EM	Zach White Commanders	2
+WR	A.J. Brown	Phi	WR	15.0	11.9	Zach White Commanders_v_EM	Zach White Commanders	2
+WR	Courtland Sutton	Den	WR	13.0	19.7	Zach White Commanders_v_EM	Zach White Commanders	2
+TE	Kyle Pitts	Atl	TE	11.5	3.9	Zach White Commanders_v_EM	Zach White Commanders	2
+FLEX	Darrell Henderson Jr.	FA	RB	15.5	10.7	Zach White Commanders_v_EM	Zach White Commanders	2
+OP	Jared Goff	Det	QB	15.8	26.04	Zach White Commanders_v_EM	Zach White Commanders	2
+D/ST	Patriots	NE	D/ST	7.1	10.0	Zach White Commanders_v_EM	Zach White Commanders	2
+Bench	David Montgomery	Det	RB	13.4	15.6	Zach White Commanders_v_EM	Zach White Commanders	2
+Bench	Rashod Bateman	Bal	WR	11.3	20.8	Zach White Commanders_v_EM	Zach White Commanders	2
+Bench	Melvin Gordon III	FA	RB	11.4	6.3	Zach White Commanders_v_EM	Zach White Commanders	2
+Bench	Kenny Pickett	Pit	QB	0.0	0.0	Zach White Commanders_v_EM	Zach White Commanders	2
+Bench	Jakobi Meyers	LV	WR	11.1	18.5	Zach White Commanders_v_EM	Zach White Commanders	2
+Bench	Romeo Doubs	GB	WR	6.0	4.7	Zach White Commanders_v_EM	Zach White Commanders	2
+Bench	Robert Woods	FA	WR	10.4	7.9	Zach White Commanders_v_EM	Zach White Commanders	2
+QB	Josh Allen	Buf	QB	25.2	29.68	Zach White Commanders_v_EM	EM	2
+RB	Aaron Jones	GB	RB	15.4	32.0	Zach White Commanders_v_EM	EM	2
+RB	Clyde Edwards-Helaire	KC	RB	12.2	15.8	Zach White Commanders_v_EM	EM	2
+WR	Davante Adams	LV	WR	18.8	9.2	Zach White Commanders_v_EM	EM	2
+WR	Terry McLaurin	Wsh	WR	14.3	12.2	Zach White Commanders_v_EM	EM	2
+TE	Dawson Knox	Buf	TE	8.6	8.1	Zach White Commanders_v_EM	EM	2
+FLEX	DK Metcalf	Sea	WR	13.0	7.5	Zach White Commanders_v_EM	EM	2
+OP	Trevor Lawrence	Jax	QB	16.6	18.5	Zach White Commanders_v_EM	EM	2
+D/ST	Steelers	Pit	D/ST	6.6	2.0	Zach White Commanders_v_EM	EM	2
+Bench	Darnell Mooney	Chi	WR	11.6	0.6	Zach White Commanders_v_EM	EM	2
+Bench	Chase Claypool	Chi	WR	11.9	6.6	Zach White Commanders_v_EM	EM	2
+Bench	James Robinson	NE	RB	11.4	15.8	Zach White Commanders_v_EM	EM	2
+Bench	Hunter Henry	NE	TE	7.9	0.0	Zach White Commanders_v_EM	EM	2
+Bench	Jarvis Landry	NO	WR	10.6	6.5	Zach White Commanders_v_EM	EM	2
+Bench	Marvin Jones Jr.	Jax	WR	9.1	6.3	Zach White Commanders_v_EM	EM	2
+Bench	Jerick McKinnon	KC	RB	7.7	9.6	Zach White Commanders_v_EM	EM	2
+QB	Justin Fields	Chi	QB	15.2	9.8	DW_v_CM	DW	2
+RB	Kareem Hunt	Cle	RB	11.5	9.4	DW_v_CM	DW	2
+RB	Jamaal Williams	NO	RB	9.7	7.0	DW_v_CM	DW	2
+WR	Michael Thomas	NO	WR	12.3	18.5	DW_v_CM	DW	2
+WR	JuJu Smith-Schuster	NE	WR	13.4	4.0	DW_v_CM	DW	2
+TE	Travis Kelce	KC	TE	16.0	10.1	DW_v_CM	DW	2
+FLEX	CeeDee Lamb	Dal	WR	13.7	15.1	DW_v_CM	DW	2
+OP	Taysom Hill	NO	TE	6.0	1.4	DW_v_CM	DW	2
+D/ST	Empty	--	--	--	--	DW_v_CM	DW	2
+Bench	Dak Prescott	Dal	QB	0.0	0.0	DW_v_CM	DW	2
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	DW_v_CM	DW	2
+Bench	DeAndre Hopkins	Ari	WR	0.0	0.0	DW_v_CM	DW	2
+Bench	Julio Jones	TB	WR	0.0	0.0	DW_v_CM	DW	2
+Bench	Alexander Mattison	Min	RB	4.8	4.4	DW_v_CM	DW	2
+Bench	Treylon Burks	Ten	WR	8.1	8.7	DW_v_CM	DW	2
+Bench	Alvin Kamara	NO	RB	0.0	0.0	DW_v_CM	DW	2
+Bench	Rachaad White	TB	RB	5.2	0.1	DW_v_CM	DW	2
+QB	Justin Herbert	LAC	QB	22.2	24.46	DW_v_CM	CM	2
+RB	Leonard Fournette	FA	RB	17.3	9.4	DW_v_CM	CM	2
+RB	Javonte Williams	Den	RB	16.0	9.5	DW_v_CM	CM	2
+WR	Gabe Davis	Buf	WR	0.0	0.0	DW_v_CM	CM	2
+WR	Elijah Moore	NYJ	WR	11.3	6.5	DW_v_CM	CM	2
+TE	Tyler Higbee	LAR	TE	9.1	14.1	DW_v_CM	CM	2
+FLEX	Curtis Samuel	Wsh	WR	12.1	22.9	DW_v_CM	CM	2
+OP	Kirk Cousins	Min	QB	17.3	11.84	DW_v_CM	CM	2
+D/ST	Broncos	Den	D/ST	8.0	10.0	DW_v_CM	CM	2
+Bench	Cam Akers	LAR	RB	8.1	8.2	DW_v_CM	CM	2
+Bench	Elijah Mitchell	SF	RB	0.0	0.0	DW_v_CM	CM	2
+Bench	Amari Cooper	Cle	WR	10.8	25.1	DW_v_CM	CM	2
+Bench	Damien Harris	Buf	RB	11.1	16.7	DW_v_CM	CM	2
+Bench	Dallas Goedert	Phi	TE	8.7	13.2	DW_v_CM	CM	2
+Bench	Michael Gallup	Dal	WR	0.0	0.0	DW_v_CM	CM	2
+Bench	Garrett Wilson	NYJ	WR	8.1	30.0	DW_v_CM	CM	2
+QB	Lamar Jackson	Bal	QB	21.5	42.62	CC_v_TN	CC	2
+RB	Derrick Henry	Ten	RB	17.0	8.5	CC_v_TN	CC	2
+RB	James Conner	Ari	RB	17.5	7.1	CC_v_TN	CC	2
+WR	Brandin Cooks	Dal	WR	13.7	9.4	CC_v_TN	CC	2
+WR	Amon-Ra St. Brown	Det	WR	13.5	39.4	CC_v_TN	CC	2
+TE	Pat Freiermuth	Pit	TE	9.8	12.2	CC_v_TN	CC	2
+FLEX	Miles Sanders	Car	RB	13.4	11.6	CC_v_TN	CC	2
+OP	Joe Burrow	Cin	QB	18.8	16.56	CC_v_TN	CC	2
+D/ST	Packers	GB	D/ST	9.7	10.0	CC_v_TN	CC	2
+Bench	Allen Robinson II	LAR	WR	11.7	15.3	CC_v_TN	CC	2
+Bench	Chris Olave	NO	WR	8.5	11.0	CC_v_TN	CC	2
+Bench	Drake London	Atl	WR	12.0	24.6	CC_v_TN	CC	2
+Bench	Ryan Tannehill	Ten	QB	16.0	2.88	CC_v_TN	CC	2
+Bench	Rex Burkhead	Hou	RB	11.4	2.9	CC_v_TN	CC	2
+Bench	Noah Fant	Sea	TE	7.1	3.1	CC_v_TN	CC	2
+Bench	Samaje Perine	Den	RB	5.5	2.0	CC_v_TN	CC	2
+QB	Jameis Winston	NO	QB	16.0	10.64	CC_v_TN	TN	2
+RB	Nick Chubb	Cle	RB	14.9	32.3	CC_v_TN	TN	2
+RB	Josh Jacobs	LV	RB	14.6	9.1	CC_v_TN	TN	2
+WR	Cooper Kupp	LAR	WR	20.2	31.8	CC_v_TN	TN	2
+WR	Deebo Samuel	SF	WR	16.6	14.7	CC_v_TN	TN	2
+TE	Dalton Schultz	Hou	TE	10.1	1.8	CC_v_TN	TN	2
+FLEX	Diontae Johnson	Pit	WR	13.9	13.7	CC_v_TN	TN	2
+OP	Daniel Jones	NYG	QB	17.5	13.14	CC_v_TN	TN	2
+D/ST	Ravens	Bal	D/ST	6.8	2.0	CC_v_TN	TN	2
+Bench	Christian Kirk	Jax	WR	12.6	25.8	CC_v_TN	TN	2
+Bench	James Cook	Buf	RB	1.5	5.3	CC_v_TN	TN	2
+Bench	Mitch Trubisky	Pit	QB	15.7	12.42	CC_v_TN	TN	2
+Bench	Skyy Moore	KC	WR	2.8	0.0	CC_v_TN	TN	2
+Bench	Mike Gesicki	NE	TE	5.4	14.1	CC_v_TN	TN	2
+Bench	Mecole Hardman	KC	WR	11.2	7.5	CC_v_TN	TN	2
+Bench	Chargers	LAC	D/ST	4.0	1.0	CC_v_TN	TN	2
+QB	Patrick Mahomes	KC	QB	23.0	18.08	Zach White Commanders_v_JR	Zach White Commanders	3
+RB	Joe Mixon	Cin	RB	17.9	6.8	Zach White Commanders_v_JR	Zach White Commanders	3
+RB	Saquon Barkley	NYG	RB	17.9	22.6	Zach White Commanders_v_JR	Zach White Commanders	3
+WR	A.J. Brown	Phi	WR	16.3	19.5	Zach White Commanders_v_JR	Zach White Commanders	3
+WR	Courtland Sutton	Den	WR	13.5	17.7	Zach White Commanders_v_JR	Zach White Commanders	3
+TE	Kyle Pitts	Atl	TE	9.7	13.7	Zach White Commanders_v_JR	Zach White Commanders	3
+FLEX	David Montgomery	Det	RB	15.3	1.1	Zach White Commanders_v_JR	Zach White Commanders	3
+OP	Jared Goff	Det	QB	16.9	14.88	Zach White Commanders_v_JR	Zach White Commanders	3
+D/ST	Texans	Hou	D/ST	8.3	8.0	Zach White Commanders_v_JR	Zach White Commanders	3
+Bench	Rashod Bateman	Bal	WR	12.4	5.9	Zach White Commanders_v_JR	Zach White Commanders	3
+Bench	Melvin Gordon III	FA	RB	9.3	16.5	Zach White Commanders_v_JR	Zach White Commanders	3
+Bench	Kenny Pickett	Pit	QB	0.0	0.0	Zach White Commanders_v_JR	Zach White Commanders	3
+Bench	Darrell Henderson Jr.	FA	RB	10.7	1.7	Zach White Commanders_v_JR	Zach White Commanders	3
+Bench	Patriots	NE	D/ST	4.2	5.0	Zach White Commanders_v_JR	Zach White Commanders	3
+Bench	Robert Woods	FA	WR	10.2	12.5	Zach White Commanders_v_JR	Zach White Commanders	3
+Bench	Adam Thielen	FA	WR	11.0	18.1	Zach White Commanders_v_JR	Zach White Commanders	3
+QB	Russell Wilson	Den	QB	18.4	9.06	Zach White Commanders_v_JR	JR	3
+RB	Jonathan Taylor	Ind	RB	19.7	12.1	Zach White Commanders_v_JR	JR	3
+RB	Michael Carter	NYJ	RB	13.2	5.6	Zach White Commanders_v_JR	JR	3
+WR	Tyreek Hill	Mia	WR	19.7	5.3	Zach White Commanders_v_JR	JR	3
+WR	Robbie Anderson	FA	WR	10.6	2.4	Zach White Commanders_v_JR	JR	3
+TE	T.J. Hockenson	Min	TE	11.4	10.8	Zach White Commanders_v_JR	JR	3
+FLEX	Devin Singletary	Hou	RB	11.2	24.1	Zach White Commanders_v_JR	JR	3
+OP	Derek Carr	NO	QB	18.8	20.82	Zach White Commanders_v_JR	JR	3
+D/ST	Commanders	Wsh	D/ST	3.8	2.0	Zach White Commanders_v_JR	JR	3
+Bench	Breece Hall	NYJ	RB	8.4	15.2	Zach White Commanders_v_JR	JR	3
+Bench	Rhamondre Stevenson	NE	RB	10.3	20.1	Zach White Commanders_v_JR	JR	3
+Bench	Davis Mills	Hou	QB	15.8	11.8	Zach White Commanders_v_JR	JR	3
+Bench	Brandon Aiyuk	SF	WR	11.6	12.9	Zach White Commanders_v_JR	JR	3
+Bench	George Pickens	Pit	WR	7.0	6.9	Zach White Commanders_v_JR	JR	3
+Bench	Jacoby Brissett	Wsh	QB	14.0	17.9	Zach White Commanders_v_JR	JR	3
+Bench	Mo Alie-Cox	Ind	TE	5.5	1.9	Zach White Commanders_v_JR	JR	3
+QB	Tua Tagovailoa	Mia	QB	18.5	11.44	MR_v_DW	MR	3
+RB	Austin Ekeler	LAC	RB	18.8	13.3	MR_v_DW	MR	3
+RB	D'Andre Swift	Det	RB	16.5	7.6	MR_v_DW	MR	3
+WR	Jaylen Waddle	Mia	WR	16.7	15.1	MR_v_DW	MR	3
+WR	Stefon Diggs	Buf	WR	18.9	14.4	MR_v_DW	MR	3
+TE	Logan Thomas	Wsh	TE	8.7	2.5	MR_v_DW	MR	3
+FLEX	Cordarrelle Patterson	Atl	RB	12.0	22.3	MR_v_DW	MR	3
+OP	Carson Wentz	FA	QB	17.8	8.64	MR_v_DW	MR	3
+D/ST	Eagles	Phi	D/ST	6.7	19.0	MR_v_DW	MR	3
+Bench	Keenan Allen	LAC	WR	0.0	0.0	MR_v_DW	MR	3
+Bench	Rashaad Penny	Phi	RB	11.2	7.9	MR_v_DW	MR	3
+Bench	Jahan Dotson	Wsh	WR	9.7	3.0	MR_v_DW	MR	3
+Bench	Marcus Mariota	Phi	QB	17.6	16.56	MR_v_DW	MR	3
+Bench	Tony Pollard	Dal	RB	11.5	10.5	MR_v_DW	MR	3
+Bench	DeVonta Smith	Phi	WR	11.4	30.9	MR_v_DW	MR	3
+Bench	Elijah Moore	NYJ	WR	11.3	8.9	MR_v_DW	MR	3
+QB	Justin Fields	Chi	QB	16.2	6.94	MR_v_DW	DW	3
+RB	Kareem Hunt	Cle	RB	11.0	9.1	MR_v_DW	DW	3
+RB	Christian McCaffrey	SF	RB	21.2	13.5	MR_v_DW	DW	3
+WR	Michael Thomas	NO	WR	13.8	9.9	MR_v_DW	DW	3
+WR	Treylon Burks	Ten	WR	10.9	3.1	MR_v_DW	DW	3
+TE	Darren Waller	NYG	TE	13.6	5.2	MR_v_DW	DW	3
+FLEX	CeeDee Lamb	Dal	WR	13.3	22.7	MR_v_DW	DW	3
+OP	Jimmy Garoppolo	LV	QB	15.2	9.44	MR_v_DW	DW	3
+D/ST	Chiefs	KC	D/ST	6.9	11.0	MR_v_DW	DW	3
+Bench	Dak Prescott	Dal	QB	0.0	0.0	MR_v_DW	DW	3
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	MR_v_DW	DW	3
+Bench	DeAndre Hopkins	Ari	WR	0.0	0.0	MR_v_DW	DW	3
+Bench	Alexander Mattison	Min	RB	5.8	11.4	MR_v_DW	DW	3
+Bench	JuJu Smith-Schuster	NE	WR	11.3	13.9	MR_v_DW	DW	3
+Bench	Gerald Everett	LAC	TE	9.5	4.5	MR_v_DW	DW	3
+Bench	Jameson Williams	Det	WR	0.0	0.0	MR_v_DW	DW	3
+QB	Jalen Hurts	Phi	QB	24.7	27.6	AY_v_MF	AY	3
+RB	Dameon Pierce	Hou	RB	11.8	18.1	AY_v_MF	AY	3
+RB	AJ Dillon	GB	RB	12.6	5.8	AY_v_MF	AY	3
+WR	Justin Jefferson	Min	WR	20.1	4.4	AY_v_MF	AY	3
+WR	Michael Pittman Jr.	Ind	WR	15.2	15.2	AY_v_MF	AY	3
+TE	Hayden Hurst	Car	TE	8.4	1.7	AY_v_MF	AY	3
+FLEX	Allen Lazard	NYJ	WR	10.9	14.5	AY_v_MF	AY	3
+OP	Geno Smith	Sea	QB	17.1	19.9	AY_v_MF	AY	3
+D/ST	Saints	NO	D/ST	7.4	6.0	AY_v_MF	AY	3
+Bench	Travis Etienne Jr.	Jax	RB	9.9	10.5	AY_v_MF	AY	3
+Bench	Chase Edmonds	TB	RB	11.4	15.7	AY_v_MF	AY	3
+Bench	Zach Wilson	NYJ	QB	0.0	0.0	AY_v_MF	AY	3
+Bench	Kenneth Walker III	Sea	RB	6.4	6.3	AY_v_MF	AY	3
+Bench	Isaiah McKenzie	FA	WR	7.1	21.2	AY_v_MF	AY	3
+Bench	Jaylen Warren	Pit	RB	2.7	4.3	AY_v_MF	AY	3
+Bench	Jakobi Meyers	LV	WR	0.0	0.0	AY_v_MF	AY	3
+QB	Matthew Stafford	LAR	QB	19.8	10.16	AY_v_MF	MF	3
+RB	Najee Harris	Pit	RB	15.8	13.1	AY_v_MF	MF	3
+RB	Jeff Wilson Jr.	Mia	RB	12.1	11.6	AY_v_MF	MF	3
+WR	Tee Higgins	Cin	WR	13.8	14.3	AY_v_MF	MF	3
+WR	Mike Williams	LAC	WR	14.4	8.5	AY_v_MF	MF	3
+TE	George Kittle	SF	TE	12.6	6.8	AY_v_MF	MF	3
+FLEX	J.K. Dobbins	Bal	RB	10.8	6.0	AY_v_MF	MF	3
+OP	Baker Mayfield	TB	QB	14.8	10.7	AY_v_MF	MF	3
+D/ST	Buccaneers	TB	D/ST	7.3	8.0	AY_v_MF	MF	3
+Bench	Kadarius Toney	KC	WR	0.0	0.0	AY_v_MF	MF	3
+Bench	Marquez Valdes-Scantling	KC	WR	11.1	8.8	AY_v_MF	MF	3
+Bench	Raheem Mostert	Mia	RB	8.9	1.1	AY_v_MF	MF	3
+Bench	David Njoku	Cle	TE	7.6	23.9	AY_v_MF	MF	3
+Bench	Jamison Crowder	Buf	WR	3.7	1.9	AY_v_MF	MF	3
+Bench	Jerry Jeudy	Den	WR	11.9	3.7	AY_v_MF	MF	3
+Bench	Albert Okwuegbunam	Den	TE	7.4	2.2	AY_v_MF	MF	3
+QB	Josh Allen	Buf	QB	25.0	26.7	EM_v_CC	EM	3
+RB	Aaron Jones	GB	RB	13.8	5.7	EM_v_CC	EM	3
+RB	Clyde Edwards-Helaire	KC	RB	11.8	14.9	EM_v_CC	EM	3
+WR	Davante Adams	LV	WR	19.6	14.2	EM_v_CC	EM	3
+WR	Terry McLaurin	Wsh	WR	13.3	16.2	EM_v_CC	EM	3
+TE	Dawson Knox	Buf	TE	8.8	6.5	EM_v_CC	EM	3
+FLEX	James Robinson	NE	RB	12.0	20.6	EM_v_CC	EM	3
+OP	Trevor Lawrence	Jax	QB	16.9	25.18	EM_v_CC	EM	3
+D/ST	Steelers	Pit	D/ST	7.0	1.0	EM_v_CC	EM	3
+Bench	DK Metcalf	Sea	WR	12.8	17.4	EM_v_CC	EM	3
+Bench	Darnell Mooney	Chi	WR	9.7	4.3	EM_v_CC	EM	3
+Bench	Chase Claypool	Chi	WR	11.4	7.6	EM_v_CC	EM	3
+Bench	Hunter Henry	NE	TE	7.7	1.8	EM_v_CC	EM	3
+Bench	Jarvis Landry	NO	WR	8.6	4.2	EM_v_CC	EM	3
+Bench	Marvin Jones Jr.	Jax	WR	10.0	13.3	EM_v_CC	EM	3
+Bench	Jerick McKinnon	KC	RB	8.4	2.0	EM_v_CC	EM	3
+QB	Lamar Jackson	Bal	QB	24.0	40.42	EM_v_CC	CC	3
+RB	Derrick Henry	Ten	RB	17.4	25.3	EM_v_CC	CC	3
+RB	Miles Sanders	Car	RB	13.6	5.4	EM_v_CC	CC	3
+WR	Brandin Cooks	Dal	WR	14.7	4.2	EM_v_CC	CC	3
+WR	Amon-Ra St. Brown	Det	WR	17.7	13.3	EM_v_CC	CC	3
+TE	Pat Freiermuth	Pit	TE	11.6	6.1	EM_v_CC	CC	3
+FLEX	Drake London	Atl	WR	13.3	14.4	EM_v_CC	CC	3
+OP	Joe Burrow	Cin	QB	19.2	23.0	EM_v_CC	CC	3
+D/ST	Packers	GB	D/ST	3.9	14.0	EM_v_CC	CC	3
+Bench	James Conner	Ari	RB	14.8	8.7	EM_v_CC	CC	3
+Bench	Allen Robinson II	LAR	WR	11.5	4.3	EM_v_CC	CC	3
+Bench	Chris Olave	NO	WR	9.4	23.7	EM_v_CC	CC	3
+Bench	Ryan Tannehill	Ten	QB	17.3	19.76	EM_v_CC	CC	3
+Bench	Rex Burkhead	Hou	RB	9.6	7.0	EM_v_CC	CC	3
+Bench	Noah Fant	Sea	TE	6.7	6.7	EM_v_CC	CC	3
+Bench	Samaje Perine	Den	RB	4.9	14.1	EM_v_CC	CC	3
+QB	Jameis Winston	NO	QB	15.8	16.62	TN_v_SH	TN	3
+RB	Nick Chubb	Cle	RB	14.8	17.3	TN_v_SH	TN	3
+RB	Josh Jacobs	LV	RB	11.7	14.7	TN_v_SH	TN	3
+WR	Cooper Kupp	LAR	WR	21.7	16.4	TN_v_SH	TN	3
+WR	Deebo Samuel	SF	WR	17.7	12.9	TN_v_SH	TN	3
+TE	Mike Gesicki	NE	TE	5.6	1.6	TN_v_SH	TN	3
+FLEX	Diontae Johnson	Pit	WR	13.7	16.4	TN_v_SH	TN	3
+OP	Daniel Jones	NYG	QB	16.4	14.74	TN_v_SH	TN	3
+D/ST	Ravens	Bal	D/ST	6.4	10.0	TN_v_SH	TN	3
+Bench	Dalton Schultz	Hou	TE	0.0	0.0	TN_v_SH	TN	3
+Bench	Christian Kirk	Jax	WR	14.0	19.2	TN_v_SH	TN	3
+Bench	James Cook	Buf	RB	2.2	8.0	TN_v_SH	TN	3
+Bench	Mitch Trubisky	Pit	QB	15.2	14.98	TN_v_SH	TN	3
+Bench	Skyy Moore	KC	WR	1.4	-2.0	TN_v_SH	TN	3
+Bench	Mecole Hardman	KC	WR	11.3	1.2	TN_v_SH	TN	3
+Bench	Chargers	LAC	D/ST	7.3	-6.0	TN_v_SH	TN	3
+QB	Tom Brady	TB	QB	18.7	14.74	TN_v_SH	SH	3
+RB	Antonio Gibson	Wsh	RB	14.6	11.0	TN_v_SH	SH	3
+RB	Alvin Kamara	NO	RB	18.2	7.3	TN_v_SH	SH	3
+WR	Ja'Marr Chase	Cin	WR	18.1	12.7	TN_v_SH	SH	3
+WR	DJ Moore	Chi	WR	13.3	2.5	TN_v_SH	SH	3
+TE	Travis Kelce	KC	TE	16.1	17.9	TN_v_SH	SH	3
+FLEX	Russell Gage	TB	WR	12.3	24.7	TN_v_SH	SH	3
+OP	Aaron Rodgers	GB	QB	16.8	17.1	TN_v_SH	SH	3
+D/ST	49ers	SF	D/ST	5.6	11.0	TN_v_SH	SH	3
+Bench	Chris Godwin	TB	WR	0.0	0.0	TN_v_SH	SH	3
+Bench	Tyler Lockett	Sea	WR	12.4	16.6	TN_v_SH	SH	3
+Bench	Brian Robinson Jr.	Wsh	RB	0.0	0.0	TN_v_SH	SH	3
+Bench	Khalil Herbert	Chi	RB	6.3	30.9	TN_v_SH	SH	3
+Bench	D'Onta Foreman	Chi	RB	2.3	0.0	TN_v_SH	SH	3
+Bench	Mark Ingram II	NO	RB	5.5	7.8	TN_v_SH	SH	3
+Bench	Alec Pierce	Ind	WR	5.1	9.1	TN_v_SH	SH	3
+QB	Kyler Murray	Ari	QB	20.9	13.36	JK_v_CM	JK	3
+RB	Dalvin Cook	Min	RB	18.2	13.6	JK_v_CM	JK	3
+RB	Ezekiel Elliott	FA	RB	13.8	14.5	JK_v_CM	JK	3
+WR	Marquise Brown	Ari	WR	13.5	28.0	JK_v_CM	JK	3
+WR	Hunter Renfrow	LV	WR	0.0	0.0	JK_v_CM	JK	3
+TE	Mark Andrews	Bal	TE	15.7	28.9	JK_v_CM	JK	3
+FLEX	Sterling Shepard	NYG	WR	11.3	9.9	JK_v_CM	JK	3
+OP	Mac Jones	NE	QB	16.5	18.94	JK_v_CM	JK	3
+D/ST	Bills	Buf	D/ST	5.2	6.0	JK_v_CM	JK	3
+Bench	Mike Evans	TB	WR	0.0	0.0	JK_v_CM	JK	3
+Bench	Matt Ryan	FA	QB	15.5	15.28	JK_v_CM	JK	3
+Bench	Nyheim Hines	Buf	RB	9.1	8.0	JK_v_CM	JK	3
+Bench	Zach Ertz	Ari	TE	10.1	10.5	JK_v_CM	JK	3
+Bench	J.D. McKissic	FA	RB	9.2	10.0	JK_v_CM	JK	3
+Bench	Kenneth Gainwell	Phi	RB	6.2	0.6	JK_v_CM	JK	3
+Bench	DeVante Parker	NE	WR	9.5	20.6	JK_v_CM	JK	3
+QB	Kirk Cousins	Min	QB	19.1	18.3	JK_v_CM	CM	3
+RB	Leonard Fournette	FA	RB	17.6	12.0	JK_v_CM	CM	3
+RB	Javonte Williams	Den	RB	14.5	9.0	JK_v_CM	CM	3
+WR	Garrett Wilson	NYJ	WR	12.7	12.0	JK_v_CM	CM	3
+WR	Curtis Samuel	Wsh	WR	12.8	13.1	JK_v_CM	CM	3
+TE	Tyler Higbee	LAR	TE	11.5	10.1	JK_v_CM	CM	3
+FLEX	Gabe Davis	Buf	WR	13.7	6.7	JK_v_CM	CM	3
+OP	Justin Herbert	LAC	QB	21.0	13.58	JK_v_CM	CM	3
+D/ST	Cowboys	Dal	D/ST	8.2	10.0	JK_v_CM	CM	3
+Bench	Cam Akers	LAR	RB	10.8	10.1	JK_v_CM	CM	3
+Bench	Elijah Mitchell	SF	RB	0.0	0.0	JK_v_CM	CM	3
+Bench	Amari Cooper	Cle	WR	11.4	23.1	JK_v_CM	CM	3
+Bench	Damien Harris	Buf	RB	12.0	12.6	JK_v_CM	CM	3
+Bench	Dallas Goedert	Phi	TE	9.7	11.6	JK_v_CM	CM	3
+Bench	Michael Gallup	Dal	WR	8.4	0.0	JK_v_CM	CM	3
+Bench	Evan Engram	Jax	TE	8.5	3.9	JK_v_CM	CM	3
+QB	Lamar Jackson	Bal	QB	24.0	15.06	CC_v_JR	CC	4
+RB	Derrick Henry	Ten	RB	16.4	23.7	CC_v_JR	CC	4
+RB	James Conner	Ari	RB	15.2	10.7	CC_v_JR	CC	4
+WR	Brandin Cooks	Dal	WR	14.2	18.7	CC_v_JR	CC	4
+WR	Chris Olave	NO	WR	12.1	16.7	CC_v_JR	CC	4
+TE	Pat Freiermuth	Pit	TE	10.3	15.5	CC_v_JR	CC	4
+FLEX	Drake London	Atl	WR	14.2	3.7	CC_v_JR	CC	4
+OP	Joe Burrow	Cin	QB	19.3	20.08	CC_v_JR	CC	4
+D/ST	Packers	GB	D/ST	8.6	9.0	CC_v_JR	CC	4
+Bench	Amon-Ra St. Brown	Det	WR	0.0	0.0	CC_v_JR	CC	4
+Bench	Miles Sanders	Car	RB	12.6	29.6	CC_v_JR	CC	4
+Bench	Allen Robinson II	LAR	WR	10.8	2.7	CC_v_JR	CC	4
+Bench	Ryan Tannehill	Ten	QB	15.9	14.38	CC_v_JR	CC	4
+Bench	Rex Burkhead	Hou	RB	9.0	14.9	CC_v_JR	CC	4
+Bench	Noah Fant	Sea	TE	6.6	7.2	CC_v_JR	CC	4
+Bench	Samaje Perine	Den	RB	4.8	0.0	CC_v_JR	CC	4
+QB	Russell Wilson	Den	QB	18.6	27.48	CC_v_JR	JR	4
+RB	Jonathan Taylor	Ind	RB	21.2	3.3	CC_v_JR	JR	4
+RB	Breece Hall	NYJ	RB	12.2	15.8	CC_v_JR	JR	4
+WR	Tyreek Hill	Mia	WR	19.5	25.9	CC_v_JR	JR	4
+WR	Brandon Aiyuk	SF	WR	12.4	7.7	CC_v_JR	JR	4
+TE	T.J. Hockenson	Min	TE	10.8	39.9	CC_v_JR	JR	4
+FLEX	Devin Singletary	Hou	RB	12.8	11.6	CC_v_JR	JR	4
+OP	Derek Carr	NO	QB	17.0	11.52	CC_v_JR	JR	4
+D/ST	Commanders	Wsh	D/ST	7.1	5.0	CC_v_JR	JR	4
+Bench	Rhamondre Stevenson	NE	RB	11.8	12.9	CC_v_JR	JR	4
+Bench	Davis Mills	Hou	QB	15.0	15.84	CC_v_JR	JR	4
+Bench	George Pickens	Pit	WR	9.1	16.2	CC_v_JR	JR	4
+Bench	Robbie Anderson	FA	WR	10.2	5.6	CC_v_JR	JR	4
+Bench	Michael Carter	NYJ	RB	11.4	4.9	CC_v_JR	JR	4
+Bench	Jacoby Brissett	Wsh	QB	16.1	15.96	CC_v_JR	JR	4
+Bench	Mo Alie-Cox	Ind	TE	5.2	26.5	CC_v_JR	JR	4
+QB	Kirk Cousins	Min	QB	16.4	13.92	CM_v_MR	CM	4
+RB	Leonard Fournette	FA	RB	17.5	18.4	CM_v_MR	CM	4
+RB	Javonte Williams	Den	RB	15.1	3.7	CM_v_MR	CM	4
+WR	Garrett Wilson	NYJ	WR	13.3	6.1	CM_v_MR	CM	4
+WR	Curtis Samuel	Wsh	WR	14.3	7.8	CM_v_MR	CM	4
+TE	Tyler Higbee	LAR	TE	10.9	17.3	CM_v_MR	CM	4
+FLEX	Amari Cooper	Cle	WR	14.3	1.9	CM_v_MR	CM	4
+OP	Justin Herbert	LAC	QB	20.2	21.1	CM_v_MR	CM	4
+D/ST	Cowboys	Dal	D/ST	7.6	12.0	CM_v_MR	CM	4
+Bench	Cam Akers	LAR	RB	9.1	1.3	CM_v_MR	CM	4
+Bench	Elijah Mitchell	SF	RB	0.0	0.0	CM_v_MR	CM	4
+Bench	Gabe Davis	Buf	WR	12.8	2.3	CM_v_MR	CM	4
+Bench	Damien Harris	Buf	RB	11.2	15.4	CM_v_MR	CM	4
+Bench	Dallas Goedert	Phi	TE	9.6	12.2	CM_v_MR	CM	4
+Bench	Michael Gallup	Dal	WR	7.5	10.4	CM_v_MR	CM	4
+Bench	Evan Engram	Jax	TE	8.1	2.6	CM_v_MR	CM	4
+QB	Tua Tagovailoa	Mia	QB	19.1	3.4	CM_v_MR	MR	4
+RB	Austin Ekeler	LAC	RB	17.8	34.9	CM_v_MR	MR	4
+RB	Cordarrelle Patterson	Atl	RB	13.2	9.8	CM_v_MR	MR	4
+WR	Jaylen Waddle	Mia	WR	18.3	5.9	CM_v_MR	MR	4
+WR	Stefon Diggs	Buf	WR	20.7	10.2	CM_v_MR	MR	4
+TE	Tyler Conklin	NYJ	TE	8.7	8.2	CM_v_MR	MR	4
+FLEX	DeVonta Smith	Phi	WR	13.8	4.7	CM_v_MR	MR	4
+OP	Carson Wentz	FA	QB	16.7	9.3	CM_v_MR	MR	4
+D/ST	Eagles	Phi	D/ST	6.4	20.0	CM_v_MR	MR	4
+Bench	D'Andre Swift	Det	RB	0.0	0.0	CM_v_MR	MR	4
+Bench	Keenan Allen	LAC	WR	0.0	0.0	CM_v_MR	MR	4
+Bench	Rashaad Penny	Phi	RB	11.0	28.7	CM_v_MR	MR	4
+Bench	Jahan Dotson	Wsh	WR	9.4	13.3	CM_v_MR	MR	4
+Bench	Marcus Mariota	Phi	QB	18.5	4.86	CM_v_MR	MR	4
+Bench	Tony Pollard	Dal	RB	11.5	1.8	CM_v_MR	MR	4
+Bench	Elijah Moore	NYJ	WR	11.3	8.5	CM_v_MR	MR	4
+QB	Matthew Stafford	LAR	QB	17.4	7.76	MF_v_DW	MF	4
+RB	Najee Harris	Pit	RB	16.1	7.4	MF_v_DW	MF	4
+RB	Jeff Wilson Jr.	Mia	RB	14.7	13.4	MF_v_DW	MF	4
+WR	Tee Higgins	Cin	WR	14.6	25.4	MF_v_DW	MF	4
+WR	Mike Williams	LAC	WR	14.0	19.0	MF_v_DW	MF	4
+TE	David Njoku	Cle	TE	9.9	9.7	MF_v_DW	MF	4
+FLEX	Jerry Jeudy	Den	WR	11.8	15.3	MF_v_DW	MF	4
+OP	Baker Mayfield	TB	QB	16.2	7.88	MF_v_DW	MF	4
+D/ST	Bears	Chi	D/ST	7.1	7.0	MF_v_DW	MF	4
+Bench	J.K. Dobbins	Bal	RB	10.5	22.3	MF_v_DW	MF	4
+Bench	Kadarius Toney	KC	WR	0.0	0.0	MF_v_DW	MF	4
+Bench	Marquez Valdes-Scantling	KC	WR	11.3	9.3	MF_v_DW	MF	4
+Bench	Raheem Mostert	Mia	RB	9.4	10.1	MF_v_DW	MF	4
+Bench	Buccaneers	TB	D/ST	4.0	-1.0	MF_v_DW	MF	4
+Bench	Jamison Crowder	Buf	WR	4.0	1.7	MF_v_DW	MF	4
+Bench	George Kittle	SF	TE	11.5	4.4	MF_v_DW	MF	4
+QB	Andy Dalton	Car	QB	15.8	13.74	MF_v_DW	DW	4
+RB	Kareem Hunt	Cle	RB	12.1	8.8	MF_v_DW	DW	4
+RB	Christian McCaffrey	SF	RB	22.0	25.8	MF_v_DW	DW	4
+WR	CeeDee Lamb	Dal	WR	16.2	21.7	MF_v_DW	DW	4
+WR	Mack Hollins	LV	WR	10.8	6.3	MF_v_DW	DW	4
+TE	Darren Waller	NYG	TE	11.8	5.4	MF_v_DW	DW	4
+FLEX	JuJu Smith-Schuster	NE	WR	12.3	9.6	MF_v_DW	DW	4
+OP	Jimmy Garoppolo	LV	QB	15.3	13.86	MF_v_DW	DW	4
+D/ST	Giants	NYG	D/ST	8.3	18.0	MF_v_DW	DW	4
+Bench	Dak Prescott	Dal	QB	0.0	0.0	MF_v_DW	DW	4
+Bench	Michael Thomas	NO	WR	0.0	0.0	MF_v_DW	DW	4
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	MF_v_DW	DW	4
+Bench	DeAndre Hopkins	Ari	WR	0.0	0.0	MF_v_DW	DW	4
+Bench	Alexander Mattison	Min	RB	5.2	8.8	MF_v_DW	DW	4
+Bench	Treylon Burks	Ten	WR	10.0	3.8	MF_v_DW	DW	4
+Bench	Jameson Williams	Det	WR	0.0	0.0	MF_v_DW	DW	4
+QB	Tom Brady	TB	QB	18.1	25.4	SH_v_Zach White Commanders	SH	4
+RB	Khalil Herbert	Chi	RB	14.8	11.1	SH_v_Zach White Commanders	SH	4
+RB	Mark Ingram II	NO	RB	11.1	7.3	SH_v_Zach White Commanders	SH	4
+WR	Ja'Marr Chase	Cin	WR	19.5	12.1	SH_v_Zach White Commanders	SH	4
+WR	Tyler Lockett	Sea	WR	13.4	13.1	SH_v_Zach White Commanders	SH	4
+TE	Travis Kelce	KC	TE	16.6	24.2	SH_v_Zach White Commanders	SH	4
+FLEX	Jamaal Williams	NO	RB	14.1	23.9	SH_v_Zach White Commanders	SH	4
+OP	Aaron Rodgers	GB	QB	17.3	17.14	SH_v_Zach White Commanders	SH	4
+D/ST	49ers	SF	D/ST	7.6	23.0	SH_v_Zach White Commanders	SH	4
+Bench	DJ Moore	Chi	WR	13.5	12.1	SH_v_Zach White Commanders	SH	4
+Bench	Chris Godwin	TB	WR	11.5	12.9	SH_v_Zach White Commanders	SH	4
+Bench	Antonio Gibson	Wsh	RB	13.5	9.3	SH_v_Zach White Commanders	SH	4
+Bench	Brian Robinson Jr.	Wsh	RB	0.0	0.0	SH_v_Zach White Commanders	SH	4
+Bench	D'Onta Foreman	Chi	RB	1.1	0.2	SH_v_Zach White Commanders	SH	4
+Bench	Russell Gage	TB	WR	7.7	4.4	SH_v_Zach White Commanders	SH	4
+Bench	Alvin Kamara	NO	RB	0.0	0.0	SH_v_Zach White Commanders	SH	4
+QB	Patrick Mahomes	KC	QB	21.3	24.36	SH_v_Zach White Commanders	Zach White Commanders	4
+RB	Joe Mixon	Cin	RB	17.2	17.4	SH_v_Zach White Commanders	Zach White Commanders	4
+RB	Saquon Barkley	NYG	RB	19.5	18.2	SH_v_Zach White Commanders	Zach White Commanders	4
+WR	A.J. Brown	Phi	WR	17.4	14.5	SH_v_Zach White Commanders	Zach White Commanders	4
+WR	Courtland Sutton	Den	WR	15.4	16.2	SH_v_Zach White Commanders	Zach White Commanders	4
+TE	Kyle Pitts	Atl	TE	11.4	3.5	SH_v_Zach White Commanders	Zach White Commanders	4
+FLEX	Rashod Bateman	Bal	WR	12.2	4.7	SH_v_Zach White Commanders	Zach White Commanders	4
+OP	Jared Goff	Det	QB	18.1	34.22	SH_v_Zach White Commanders	Zach White Commanders	4
+D/ST	Patriots	NE	D/ST	5.5	9.0	SH_v_Zach White Commanders	Zach White Commanders	4
+Bench	David Montgomery	Det	RB	0.0	0.0	SH_v_Zach White Commanders	Zach White Commanders	4
+Bench	Melvin Gordon III	FA	RB	10.4	-1.2	SH_v_Zach White Commanders	Zach White Commanders	4
+Bench	Kenny Pickett	Pit	QB	0.0	15.3	SH_v_Zach White Commanders	Zach White Commanders	4
+Bench	Darrell Henderson Jr.	FA	RB	8.0	6.9	SH_v_Zach White Commanders	Zach White Commanders	4
+Bench	Robert Woods	FA	WR	10.3	13.0	SH_v_Zach White Commanders	Zach White Commanders	4
+Bench	Adam Thielen	FA	WR	10.3	15.2	SH_v_Zach White Commanders	Zach White Commanders	4
+Bench	Romeo Doubs	GB	WR	11.0	13.7	SH_v_Zach White Commanders	Zach White Commanders	4
+QB	Josh Allen	Buf	QB	25.9	24.52	EM_v_TN	EM	4
+RB	Aaron Jones	GB	RB	14.7	14.5	EM_v_TN	EM	4
+RB	Clyde Edwards-Helaire	KC	RB	11.9	22.4	EM_v_TN	EM	4
+WR	Davante Adams	LV	WR	17.1	19.5	EM_v_TN	EM	4
+WR	DK Metcalf	Sea	WR	12.9	21.9	EM_v_TN	EM	4
+TE	Dawson Knox	Buf	TE	8.5	7.0	EM_v_TN	EM	4
+FLEX	James Robinson	NE	RB	13.7	2.9	EM_v_TN	EM	4
+OP	Trevor Lawrence	Jax	QB	17.6	6.66	EM_v_TN	EM	4
+D/ST	Steelers	Pit	D/ST	7.4	5.0	EM_v_TN	EM	4
+Bench	Terry McLaurin	Wsh	WR	13.7	3.5	EM_v_TN	EM	4
+Bench	Darnell Mooney	Chi	WR	8.3	13.4	EM_v_TN	EM	4
+Bench	Chase Claypool	Chi	WR	11.5	0.0	EM_v_TN	EM	4
+Bench	Hunter Henry	NE	TE	4.2	3.3	EM_v_TN	EM	4
+Bench	Jarvis Landry	NO	WR	10.8	4.7	EM_v_TN	EM	4
+Bench	Marvin Jones Jr.	Jax	WR	10.9	0.0	EM_v_TN	EM	4
+Bench	Jerick McKinnon	KC	RB	7.3	1.0	EM_v_TN	EM	4
+QB	Daniel Jones	NYG	QB	17.2	21.64	EM_v_TN	TN	4
+RB	Nick Chubb	Cle	RB	16.4	20.7	EM_v_TN	TN	4
+RB	Josh Jacobs	LV	RB	13.2	34.5	EM_v_TN	TN	4
+WR	Cooper Kupp	LAR	WR	20.4	26.2	EM_v_TN	TN	4
+WR	Deebo Samuel	SF	WR	18.8	23.7	EM_v_TN	TN	4
+TE	Gerald Everett	LAC	TE	8.7	17.1	EM_v_TN	TN	4
+FLEX	Diontae Johnson	Pit	WR	14.4	4.2	EM_v_TN	TN	4
+OP	Christian Kirk	Jax	WR	15.6	8.3	EM_v_TN	TN	4
+D/ST	Chargers	LAC	D/ST	8.2	9.0	EM_v_TN	TN	4
+Bench	Jameis Winston	NO	QB	0.0	0.0	EM_v_TN	TN	4
+Bench	Dalton Schultz	Hou	TE	8.9	0.0	EM_v_TN	TN	4
+Bench	James Cook	Buf	RB	3.3	0.0	EM_v_TN	TN	4
+Bench	Ravens	Bal	D/ST	3.5	6.0	EM_v_TN	TN	4
+Bench	Mike Gesicki	NE	TE	4.3	4.3	EM_v_TN	TN	4
+Bench	Mecole Hardman	KC	WR	8.4	1.4	EM_v_TN	TN	4
+Bench	Rondale Moore	Ari	WR	7.0	3.7	EM_v_TN	TN	4
+QB	Jalen Hurts	Phi	QB	24.7	16.96	AY_v_JK	AY	4
+RB	Dameon Pierce	Hou	RB	12.5	25.9	AY_v_JK	AY	4
+RB	AJ Dillon	GB	RB	12.8	9.4	AY_v_JK	AY	4
+WR	Justin Jefferson	Min	WR	17.9	31.0	AY_v_JK	AY	4
+WR	Michael Pittman Jr.	Ind	WR	15.0	6.1	AY_v_JK	AY	4
+TE	Robert Tonyan	Chi	TE	8.3	10.2	AY_v_JK	AY	4
+FLEX	Isaiah McKenzie	FA	WR	9.6	12.1	AY_v_JK	AY	4
+OP	Geno Smith	Sea	QB	18.0	31.7	AY_v_JK	AY	4
+D/ST	Vikings	Min	D/ST	7.9	8.0	AY_v_JK	AY	4
+Bench	Travis Etienne Jr.	Jax	RB	9.7	3.2	AY_v_JK	AY	4
+Bench	Chase Edmonds	TB	RB	11.2	10.0	AY_v_JK	AY	4
+Bench	Allen Lazard	NYJ	WR	11.2	17.6	AY_v_JK	AY	4
+Bench	Zach Wilson	NYJ	QB	16.2	20.78	AY_v_JK	AY	4
+Bench	Kenneth Walker III	Sea	RB	6.6	3.4	AY_v_JK	AY	4
+Bench	Jaylen Warren	Pit	RB	4.3	3.2	AY_v_JK	AY	4
+Bench	Jakobi Meyers	LV	WR	0.0	0.0	AY_v_JK	AY	4
+QB	Kyler Murray	Ari	QB	18.8	23.88	AY_v_JK	JK	4
+RB	Dalvin Cook	Min	RB	15.4	10.6	AY_v_JK	JK	4
+RB	Ezekiel Elliott	FA	RB	13.1	10.1	AY_v_JK	JK	4
+WR	Mike Evans	TB	WR	15.1	30.3	AY_v_JK	JK	4
+WR	Marquise Brown	Ari	WR	14.7	20.8	AY_v_JK	JK	4
+TE	Mark Andrews	Bal	TE	16.7	3.5	AY_v_JK	JK	4
+FLEX	Zach Ertz	Ari	TE	10.4	16.7	AY_v_JK	JK	4
+OP	Matt Ryan	FA	QB	15.3	18.84	AY_v_JK	JK	4
+D/ST	Bills	Buf	D/ST	4.4	8.0	AY_v_JK	JK	4
+Bench	Hunter Renfrow	LV	WR	0.0	0.0	AY_v_JK	JK	4
+Bench	Mac Jones	NE	QB	0.0	0.0	AY_v_JK	JK	4
+Bench	Nyheim Hines	Buf	RB	9.5	2.3	AY_v_JK	JK	4
+Bench	J.D. McKissic	FA	RB	9.2	8.6	AY_v_JK	JK	4
+Bench	Kenneth Gainwell	Phi	RB	6.7	8.7	AY_v_JK	JK	4
+Bench	DeVante Parker	NE	WR	10.4	10.4	AY_v_JK	JK	4
+Bench	Richie James	NYG	WR	10.6	-0.1	AY_v_JK	JK	4
+QB	Russell Wilson	Den	QB	17.9	11.16	JR_v_EM	JR	5
+RB	Devin Singletary	Hou	RB	13.8	5.6	JR_v_EM	JR	5
+RB	Rhamondre Stevenson	NE	RB	13.4	19.5	JR_v_EM	JR	5
+WR	Tyreek Hill	Mia	WR	19.2	13.0	JR_v_EM	JR	5
+WR	Brandon Aiyuk	SF	WR	10.8	8.8	JR_v_EM	JR	5
+TE	T.J. Hockenson	Min	TE	13.1	1.6	JR_v_EM	JR	5
+FLEX	George Pickens	Pit	WR	9.9	14.3	JR_v_EM	JR	5
+OP	Derek Carr	NO	QB	18.6	17.94	JR_v_EM	JR	5
+D/ST	Commanders	Wsh	D/ST	6.5	7.0	JR_v_EM	JR	5
+Bench	Jonathan Taylor	Ind	RB	0.0	0.0	JR_v_EM	JR	5
+Bench	Breece Hall	NYJ	RB	13.0	27.7	JR_v_EM	JR	5
+Bench	Davis Mills	Hou	QB	13.7	5.8	JR_v_EM	JR	5
+Bench	Robbie Anderson	FA	WR	8.8	4.2	JR_v_EM	JR	5
+Bench	Michael Carter	NYJ	RB	10.3	17.3	JR_v_EM	JR	5
+Bench	Jacoby Brissett	Wsh	QB	16.0	15.4	JR_v_EM	JR	5
+Bench	Mo Alie-Cox	Ind	TE	6.4	1.7	JR_v_EM	JR	5
+QB	Josh Allen	Buf	QB	24.4	36.16	JR_v_EM	EM	5
+RB	Aaron Jones	GB	RB	14.8	10.0	JR_v_EM	EM	5
+RB	Clyde Edwards-Helaire	KC	RB	14.1	6.5	JR_v_EM	EM	5
+WR	Davante Adams	LV	WR	20.0	27.4	JR_v_EM	EM	5
+WR	DK Metcalf	Sea	WR	15.5	17.8	JR_v_EM	EM	5
+TE	Will Dissly	Sea	TE	6.3	4.1	JR_v_EM	EM	5
+FLEX	James Robinson	NE	RB	13.0	5.9	JR_v_EM	EM	5
+OP	Trevor Lawrence	Jax	QB	17.9	12.34	JR_v_EM	EM	5
+D/ST	Titans	Ten	D/ST	6.9	5.0	JR_v_EM	EM	5
+Bench	Terry McLaurin	Wsh	WR	13.2	12.6	JR_v_EM	EM	5
+Bench	Dawson Knox	Buf	TE	0.0	0.0	JR_v_EM	EM	5
+Bench	Darnell Mooney	Chi	WR	8.5	7.2	JR_v_EM	EM	5
+Bench	Chase Claypool	Chi	WR	8.4	10.0	JR_v_EM	EM	5
+Bench	Hunter Henry	NE	TE	6.3	9.4	JR_v_EM	EM	5
+Bench	Jarvis Landry	NO	WR	0.1	0.0	JR_v_EM	EM	5
+Bench	Steelers	Pit	D/ST	3.7	-3.0	JR_v_EM	EM	5
+QB	Kyler Murray	Ari	QB	18.9	17.2	JK_v_MR	JK	5
+RB	Dalvin Cook	Min	RB	15.7	26.1	JK_v_MR	JK	5
+RB	Ezekiel Elliott	FA	RB	12.3	7.8	JK_v_MR	JK	5
+WR	Mike Evans	TB	WR	15.1	12.1	JK_v_MR	JK	5
+WR	Marquise Brown	Ari	WR	15.9	21.8	JK_v_MR	JK	5
+TE	Mark Andrews	Bal	TE	15.8	22.9	JK_v_MR	JK	5
+FLEX	Hunter Renfrow	LV	WR	12.1	6.5	JK_v_MR	JK	5
+OP	Matt Ryan	FA	QB	14.5	8.14	JK_v_MR	JK	5
+D/ST	Bills	Buf	D/ST	9.0	10.0	JK_v_MR	JK	5
+Bench	Mac Jones	NE	QB	0.0	0.0	JK_v_MR	JK	5
+Bench	Nyheim Hines	Buf	RB	12.5	1.8	JK_v_MR	JK	5
+Bench	Zach Ertz	Ari	TE	11.1	10.8	JK_v_MR	JK	5
+Bench	J.D. McKissic	FA	RB	9.1	8.7	JK_v_MR	JK	5
+Bench	DeVante Parker	NE	WR	7.2	0.0	JK_v_MR	JK	5
+Bench	Richie James	NYG	WR	9.1	3.6	JK_v_MR	JK	5
+Bench	Andy Dalton	Car	QB	17.9	10.88	JK_v_MR	JK	5
+QB	Marcus Mariota	Phi	QB	15.7	17.98	JK_v_MR	MR	5
+RB	Austin Ekeler	LAC	RB	18.5	35.9	JK_v_MR	MR	5
+RB	Najee Harris	Pit	RB	13.0	6.6	JK_v_MR	MR	5
+WR	Jaylen Waddle	Mia	WR	15.3	5.3	JK_v_MR	MR	5
+WR	Stefon Diggs	Buf	WR	18.6	24.2	JK_v_MR	MR	5
+TE	George Kittle	SF	TE	9.0	7.7	JK_v_MR	MR	5
+FLEX	DeVonta Smith	Phi	WR	12.8	18.7	JK_v_MR	MR	5
+OP	Justin Fields	Chi	QB	13.3	17.02	JK_v_MR	MR	5
+D/ST	Eagles	Phi	D/ST	7.2	3.0	JK_v_MR	MR	5
+Bench	Keenan Allen	LAC	WR	0.0	0.0	JK_v_MR	MR	5
+Bench	Tua Tagovailoa	Mia	QB	0.0	0.0	JK_v_MR	MR	5
+Bench	Cordarrelle Patterson	Atl	RB	0.0	0.0	JK_v_MR	MR	5
+Bench	Rashaad Penny	Phi	RB	9.1	5.4	JK_v_MR	MR	5
+Bench	Tony Pollard	Dal	RB	10.6	14.6	JK_v_MR	MR	5
+Bench	Tyler Allgeier	Atl	RB	8.7	4.5	JK_v_MR	MR	5
+Bench	Kadarius Toney	KC	WR	0.0	0.0	JK_v_MR	MR	5
+QB	Matthew Stafford	LAR	QB	15.9	11.32	MF_v_CM	MF	5
+RB	J.K. Dobbins	Bal	RB	13.1	4.4	MF_v_CM	MF	5
+RB	Jeff Wilson Jr.	Mia	RB	14.9	20.2	MF_v_CM	MF	5
+WR	Tee Higgins	Cin	WR	16.5	0.0	MF_v_CM	MF	5
+WR	Mike Williams	LAC	WR	15.8	23.4	MF_v_CM	MF	5
+TE	David Njoku	Cle	TE	10.9	14.8	MF_v_CM	MF	5
+FLEX	Jerry Jeudy	Den	WR	11.2	8.3	MF_v_CM	MF	5
+OP	Carson Wentz	FA	QB	18.1	22.86	MF_v_CM	MF	5
+D/ST	Buccaneers	TB	D/ST	7.7	9.0	MF_v_CM	MF	5
+Bench	Marquez Valdes-Scantling	KC	WR	11.1	15.0	MF_v_CM	MF	5
+Bench	Raheem Mostert	Mia	RB	12.1	19.2	MF_v_CM	MF	5
+Bench	Jamison Crowder	Buf	WR	0.0	0.0	MF_v_CM	MF	5
+Bench	Baker Mayfield	TB	QB	12.5	7.6	MF_v_CM	MF	5
+Bench	Tyler Conklin	NYJ	TE	9.0	0.0	MF_v_CM	MF	5
+Bench	Jahan Dotson	Wsh	WR	0.0	0.0	MF_v_CM	MF	5
+Bench	D'Andre Swift	Det	RB	0.0	0.0	MF_v_CM	MF	5
+QB	Justin Herbert	LAC	QB	22.3	14.42	MF_v_CM	CM	5
+RB	Leonard Fournette	FA	RB	15.8	35.9	MF_v_CM	CM	5
+RB	Damien Harris	Buf	RB	13.4	2.2	MF_v_CM	CM	5
+WR	Amari Cooper	Cle	WR	12.7	20.6	MF_v_CM	CM	5
+WR	Curtis Samuel	Wsh	WR	13.8	12.2	MF_v_CM	CM	5
+TE	Tyler Higbee	LAR	TE	12.3	11.6	MF_v_CM	CM	5
+FLEX	Garrett Wilson	NYJ	WR	13.0	5.7	MF_v_CM	CM	5
+OP	Kirk Cousins	Min	QB	16.7	23.24	MF_v_CM	CM	5
+D/ST	Cowboys	Dal	D/ST	8.4	24.0	MF_v_CM	CM	5
+Bench	Cam Akers	LAR	RB	7.9	3.3	MF_v_CM	CM	5
+Bench	Elijah Mitchell	SF	RB	0.0	0.0	MF_v_CM	CM	5
+Bench	Gabe Davis	Buf	WR	12.5	32.1	MF_v_CM	CM	5
+Bench	Dallas Goedert	Phi	TE	10.1	17.5	MF_v_CM	CM	5
+Bench	Michael Gallup	Dal	WR	9.5	8.4	MF_v_CM	CM	5
+Bench	Mike Boone	Hou	RB	7.9	11.5	MF_v_CM	CM	5
+Bench	Elijah Moore	NYJ	WR	11.3	2.1	MF_v_CM	CM	5
+QB	Daniel Jones	NYG	QB	16.1	12.38	TN_v_Zach White Commanders	TN	5
+RB	Nick Chubb	Cle	RB	18.1	25.4	TN_v_Zach White Commanders	TN	5
+RB	Josh Jacobs	LV	RB	13.7	30.3	TN_v_Zach White Commanders	TN	5
+WR	Cooper Kupp	LAR	WR	21.5	25.9	TN_v_Zach White Commanders	TN	5
+WR	Deebo Samuel	SF	WR	16.2	11.2	TN_v_Zach White Commanders	TN	5
+TE	Gerald Everett	LAC	TE	11.1	1.2	TN_v_Zach White Commanders	TN	5
+FLEX	Diontae Johnson	Pit	WR	13.5	11.0	TN_v_Zach White Commanders	TN	5
+OP	Christian Kirk	Jax	WR	15.9	2.1	TN_v_Zach White Commanders	TN	5
+D/ST	Ravens	Bal	D/ST	6.1	8.0	TN_v_Zach White Commanders	TN	5
+Bench	Jameis Winston	NO	QB	0.0	0.0	TN_v_Zach White Commanders	TN	5
+Bench	Dalton Schultz	Hou	TE	8.9	0.0	TN_v_Zach White Commanders	TN	5
+Bench	James Cook	Buf	RB	3.0	9.1	TN_v_Zach White Commanders	TN	5
+Bench	Mike Gesicki	NE	TE	4.4	4.0	TN_v_Zach White Commanders	TN	5
+Bench	Mecole Hardman	KC	WR	7.2	12.0	TN_v_Zach White Commanders	TN	5
+Bench	Chargers	LAC	D/ST	4.8	-2.0	TN_v_Zach White Commanders	TN	5
+Bench	Rondale Moore	Ari	WR	10.2	13.1	TN_v_Zach White Commanders	TN	5
+QB	Patrick Mahomes	KC	QB	24.0	30.48	TN_v_Zach White Commanders	Zach White Commanders	5
+RB	Saquon Barkley	NYG	RB	19.6	19.6	TN_v_Zach White Commanders	Zach White Commanders	5
+RB	Christian McCaffrey	SF	RB	18.1	23.4	TN_v_Zach White Commanders	Zach White Commanders	5
+WR	Courtland Sutton	Den	WR	16.1	12.4	TN_v_Zach White Commanders	Zach White Commanders	5
+WR	Robert Woods	FA	WR	12.1	7.7	TN_v_Zach White Commanders	Zach White Commanders	5
+TE	Darren Waller	NYG	TE	11.4	0.0	TN_v_Zach White Commanders	Zach White Commanders	5
+FLEX	David Montgomery	Det	RB	14.4	18.2	TN_v_Zach White Commanders	Zach White Commanders	5
+OP	Jared Goff	Det	QB	18.0	6.86	TN_v_Zach White Commanders	Zach White Commanders	5
+D/ST	Jaguars	Jax	D/ST	8.4	6.0	TN_v_Zach White Commanders	Zach White Commanders	5
+Bench	Rashod Bateman	Bal	WR	0.0	0.0	TN_v_Zach White Commanders	Zach White Commanders	5
+Bench	Melvin Gordon III	FA	RB	13.5	13.3	TN_v_Zach White Commanders	Zach White Commanders	5
+Bench	Kenny Pickett	Pit	QB	13.1	13.08	TN_v_Zach White Commanders	Zach White Commanders	5
+Bench	Darrell Henderson Jr.	FA	RB	8.7	7.0	TN_v_Zach White Commanders	Zach White Commanders	5
+Bench	Adam Thielen	FA	WR	11.9	6.7	TN_v_Zach White Commanders	Zach White Commanders	5
+Bench	Michael Thomas	NO	WR	0.0	0.0	TN_v_Zach White Commanders	Zach White Commanders	5
+Bench	Isiah Pacheco	KC	RB	4.8	0.0	TN_v_Zach White Commanders	Zach White Commanders	5
+QB	Teddy Bridgewater	Mia	QB	17.9	0.0	DW_v_AY	DW	5
+RB	Kareem Hunt	Cle	RB	11.8	14.7	DW_v_AY	DW	5
+RB	Joe Mixon	Cin	RB	17.7	11.8	DW_v_AY	DW	5
+WR	Romeo Doubs	GB	WR	12.2	5.9	DW_v_AY	DW	5
+WR	A.J. Brown	Phi	WR	17.0	6.2	DW_v_AY	DW	5
+TE	Empty	--	--	--	--	DW_v_AY	DW	5
+FLEX	CeeDee Lamb	Dal	WR	17.8	10.3	DW_v_AY	DW	5
+OP	Jimmy Garoppolo	LV	QB	11.9	18.02	DW_v_AY	DW	5
+D/ST	Broncos	Den	D/ST	8.1	16.0	DW_v_AY	DW	5
+Bench	Dak Prescott	Dal	QB	0.0	0.0	DW_v_AY	DW	5
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	DW_v_AY	DW	5
+Bench	DeAndre Hopkins	Ari	WR	0.0	0.0	DW_v_AY	DW	5
+Bench	Alexander Mattison	Min	RB	4.6	7.0	DW_v_AY	DW	5
+Bench	JuJu Smith-Schuster	NE	WR	12.8	6.3	DW_v_AY	DW	5
+Bench	Jameson Williams	Det	WR	0.0	0.0	DW_v_AY	DW	5
+Bench	Rachaad White	TB	RB	7.9	7.2	DW_v_AY	DW	5
+Bench	Kyle Pitts	Atl	TE	0.0	0.0	DW_v_AY	DW	5
+QB	Jalen Hurts	Phi	QB	25.4	27.66	DW_v_AY	AY	5
+RB	Dameon Pierce	Hou	RB	13.7	20.3	DW_v_AY	AY	5
+RB	AJ Dillon	GB	RB	12.4	3.4	DW_v_AY	AY	5
+WR	Justin Jefferson	Min	WR	18.4	30.32	DW_v_AY	AY	5
+WR	Michael Pittman Jr.	Ind	WR	14.9	10.9	DW_v_AY	AY	5
+TE	Taysom Hill	NO	TE	4.8	34.08	DW_v_AY	AY	5
+FLEX	Isaiah McKenzie	FA	WR	0.0	0.0	DW_v_AY	AY	5
+OP	Geno Smith	Sea	QB	17.6	24.02	DW_v_AY	AY	5
+D/ST	Vikings	Min	D/ST	8.1	8.0	DW_v_AY	AY	5
+Bench	Travis Etienne Jr.	Jax	RB	10.3	14.4	DW_v_AY	AY	5
+Bench	Chase Edmonds	TB	RB	9.3	0.1	DW_v_AY	AY	5
+Bench	Allen Lazard	NYJ	WR	11.7	13.5	DW_v_AY	AY	5
+Bench	Zach Wilson	NYJ	QB	17.7	14.6	DW_v_AY	AY	5
+Bench	Kenneth Walker III	Sea	RB	5.7	14.8	DW_v_AY	AY	5
+Bench	Jaylen Warren	Pit	RB	3.0	10.3	DW_v_AY	AY	5
+Bench	Jakobi Meyers	LV	WR	10.0	24.1	DW_v_AY	AY	5
+QB	Lamar Jackson	Bal	QB	23.9	15.76	CC_v_SH	CC	5
+RB	Derrick Henry	Ten	RB	18.1	27.2	CC_v_SH	CC	5
+RB	Miles Sanders	Car	RB	13.9	8.4	CC_v_SH	CC	5
+WR	Brandin Cooks	Dal	WR	13.8	6.0	CC_v_SH	CC	5
+WR	Amon-Ra St. Brown	Det	WR	17.9	5.8	CC_v_SH	CC	5
+TE	Pat Freiermuth	Pit	TE	11.4	3.2	CC_v_SH	CC	5
+FLEX	Drake London	Atl	WR	14.8	7.5	CC_v_SH	CC	5
+OP	Joe Burrow	Cin	QB	20.6	18.28	CC_v_SH	CC	5
+D/ST	Packers	GB	D/ST	7.0	3.0	CC_v_SH	CC	5
+Bench	James Conner	Ari	RB	12.9	7.3	CC_v_SH	CC	5
+Bench	Allen Robinson II	LAR	WR	9.1	4.2	CC_v_SH	CC	5
+Bench	Chris Olave	NO	WR	13.7	15.4	CC_v_SH	CC	5
+Bench	Ryan Tannehill	Ten	QB	16.8	11.54	CC_v_SH	CC	5
+Bench	Rex Burkhead	Hou	RB	9.0	4.8	CC_v_SH	CC	5
+Bench	Noah Fant	Sea	TE	5.4	7.9	CC_v_SH	CC	5
+Bench	Samaje Perine	Den	RB	3.8	9.6	CC_v_SH	CC	5
+QB	Aaron Rodgers	GB	QB	16.7	16.88	CC_v_SH	SH	5
+RB	Alvin Kamara	NO	RB	17.7	23.4	CC_v_SH	SH	5
+RB	Jamaal Williams	NO	RB	16.0	5.6	CC_v_SH	SH	5
+WR	Ja'Marr Chase	Cin	WR	18.2	12.0	CC_v_SH	SH	5
+WR	Tyler Lockett	Sea	WR	14.8	27.4	CC_v_SH	SH	5
+TE	Travis Kelce	KC	TE	17.8	33.5	CC_v_SH	SH	5
+FLEX	Chris Godwin	TB	WR	15.4	12.3	CC_v_SH	SH	5
+OP	Tom Brady	TB	QB	20.8	19.74	CC_v_SH	SH	5
+D/ST	49ers	SF	D/ST	9.5	16.0	CC_v_SH	SH	5
+Bench	DJ Moore	Chi	WR	12.2	10.7	CC_v_SH	SH	5
+Bench	Antonio Gibson	Wsh	RB	11.2	6.9	CC_v_SH	SH	5
+Bench	Brian Robinson Jr.	Wsh	RB	5.2	2.2	CC_v_SH	SH	5
+Bench	Khalil Herbert	Chi	RB	9.5	1.1	CC_v_SH	SH	5
+Bench	D'Onta Foreman	Chi	RB	0.8	0.2	CC_v_SH	SH	5
+Bench	Mark Ingram II	NO	RB	5.4	3.6	CC_v_SH	SH	5
+Bench	Russell Gage	TB	WR	10.3	6.0	CC_v_SH	SH	5
+QB	Jimmy Garoppolo	LV	QB	13.6	18.94	DW_v_JR	DW	6
+RB	Kareem Hunt	Cle	RB	11.0	1.2	DW_v_JR	DW	6
+RB	Joe Mixon	Cin	RB	16.5	16.8	DW_v_JR	DW	6
+WR	A.J. Brown	Phi	WR	15.3	17.7	DW_v_JR	DW	6
+WR	Devin Duvernay	Bal	WR	11.2	2.4	DW_v_JR	DW	6
+TE	Kyle Pitts	Atl	TE	9.4	10.9	DW_v_JR	DW	6
+FLEX	CeeDee Lamb	Dal	WR	17.1	12.7	DW_v_JR	DW	6
+OP	Bailey Zappe	NE	QB	13.6	18.36	DW_v_JR	DW	6
+D/ST	Bears	Chi	D/ST	6.8	9.0	DW_v_JR	DW	6
+Bench	Dak Prescott	Dal	QB	0.0	0.0	DW_v_JR	DW	6
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	DW_v_JR	DW	6
+Bench	DeAndre Hopkins	Ari	WR	0.0	0.0	DW_v_JR	DW	6
+Bench	Alexander Mattison	Min	RB	6.2	0.3	DW_v_JR	DW	6
+Bench	Jameson Williams	Det	WR	0.0	0.0	DW_v_JR	DW	6
+Bench	Romeo Doubs	GB	WR	11.7	6.1	DW_v_JR	DW	6
+Bench	Keaontay Ingram	Ari	RB	5.6	0.7	DW_v_JR	DW	6
+QB	Russell Wilson	Den	QB	17.6	13.82	DW_v_JR	JR	6
+RB	Breece Hall	NYJ	RB	16.2	20.1	DW_v_JR	JR	6
+RB	Rhamondre Stevenson	NE	RB	15.7	25.1	DW_v_JR	JR	6
+WR	Tyreek Hill	Mia	WR	17.4	29.7	DW_v_JR	JR	6
+WR	George Pickens	Pit	WR	10.0	5.8	DW_v_JR	JR	6
+TE	Mo Alie-Cox	Ind	TE	5.2	0.0	DW_v_JR	JR	6
+FLEX	Devin Singletary	Hou	RB	12.7	14.7	DW_v_JR	JR	6
+OP	Geno Smith	Sea	QB	20.2	12.68	DW_v_JR	JR	6
+D/ST	Commanders	Wsh	D/ST	6.6	12.0	DW_v_JR	JR	6
+Bench	T.J. Hockenson	Min	TE	0.0	0.0	DW_v_JR	JR	6
+Bench	Davis Mills	Hou	QB	0.0	0.0	DW_v_JR	JR	6
+Bench	Robbie Anderson	FA	WR	8.1	0.0	DW_v_JR	JR	6
+Bench	Michael Carter	NYJ	RB	9.0	5.7	DW_v_JR	JR	6
+Bench	Jacoby Brissett	Wsh	QB	14.3	10.64	DW_v_JR	JR	6
+Bench	Allen Lazard	NYJ	WR	12.2	17.6	DW_v_JR	JR	6
+Bench	Dameon Pierce	Hou	RB	0.0	0.0	DW_v_JR	JR	6
+QB	Justin Herbert	LAC	QB	18.7	9.42	MR_v_Zach White Commanders	MR	6
+RB	Tyler Allgeier	Atl	RB	8.5	5.1	MR_v_Zach White Commanders	MR	6
+RB	Najee Harris	Pit	RB	12.2	12.9	MR_v_Zach White Commanders	MR	6
+WR	Jaylen Waddle	Mia	WR	12.9	16.9	MR_v_Zach White Commanders	MR	6
+WR	Stefon Diggs	Buf	WR	20.9	30.8	MR_v_Zach White Commanders	MR	6
+TE	Dallas Goedert	Phi	TE	9.9	4.2	MR_v_Zach White Commanders	MR	6
+FLEX	Tyler Boyd	Cin	WR	6.9	12.6	MR_v_Zach White Commanders	MR	6
+OP	Justin Fields	Chi	QB	13.2	19.4	MR_v_Zach White Commanders	MR	6
+D/ST	Eagles	Phi	D/ST	7.3	7.0	MR_v_Zach White Commanders	MR	6
+Bench	Keenan Allen	LAC	WR	0.0	0.0	MR_v_Zach White Commanders	MR	6
+Bench	Tua Tagovailoa	Mia	QB	0.0	0.0	MR_v_Zach White Commanders	MR	6
+Bench	Cordarrelle Patterson	Atl	RB	0.0	0.0	MR_v_Zach White Commanders	MR	6
+Bench	Skylar Thompson	Mia	QB	15.4	4.46	MR_v_Zach White Commanders	MR	6
+Bench	Michael Gallup	Dal	WR	9.5	3.8	MR_v_Zach White Commanders	MR	6
+Bench	Damien Harris	Buf	RB	0.0	0.0	MR_v_Zach White Commanders	MR	6
+Bench	Cam Akers	LAR	RB	0.0	0.0	MR_v_Zach White Commanders	MR	6
+QB	Patrick Mahomes	KC	QB	21.8	21.62	MR_v_Zach White Commanders	Zach White Commanders	6
+RB	David Montgomery	Det	RB	16.0	9.0	MR_v_Zach White Commanders	Zach White Commanders	6
+RB	Christian McCaffrey	SF	RB	21.0	22.8	MR_v_Zach White Commanders	Zach White Commanders	6
+WR	Courtland Sutton	Den	WR	16.8	3.4	MR_v_Zach White Commanders	Zach White Commanders	6
+WR	Adam Thielen	FA	WR	11.6	15.6	MR_v_Zach White Commanders	Zach White Commanders	6
+TE	Hayden Hurst	Car	TE	8.2	5.1	MR_v_Zach White Commanders	Zach White Commanders	6
+FLEX	Saquon Barkley	NYG	RB	23.3	18.5	MR_v_Zach White Commanders	Zach White Commanders	6
+OP	Kenny Pickett	Pit	QB	13.6	8.28	MR_v_Zach White Commanders	Zach White Commanders	6
+D/ST	Jaguars	Jax	D/ST	8.1	-3.0	MR_v_Zach White Commanders	Zach White Commanders	6
+Bench	Rashod Bateman	Bal	WR	0.0	0.0	MR_v_Zach White Commanders	Zach White Commanders	6
+Bench	Jared Goff	Det	QB	0.0	0.0	MR_v_Zach White Commanders	Zach White Commanders	6
+Bench	Melvin Gordon III	FA	RB	12.6	0.8	MR_v_Zach White Commanders	Zach White Commanders	6
+Bench	Darrell Henderson Jr.	FA	RB	12.3	13.2	MR_v_Zach White Commanders	Zach White Commanders	6
+Bench	Michael Thomas	NO	WR	0.0	0.0	MR_v_Zach White Commanders	Zach White Commanders	6
+Bench	Darren Waller	NYG	TE	0.0	0.0	MR_v_Zach White Commanders	Zach White Commanders	6
+Bench	Kyren Williams	LAR	RB	0.0	0.0	MR_v_Zach White Commanders	Zach White Commanders	6
+QB	Matthew Stafford	LAR	QB	15.9	12.82	MF_v_CC	MF	6
+RB	J.K. Dobbins	Bal	RB	11.7	1.5	MF_v_CC	MF	6
+RB	Jeff Wilson Jr.	Mia	RB	14.3	0.5	MF_v_CC	MF	6
+WR	Mike Williams	LAC	WR	13.5	3.7	MF_v_CC	MF	6
+WR	Marquez Valdes-Scantling	KC	WR	11.3	0.0	MF_v_CC	MF	6
+TE	David Njoku	Cle	TE	9.9	8.8	MF_v_CC	MF	6
+FLEX	Raheem Mostert	Mia	RB	13.4	5.8	MF_v_CC	MF	6
+OP	Carson Wentz	FA	QB	17.0	4.16	MF_v_CC	MF	6
+D/ST	Buccaneers	TB	D/ST	7.5	4.0	MF_v_CC	MF	6
+Bench	Tee Higgins	Cin	WR	12.7	10.7	MF_v_CC	MF	6
+Bench	Jamison Crowder	Buf	WR	0.0	0.0	MF_v_CC	MF	6
+Bench	Jerry Jeudy	Den	WR	11.5	8.4	MF_v_CC	MF	6
+Bench	Tyler Conklin	NYJ	TE	7.2	2.7	MF_v_CC	MF	6
+Bench	Jahan Dotson	Wsh	WR	0.0	0.0	MF_v_CC	MF	6
+Bench	D'Andre Swift	Det	RB	0.0	0.0	MF_v_CC	MF	6
+Bench	Cooper Rush	Dal	QB	13.0	8.24	MF_v_CC	MF	6
+QB	Lamar Jackson	Bal	QB	22.8	17.1	MF_v_CC	CC	6
+RB	Miles Sanders	Car	RB	13.0	14.2	MF_v_CC	CC	6
+RB	Jerick McKinnon	KC	RB	6.1	6.0	MF_v_CC	CC	6
+WR	Corey Davis	NYJ	WR	10.0	7.2	MF_v_CC	CC	6
+WR	Alec Pierce	Ind	WR	10.7	13.9	MF_v_CC	CC	6
+TE	Irv Smith Jr.	Min	TE	7.7	10.7	MF_v_CC	CC	6
+FLEX	Drake London	Atl	WR	12.7	7.0	MF_v_CC	CC	6
+OP	Joe Burrow	Cin	QB	18.2	32.5	MF_v_CC	CC	6
+D/ST	Packers	GB	D/ST	6.6	4.0	MF_v_CC	CC	6
+Bench	Derrick Henry	Ten	RB	0.0	0.0	MF_v_CC	CC	6
+Bench	James Conner	Ari	RB	0.0	0.0	MF_v_CC	CC	6
+Bench	Brandin Cooks	Dal	WR	0.0	0.0	MF_v_CC	CC	6
+Bench	Amon-Ra St. Brown	Det	WR	0.0	0.0	MF_v_CC	CC	6
+Bench	Chris Olave	NO	WR	0.0	0.0	MF_v_CC	CC	6
+Bench	Pat Freiermuth	Pit	TE	0.0	0.0	MF_v_CC	CC	6
+Bench	Ryan Tannehill	Ten	QB	0.0	0.0	MF_v_CC	CC	6
+QB	Jalen Hurts	Phi	QB	22.7	16.9	AY_v_EM	AY	6
+RB	Travis Etienne Jr.	Jax	RB	10.3	12.8	AY_v_EM	AY	6
+RB	Kenneth Walker III	Sea	RB	11.5	19.0	AY_v_EM	AY	6
+WR	Justin Jefferson	Min	WR	19.2	16.7	AY_v_EM	AY	6
+WR	Michael Pittman Jr.	Ind	WR	14.4	26.4	AY_v_EM	AY	6
+TE	Taysom Hill	NO	TE	6.5	4.54	AY_v_EM	AY	6
+FLEX	Isaiah McKenzie	FA	WR	11.9	2.9	AY_v_EM	AY	6
+OP	Zach Wilson	NYJ	QB	16.9	4.5	AY_v_EM	AY	6
+D/ST	Vikings	Min	D/ST	6.6	9.0	AY_v_EM	AY	6
+Bench	Chase Edmonds	TB	RB	7.2	5.1	AY_v_EM	AY	6
+Bench	AJ Dillon	GB	RB	10.1	9.2	AY_v_EM	AY	6
+Bench	Jaylen Warren	Pit	RB	5.1	0.2	AY_v_EM	AY	6
+Bench	Jakobi Meyers	LV	WR	12.1	10.0	AY_v_EM	AY	6
+Bench	Brandon Aiyuk	SF	WR	10.0	28.3	AY_v_EM	AY	6
+Bench	Derek Carr	NO	QB	0.0	0.0	AY_v_EM	AY	6
+Bench	Jonathan Taylor	Ind	RB	0.0	0.0	AY_v_EM	AY	6
+QB	Josh Allen	Buf	QB	26.9	26.36	AY_v_EM	EM	6
+RB	Aaron Jones	GB	RB	14.9	7.4	AY_v_EM	EM	6
+RB	Clyde Edwards-Helaire	KC	RB	11.1	3.3	AY_v_EM	EM	6
+WR	Terry McLaurin	Wsh	WR	12.2	8.2	AY_v_EM	EM	6
+WR	DK Metcalf	Sea	WR	16.5	5.4	AY_v_EM	EM	6
+TE	Dawson Knox	Buf	TE	9.3	12.7	AY_v_EM	EM	6
+FLEX	James Robinson	NE	RB	9.3	6.5	AY_v_EM	EM	6
+OP	Trevor Lawrence	Jax	QB	15.5	24.9	AY_v_EM	EM	6
+D/ST	Panthers	Car	D/ST	7.2	8.0	AY_v_EM	EM	6
+Bench	Davante Adams	LV	WR	0.0	0.0	AY_v_EM	EM	6
+Bench	Darnell Mooney	Chi	WR	8.2	13.8	AY_v_EM	EM	6
+Bench	Chase Claypool	Chi	WR	9.8	23.4	AY_v_EM	EM	6
+Bench	Hunter Henry	NE	TE	4.5	16.1	AY_v_EM	EM	6
+Bench	Jarvis Landry	NO	WR	0.0	0.0	AY_v_EM	EM	6
+Bench	Steelers	Pit	D/ST	3.4	3.0	AY_v_EM	EM	6
+Bench	Will Dissly	Sea	TE	6.7	2.2	AY_v_EM	EM	6
+QB	Kyler Murray	Ari	QB	22.8	15.88	JK_v_TN	JK	6
+RB	Dalvin Cook	Min	RB	16.4	15.3	JK_v_TN	JK	6
+RB	J.D. McKissic	FA	RB	9.4	2.0	JK_v_TN	JK	6
+WR	Mike Evans	TB	WR	15.3	8.2	JK_v_TN	JK	6
+WR	Marquise Brown	Ari	WR	17.6	11.8	JK_v_TN	JK	6
+TE	Mark Andrews	Bal	TE	17.1	23.6	JK_v_TN	JK	6
+FLEX	Zach Ertz	Ari	TE	12.5	14.0	JK_v_TN	JK	6
+OP	Matt Ryan	FA	QB	13.8	27.16	JK_v_TN	JK	6
+D/ST	Bengals	Cin	D/ST	6.9	0.0	JK_v_TN	JK	6
+Bench	Ezekiel Elliott	FA	RB	10.1	15.6	JK_v_TN	JK	6
+Bench	Hunter Renfrow	LV	WR	0.0	0.0	JK_v_TN	JK	6
+Bench	Mac Jones	NE	QB	0.0	0.0	JK_v_TN	JK	6
+Bench	Nyheim Hines	Buf	RB	0.0	0.0	JK_v_TN	JK	6
+Bench	Bills	Buf	D/ST	3.6	6.0	JK_v_TN	JK	6
+Bench	DeVante Parker	NE	WR	6.4	10.4	JK_v_TN	JK	6
+Bench	Richie James	NYG	WR	5.9	3.8	JK_v_TN	JK	6
+QB	Daniel Jones	NYG	QB	17.2	13.52	JK_v_TN	TN	6
+RB	Nick Chubb	Cle	RB	17.2	8.0	JK_v_TN	TN	6
+RB	Eno Benjamin	NO	RB	14.4	9.5	JK_v_TN	TN	6
+WR	Cooper Kupp	LAR	WR	21.5	16.7	JK_v_TN	TN	6
+WR	Deebo Samuel	SF	WR	16.5	16.0	JK_v_TN	TN	6
+TE	Gerald Everett	LAC	TE	10.0	7.9	JK_v_TN	TN	6
+FLEX	Diontae Johnson	Pit	WR	13.3	8.6	JK_v_TN	TN	6
+OP	Christian Kirk	Jax	WR	13.5	10.8	JK_v_TN	TN	6
+D/ST	Ravens	Bal	D/ST	6.0	9.0	JK_v_TN	TN	6
+Bench	Jameis Winston	NO	QB	0.0	0.0	JK_v_TN	TN	6
+Bench	Josh Jacobs	LV	RB	0.0	0.0	JK_v_TN	TN	6
+Bench	Dalton Schultz	Hou	TE	0.0	0.0	JK_v_TN	TN	6
+Bench	James Cook	Buf	RB	3.3	0.8	JK_v_TN	TN	6
+Bench	Mecole Hardman	KC	WR	7.8	13.2	JK_v_TN	TN	6
+Bench	Chargers	LAC	D/ST	5.8	10.0	JK_v_TN	TN	6
+Bench	Rondale Moore	Ari	WR	12.4	10.9	JK_v_TN	TN	6
+QB	Kirk Cousins	Min	QB	17.3	16.5	CM_v_SH	CM	6
+RB	Leonard Fournette	FA	RB	17.0	22.1	CM_v_SH	CM	6
+RB	Austin Ekeler	LAC	RB	17.6	24.3	CM_v_SH	CM	6
+WR	Amari Cooper	Cle	WR	12.5	14.4	CM_v_SH	CM	6
+WR	Curtis Samuel	Wsh	WR	13.9	2.6	CM_v_SH	CM	6
+TE	Tyler Higbee	LAR	TE	13.0	1.7	CM_v_SH	CM	6
+FLEX	DeVonta Smith	Phi	WR	12.7	15.4	CM_v_SH	CM	6
+OP	Marcus Mariota	Phi	QB	14.5	24.16	CM_v_SH	CM	6
+D/ST	Rams	LAR	D/ST	8.3	10.0	CM_v_SH	CM	6
+Bench	Elijah Mitchell	SF	RB	0.0	0.0	CM_v_SH	CM	6
+Bench	Gabe Davis	Buf	WR	13.3	16.4	CM_v_SH	CM	6
+Bench	Garrett Wilson	NYJ	WR	11.5	1.8	CM_v_SH	CM	6
+Bench	Cowboys	Dal	D/ST	5.0	6.0	CM_v_SH	CM	6
+Bench	Mike Boone	Hou	RB	9.0	1.4	CM_v_SH	CM	6
+Bench	Tony Pollard	Dal	RB	8.5	7.2	CM_v_SH	CM	6
+Bench	George Kittle	SF	TE	10.0	16.3	CM_v_SH	CM	6
+QB	Aaron Rodgers	GB	QB	17.0	11.84	CM_v_SH	SH	6
+RB	Brian Robinson Jr.	Wsh	RB	7.3	12.0	CM_v_SH	SH	6
+RB	Alvin Kamara	NO	RB	17.3	18.4	CM_v_SH	SH	6
+WR	Ja'Marr Chase	Cin	WR	17.9	32.2	CM_v_SH	SH	6
+WR	Tyler Lockett	Sea	WR	14.5	3.7	CM_v_SH	SH	6
+TE	Travis Kelce	KC	TE	16.9	19.2	CM_v_SH	SH	6
+FLEX	Chris Godwin	TB	WR	13.4	15.5	CM_v_SH	SH	6
+OP	Tom Brady	TB	QB	19.8	13.72	CM_v_SH	SH	6
+D/ST	49ers	SF	D/ST	7.2	5.0	CM_v_SH	SH	6
+Bench	DJ Moore	Chi	WR	12.4	3.7	CM_v_SH	SH	6
+Bench	Antonio Gibson	Wsh	RB	7.9	8.3	CM_v_SH	SH	6
+Bench	Khalil Herbert	Chi	RB	7.3	7.4	CM_v_SH	SH	6
+Bench	D'Onta Foreman	Chi	RB	0.8	1.9	CM_v_SH	SH	6
+Bench	Mark Ingram II	NO	RB	3.9	6.7	CM_v_SH	SH	6
+Bench	Jamaal Williams	NO	RB	0.0	0.0	CM_v_SH	SH	6
+Bench	Deon Jackson	Ind	RB	11.5	28.1	CM_v_SH	SH	6
+QB	Jacoby Brissett	Wsh	QB	16.3	10.12	JR_v_JK	JR	7
+RB	Breece Hall	NYJ	RB	15.4	13.2	JR_v_JK	JR	7
+RB	Dameon Pierce	Hou	RB	18.1	15.7	JR_v_JK	JR	7
+WR	Tyreek Hill	Mia	WR	19.7	14.2	JR_v_JK	JR	7
+WR	Allen Lazard	NYJ	WR	12.6	11.5	JR_v_JK	JR	7
+TE	T.J. Hockenson	Min	TE	11.6	8.8	JR_v_JK	JR	7
+FLEX	Rhamondre Stevenson	NE	RB	13.2	23.8	JR_v_JK	JR	7
+OP	Geno Smith	Sea	QB	19.9	14.1	JR_v_JK	JR	7
+D/ST	Broncos	Den	D/ST	8.2	6.0	JR_v_JK	JR	7
+Bench	Russell Wilson	Den	QB	0.0	0.0	JR_v_JK	JR	7
+Bench	Devin Singletary	Hou	RB	0.0	0.0	JR_v_JK	JR	7
+Bench	Davis Mills	Hou	QB	14.6	19.08	JR_v_JK	JR	7
+Bench	George Pickens	Pit	WR	10.6	18.1	JR_v_JK	JR	7
+Bench	Robbie Anderson	FA	WR	4.9	0.0	JR_v_JK	JR	7
+Bench	Michael Carter	NYJ	RB	8.2	9.4	JR_v_JK	JR	7
+Bench	Mo Alie-Cox	Ind	TE	4.8	0.0	JR_v_JK	JR	7
+QB	Kyler Murray	Ari	QB	19.8	17.16	JR_v_JK	JK	7
+RB	Ezekiel Elliott	FA	RB	13.6	17.7	JR_v_JK	JK	7
+RB	J.D. McKissic	FA	RB	8.2	0.4	JR_v_JK	JK	7
+WR	Mike Evans	TB	WR	13.3	18.6	JR_v_JK	JK	7
+WR	Hunter Renfrow	LV	WR	10.5	8.5	JR_v_JK	JK	7
+TE	Mark Andrews	Bal	TE	18.5	0.4	JR_v_JK	JK	7
+FLEX	Zach Ertz	Ari	TE	12.3	6.1	JR_v_JK	JK	7
+OP	Matt Ryan	FA	QB	16.7	11.92	JR_v_JK	JK	7
+D/ST	Bengals	Cin	D/ST	7.2	6.0	JR_v_JK	JK	7
+Bench	Dalvin Cook	Min	RB	0.0	0.0	JR_v_JK	JK	7
+Bench	Marquise Brown	Ari	WR	0.0	0.0	JR_v_JK	JK	7
+Bench	Mac Jones	NE	QB	13.6	1.92	JR_v_JK	JK	7
+Bench	Nyheim Hines	Buf	RB	8.8	9.3	JR_v_JK	JK	7
+Bench	Bills	Buf	D/ST	--	0.0	JR_v_JK	JK	7
+Bench	DeVante Parker	NE	WR	5.3	9.8	JR_v_JK	JK	7
+Bench	Richie James	NYG	WR	3.6	1.2	JR_v_JK	JK	7
+QB	Daniel Jones	NYG	QB	15.8	28.78	TN_v_MR	TN	7
+RB	Nick Chubb	Cle	RB	16.3	18.7	TN_v_MR	TN	7
+RB	Josh Jacobs	LV	RB	17.7	36.5	TN_v_MR	TN	7
+WR	Deebo Samuel	SF	WR	15.6	9.4	TN_v_MR	TN	7
+WR	Rondale Moore	Ari	WR	11.5	4.1	TN_v_MR	TN	7
+TE	Gerald Everett	LAC	TE	9.7	11.3	TN_v_MR	TN	7
+FLEX	Diontae Johnson	Pit	WR	12.9	9.5	TN_v_MR	TN	7
+OP	Taylor Heinicke	Atl	QB	16.1	15.44	TN_v_MR	TN	7
+D/ST	Ravens	Bal	D/ST	5.1	14.0	TN_v_MR	TN	7
+Bench	Cooper Kupp	LAR	WR	0.0	0.0	TN_v_MR	TN	7
+Bench	Jameis Winston	NO	QB	0.0	0.0	TN_v_MR	TN	7
+Bench	Dalton Schultz	Hou	TE	8.5	9.9	TN_v_MR	TN	7
+Bench	Christian Kirk	Jax	WR	12.6	17.1	TN_v_MR	TN	7
+Bench	James Cook	Buf	RB	0.0	0.0	TN_v_MR	TN	7
+Bench	Chargers	LAC	D/ST	5.2	2.0	TN_v_MR	TN	7
+Bench	Eno Benjamin	NO	RB	14.0	23.3	TN_v_MR	TN	7
+QB	Tua Tagovailoa	Mia	QB	18.7	15.94	TN_v_MR	MR	7
+RB	Najee Harris	Pit	RB	13.1	11.0	TN_v_MR	MR	7
+RB	Damien Harris	Buf	RB	11.6	2.0	TN_v_MR	MR	7
+WR	Keenan Allen	LAC	WR	14.5	3.1	TN_v_MR	MR	7
+WR	Jaylen Waddle	Mia	WR	15.2	12.8	TN_v_MR	MR	7
+TE	Robert Tonyan	Chi	TE	8.5	6.2	TN_v_MR	MR	7
+FLEX	Michael Gallup	Dal	WR	11.1	0.0	TN_v_MR	MR	7
+OP	Justin Herbert	LAC	QB	21.9	19.12	TN_v_MR	MR	7
+D/ST	Giants	NYG	D/ST	5.7	1.0	TN_v_MR	MR	7
+Bench	Cordarrelle Patterson	Atl	RB	0.0	0.0	TN_v_MR	MR	7
+Bench	Eagles	Phi	D/ST	--	0.0	TN_v_MR	MR	7
+Bench	Stefon Diggs	Buf	WR	0.0	0.0	TN_v_MR	MR	7
+Bench	Tyler Allgeier	Atl	RB	7.9	11.0	TN_v_MR	MR	7
+Bench	Justin Fields	Chi	QB	12.8	24.36	TN_v_MR	MR	7
+Bench	Dallas Goedert	Phi	TE	0.0	0.0	TN_v_MR	MR	7
+Bench	Garrett Wilson	NYJ	WR	10.5	6.4	TN_v_MR	MR	7
+QB	Aaron Rodgers	GB	QB	16.6	15.76	SH_v_MF	SH	7
+RB	Alvin Kamara	NO	RB	18.1	17.5	SH_v_MF	SH	7
+RB	Jamaal Williams	NO	RB	13.1	7.3	SH_v_MF	SH	7
+WR	DJ Moore	Chi	WR	12.3	19.6	SH_v_MF	SH	7
+WR	Chris Godwin	TB	WR	14.9	11.5	SH_v_MF	SH	7
+TE	Travis Kelce	KC	TE	17.2	15.8	SH_v_MF	SH	7
+FLEX	Christian McCaffrey	SF	RB	10.2	8.2	SH_v_MF	SH	7
+OP	Tom Brady	TB	QB	17.6	11.7	SH_v_MF	SH	7
+D/ST	Bears	Chi	D/ST	6.1	12.0	SH_v_MF	SH	7
+Bench	Tyler Lockett	Sea	WR	13.9	11.5	SH_v_MF	SH	7
+Bench	D'Onta Foreman	Chi	RB	8.2	16.5	SH_v_MF	SH	7
+Bench	Mark Ingram II	NO	RB	4.7	5.2	SH_v_MF	SH	7
+Bench	49ers	SF	D/ST	4.4	-4.0	SH_v_MF	SH	7
+Bench	Chuba Hubbard	Car	RB	7.1	15.3	SH_v_MF	SH	7
+Bench	Adam Thielen	FA	WR	0.0	0.0	SH_v_MF	SH	7
+Bench	Hayden Hurst	Car	TE	7.7	10.8	SH_v_MF	SH	7
+QB	Derek Carr	NO	QB	17.3	13.54	SH_v_MF	MF	7
+RB	Jeff Wilson Jr.	Mia	RB	11.9	5.4	SH_v_MF	MF	7
+RB	Kenneth Walker III	Sea	RB	13.6	28.7	SH_v_MF	MF	7
+WR	Mike Williams	LAC	WR	15.1	21.6	SH_v_MF	MF	7
+WR	Brandon Aiyuk	SF	WR	11.1	15.2	SH_v_MF	MF	7
+TE	David Njoku	Cle	TE	10.9	14.1	SH_v_MF	MF	7
+FLEX	Marvin Jones Jr.	Jax	WR	9.0	9.7	SH_v_MF	MF	7
+OP	PJ Walker	Chi	QB	11.4	15.08	SH_v_MF	MF	7
+D/ST	Buccaneers	TB	D/ST	8.3	1.0	SH_v_MF	MF	7
+Bench	Matthew Stafford	LAR	QB	0.0	0.0	SH_v_MF	MF	7
+Bench	Marquez Valdes-Scantling	KC	WR	10.1	14.1	SH_v_MF	MF	7
+Bench	Raheem Mostert	Mia	RB	13.5	20.9	SH_v_MF	MF	7
+Bench	Jerry Jeudy	Den	WR	10.4	16.6	SH_v_MF	MF	7
+Bench	Jahan Dotson	Wsh	WR	0.0	0.0	SH_v_MF	MF	7
+Bench	Sam Darnold	SF	QB	0.0	0.0	SH_v_MF	MF	7
+Bench	Sammy Watkins	Bal	WR	7.9	5.6	SH_v_MF	MF	7
+QB	Patrick Mahomes	KC	QB	21.2	27.92	Zach White Commanders_v_AY	Zach White Commanders	7
+RB	Saquon Barkley	NYG	RB	20.6	17.5	Zach White Commanders_v_AY	Zach White Commanders	7
+RB	David Montgomery	Det	RB	13.1	12.2	Zach White Commanders_v_AY	Zach White Commanders	7
+WR	Courtland Sutton	Den	WR	14.0	5.3	Zach White Commanders_v_AY	Zach White Commanders	7
+WR	Ja'Marr Chase	Cin	WR	19.3	33.0	Zach White Commanders_v_AY	Zach White Commanders	7
+TE	Kyle Pitts	Atl	TE	9.2	3.9	Zach White Commanders_v_AY	Zach White Commanders	7
+FLEX	Rashod Bateman	Bal	WR	11.7	8.2	Zach White Commanders_v_AY	Zach White Commanders	7
+OP	Jared Goff	Det	QB	15.9	3.52	Zach White Commanders_v_AY	Zach White Commanders	7
+D/ST	Jaguars	Jax	D/ST	6.6	-2.0	Zach White Commanders_v_AY	Zach White Commanders	7
+Bench	Melvin Gordon III	FA	RB	7.4	7.0	Zach White Commanders_v_AY	Zach White Commanders	7
+Bench	Darrell Henderson Jr.	FA	RB	0.0	0.0	Zach White Commanders_v_AY	Zach White Commanders	7
+Bench	Michael Thomas	NO	WR	0.0	0.0	Zach White Commanders_v_AY	Zach White Commanders	7
+Bench	Darren Waller	NYG	TE	0.0	0.0	Zach White Commanders_v_AY	Zach White Commanders	7
+Bench	Kyren Williams	LAR	RB	0.0	0.0	Zach White Commanders_v_AY	Zach White Commanders	7
+Bench	Khalil Herbert	Chi	RB	6.5	15.7	Zach White Commanders_v_AY	Zach White Commanders	7
+Bench	Brian Robinson Jr.	Wsh	RB	9.6	10.6	Zach White Commanders_v_AY	Zach White Commanders	7
+QB	Zach Wilson	NYJ	QB	13.3	7.24	Zach White Commanders_v_AY	AY	7
+RB	AJ Dillon	GB	RB	10.8	1.5	Zach White Commanders_v_AY	AY	7
+RB	Jonathan Taylor	Ind	RB	18.4	15.5	Zach White Commanders_v_AY	AY	7
+WR	Michael Pittman Jr.	Ind	WR	15.2	9.8	Zach White Commanders_v_AY	AY	7
+WR	Tee Higgins	Cin	WR	16.0	14.3	Zach White Commanders_v_AY	AY	7
+TE	Taysom Hill	NO	TE	7.5	10.12	Zach White Commanders_v_AY	AY	7
+FLEX	Travis Etienne Jr.	Jax	RB	11.0	18.9	Zach White Commanders_v_AY	AY	7
+OP	Jakobi Meyers	LV	WR	11.6	11.4	Zach White Commanders_v_AY	AY	7
+D/ST	Jets	NYJ	D/ST	7.6	6.0	Zach White Commanders_v_AY	AY	7
+Bench	Jalen Hurts	Phi	QB	0.0	0.0	Zach White Commanders_v_AY	AY	7
+Bench	Justin Jefferson	Min	WR	0.0	0.0	Zach White Commanders_v_AY	AY	7
+Bench	Latavius Murray	Den	RB	7.4	10.3	Zach White Commanders_v_AY	AY	7
+Bench	D'Andre Swift	Det	RB	0.0	0.0	Zach White Commanders_v_AY	AY	7
+Bench	Carson Wentz	FA	QB	0.0	0.0	Zach White Commanders_v_AY	AY	7
+Bench	Gus Edwards	Bal	RB	4.0	18.6	Zach White Commanders_v_AY	AY	7
+Bench	Wan'Dale Robinson	NYG	WR	6.7	11.0	Zach White Commanders_v_AY	AY	7
+QB	Trevor Lawrence	Jax	QB	15.9	18.7	EM_v_CM	EM	7
+RB	Aaron Jones	GB	RB	13.9	28.6	EM_v_CM	EM	7
+RB	Clyde Edwards-Helaire	KC	RB	8.2	9.2	EM_v_CM	EM	7
+WR	Terry McLaurin	Wsh	WR	11.7	18.3	EM_v_CM	EM	7
+WR	DK Metcalf	Sea	WR	15.8	2.2	EM_v_CM	EM	7
+TE	Hunter Henry	NE	TE	5.5	2.2	EM_v_CM	EM	7
+FLEX	James Robinson	NE	RB	10.0	0.0	EM_v_CM	EM	7
+OP	Davante Adams	LV	WR	18.0	17.5	EM_v_CM	EM	7
+D/ST	Patriots	NE	D/ST	7.9	6.0	EM_v_CM	EM	7
+Bench	Josh Allen	Buf	QB	0.0	0.0	EM_v_CM	EM	7
+Bench	Dawson Knox	Buf	TE	0.0	0.0	EM_v_CM	EM	7
+Bench	Darnell Mooney	Chi	WR	10.5	8.3	EM_v_CM	EM	7
+Bench	Chase Claypool	Chi	WR	11.3	9.1	EM_v_CM	EM	7
+Bench	Jarvis Landry	NO	WR	0.0	0.0	EM_v_CM	EM	7
+Bench	Steelers	Pit	D/ST	4.1	0.0	EM_v_CM	EM	7
+Bench	Will Dissly	Sea	TE	5.5	8.5	EM_v_CM	EM	7
+QB	Marcus Mariota	Phi	QB	15.5	12.06	EM_v_CM	CM	7
+RB	Leonard Fournette	FA	RB	17.1	4.6	EM_v_CM	CM	7
+RB	Austin Ekeler	LAC	RB	20.2	36.7	EM_v_CM	CM	7
+WR	Amari Cooper	Cle	WR	14.4	10.4	EM_v_CM	CM	7
+WR	Curtis Samuel	Wsh	WR	11.4	12.9	EM_v_CM	CM	7
+TE	George Kittle	SF	TE	11.3	21.8	EM_v_CM	CM	7
+FLEX	Tony Pollard	Dal	RB	11.0	12.9	EM_v_CM	CM	7
+OP	JuJu Smith-Schuster	NE	WR	12.3	25.4	EM_v_CM	CM	7
+D/ST	Cowboys	Dal	D/ST	6.3	22.0	EM_v_CM	CM	7
+Bench	Kirk Cousins	Min	QB	0.0	0.0	EM_v_CM	CM	7
+Bench	Gabe Davis	Buf	WR	0.0	0.0	EM_v_CM	CM	7
+Bench	Tyler Higbee	LAR	TE	0.0	0.0	EM_v_CM	CM	7
+Bench	Mike Boone	Hou	RB	5.9	2.3	EM_v_CM	CM	7
+Bench	Rams	LAR	D/ST	--	0.0	EM_v_CM	CM	7
+Bench	DeVonta Smith	Phi	WR	0.0	0.0	EM_v_CM	CM	7
+Bench	Devin Duvernay	Bal	WR	9.5	6.2	EM_v_CM	CM	7
+QB	Lamar Jackson	Bal	QB	26.3	10.7	CC_v_DW	CC	7
+RB	Derrick Henry	Ten	RB	19.0	16.8	CC_v_DW	CC	7
+RB	Rex Burkhead	Hou	RB	7.8	6.9	CC_v_DW	CC	7
+WR	Brandin Cooks	Dal	WR	12.9	8.6	CC_v_DW	CC	7
+WR	Amon-Ra St. Brown	Det	WR	17.2	1.4	CC_v_DW	CC	7
+TE	Pat Freiermuth	Pit	TE	10.8	15.5	CC_v_DW	CC	7
+FLEX	Chris Olave	NO	WR	13.3	17.6	CC_v_DW	CC	7
+OP	Joe Burrow	Cin	QB	20.6	39.24	CC_v_DW	CC	7
+D/ST	Packers	GB	D/ST	5.7	8.0	CC_v_DW	CC	7
+Bench	James Conner	Ari	RB	0.0	0.0	CC_v_DW	CC	7
+Bench	Miles Sanders	Car	RB	0.0	0.0	CC_v_DW	CC	7
+Bench	Drake London	Atl	WR	11.8	1.9	CC_v_DW	CC	7
+Bench	Ryan Tannehill	Ten	QB	15.3	3.88	CC_v_DW	CC	7
+Bench	Corey Davis	NYJ	WR	9.5	0.0	CC_v_DW	CC	7
+Bench	Jerick McKinnon	KC	RB	4.0	6.8	CC_v_DW	CC	7
+Bench	Alec Pierce	Ind	WR	10.1	6.7	CC_v_DW	CC	7
+QB	Dak Prescott	Dal	QB	19.9	12.28	CC_v_DW	DW	7
+RB	Joe Mixon	Cin	RB	17.2	18.1	CC_v_DW	DW	7
+RB	Isiah Pacheco	KC	RB	6.8	4.3	CC_v_DW	DW	7
+WR	DeAndre Hopkins	Ari	WR	14.0	20.3	CC_v_DW	DW	7
+WR	CeeDee Lamb	Dal	WR	18.5	10.6	CC_v_DW	DW	7
+TE	Cade Otton	TB	TE	7.7	10.4	CC_v_DW	DW	7
+FLEX	Romeo Doubs	GB	WR	11.3	0.0	CC_v_DW	DW	7
+OP	Kenny Pickett	Pit	QB	15.2	13.28	CC_v_DW	DW	7
+D/ST	Cardinals	Ari	D/ST	5.9	12.0	CC_v_DW	DW	7
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	CC_v_DW	DW	7
+Bench	Kareem Hunt	Cle	RB	10.2	7.8	CC_v_DW	DW	7
+Bench	Jimmy Garoppolo	LV	QB	15.0	17.32	CC_v_DW	DW	7
+Bench	Jameson Williams	Det	WR	0.0	0.0	CC_v_DW	DW	7
+Bench	A.J. Brown	Phi	WR	0.0	0.0	CC_v_DW	DW	7
+Bench	Kenyan Drake	Bal	RB	6.8	0.5	CC_v_DW	DW	7
+Bench	Justice Hill	Bal	RB	5.6	0.6	CC_v_DW	DW	7
+QB	Tua Tagovailoa	Mia	QB	20.9	29.18	MR_v_JR	MR	8
+RB	Najee Harris	Pit	RB	12.2	11.96	MR_v_JR	MR	8
+RB	D'Andre Swift	Det	RB	13.1	14.3	MR_v_JR	MR	8
+WR	Jaylen Waddle	Mia	WR	15.7	30.6	MR_v_JR	MR	8
+WR	Stefon Diggs	Buf	WR	18.6	22.8	MR_v_JR	MR	8
+TE	Mike Gesicki	NE	TE	9.0	12.8	MR_v_JR	MR	8
+FLEX	Michael Pittman Jr.	Ind	WR	12.2	12.3	MR_v_JR	MR	8
+OP	Justin Fields	Chi	QB	14.0	26.04	MR_v_JR	MR	8
+D/ST	Eagles	Phi	D/ST	8.9	15.0	MR_v_JR	MR	8
+Bench	Keenan Allen	LAC	WR	0.0	0.0	MR_v_JR	MR	8
+Bench	Cordarrelle Patterson	Atl	RB	0.0	0.0	MR_v_JR	MR	8
+Bench	Tyler Allgeier	Atl	RB	11.1	17.5	MR_v_JR	MR	8
+Bench	Damien Harris	Buf	RB	8.5	7.2	MR_v_JR	MR	8
+Bench	Robert Tonyan	Chi	TE	8.6	8.5	MR_v_JR	MR	8
+Bench	Zach Wilson	NYJ	QB	14.9	19.4	MR_v_JR	MR	8
+Bench	Elijah Moore	NYJ	WR	8.5	0.0	MR_v_JR	MR	8
+QB	Russell Wilson	Den	QB	15.5	14.78	MR_v_JR	JR	8
+RB	Rhamondre Stevenson	NE	RB	14.6	21.3	MR_v_JR	JR	8
+RB	Dameon Pierce	Hou	RB	17.3	14.1	MR_v_JR	JR	8
+WR	Tyreek Hill	Mia	WR	21.2	31.5	MR_v_JR	JR	8
+WR	George Pickens	Pit	WR	10.7	0.0	MR_v_JR	JR	8
+TE	T.J. Hockenson	Min	TE	11.2	11.0	MR_v_JR	JR	8
+FLEX	Devin Singletary	Hou	RB	14.9	9.3	MR_v_JR	JR	8
+OP	Geno Smith	Sea	QB	18.0	19.08	MR_v_JR	JR	8
+D/ST	Broncos	Den	D/ST	6.2	8.0	MR_v_JR	JR	8
+Bench	Breece Hall	NYJ	RB	0.0	0.0	MR_v_JR	JR	8
+Bench	Davis Mills	Hou	QB	13.7	9.88	MR_v_JR	JR	8
+Bench	Robbie Anderson	FA	WR	8.1	0.0	MR_v_JR	JR	8
+Bench	Michael Carter	NYJ	RB	13.5	10.1	MR_v_JR	JR	8
+Bench	Jacoby Brissett	Wsh	QB	14.0	20.32	MR_v_JR	JR	8
+Bench	Mo Alie-Cox	Ind	TE	3.0	0.0	MR_v_JR	JR	8
+Bench	Allen Lazard	NYJ	WR	0.0	0.0	MR_v_JR	JR	8
+QB	Derek Carr	NO	QB	17.3	2.94	MF_v_EM	MF	8
+RB	Raheem Mostert	Mia	RB	14.7	7.7	MF_v_EM	MF	8
+RB	Kenneth Walker III	Sea	RB	14.0	12.2	MF_v_EM	MF	8
+WR	Jerry Jeudy	Den	WR	11.5	18.3	MF_v_EM	MF	8
+WR	Brandon Aiyuk	SF	WR	12.6	20.1	MF_v_EM	MF	8
+TE	Kyle Pitts	Atl	TE	8.8	19.0	MF_v_EM	MF	8
+FLEX	Donovan Peoples-Jones	Cle	WR	9.2	12.1	MF_v_EM	MF	8
+OP	Matthew Stafford	LAR	QB	15.4	17.38	MF_v_EM	MF	8
+D/ST	Titans	Ten	D/ST	6.9	11.0	MF_v_EM	MF	8
+Bench	Mike Williams	LAC	WR	0.0	0.0	MF_v_EM	MF	8
+Bench	Marquez Valdes-Scantling	KC	WR	0.0	0.0	MF_v_EM	MF	8
+Bench	David Njoku	Cle	TE	0.0	0.0	MF_v_EM	MF	8
+Bench	Buccaneers	TB	D/ST	4.4	0.0	MF_v_EM	MF	8
+Bench	Jahan Dotson	Wsh	WR	0.0	0.0	MF_v_EM	MF	8
+Bench	Sam Darnold	SF	QB	0.0	0.0	MF_v_EM	MF	8
+Bench	Marvin Jones Jr.	Jax	WR	8.4	0.0	MF_v_EM	MF	8
+QB	Josh Allen	Buf	QB	24.4	19.62	MF_v_EM	EM	8
+RB	Aaron Jones	GB	RB	13.7	19.7	MF_v_EM	EM	8
+RB	James Robinson	NE	RB	5.4	1.7	MF_v_EM	EM	8
+WR	Terry McLaurin	Wsh	WR	12.1	16.6	MF_v_EM	EM	8
+WR	DK Metcalf	Sea	WR	12.5	17.5	MF_v_EM	EM	8
+TE	Dawson Knox	Buf	TE	7.7	9.0	MF_v_EM	EM	8
+FLEX	Davante Adams	LV	WR	18.8	1.2	MF_v_EM	EM	8
+OP	Trevor Lawrence	Jax	QB	14.6	8.82	MF_v_EM	EM	8
+D/ST	Patriots	NE	D/ST	7.6	8.0	MF_v_EM	EM	8
+Bench	Clyde Edwards-Helaire	KC	RB	0.0	0.0	MF_v_EM	EM	8
+Bench	Darnell Mooney	Chi	WR	11.1	12.0	MF_v_EM	EM	8
+Bench	Chase Claypool	Chi	WR	9.7	12.54	MF_v_EM	EM	8
+Bench	Hunter Henry	NE	TE	5.5	3.2	MF_v_EM	EM	8
+Bench	Jarvis Landry	NO	WR	0.0	0.0	MF_v_EM	EM	8
+Bench	Steelers	Pit	D/ST	3.6	-3.0	MF_v_EM	EM	8
+Bench	Will Dissly	Sea	TE	5.8	3.2	MF_v_EM	EM	8
+QB	Marcus Mariota	Phi	QB	15.5	24.42	CM_v_Zach White Commanders	CM	8
+RB	Leonard Fournette	FA	RB	14.6	14.8	CM_v_Zach White Commanders	CM	8
+RB	Antonio Gibson	Wsh	RB	8.6	20.7	CM_v_Zach White Commanders	CM	8
+WR	Gabe Davis	Buf	WR	11.7	5.5	CM_v_Zach White Commanders	CM	8
+WR	DeVonta Smith	Phi	WR	12.6	7.3	CM_v_Zach White Commanders	CM	8
+TE	Tyler Higbee	LAR	TE	11.0	3.5	CM_v_Zach White Commanders	CM	8
+FLEX	Curtis Samuel	Wsh	WR	10.8	10.9	CM_v_Zach White Commanders	CM	8
+OP	Kirk Cousins	Min	QB	16.8	23.48	CM_v_Zach White Commanders	CM	8
+D/ST	Cowboys	Dal	D/ST	9.2	11.0	CM_v_Zach White Commanders	CM	8
+Bench	Rams	LAR	D/ST	6.4	2.0	CM_v_Zach White Commanders	CM	8
+Bench	Austin Ekeler	LAC	RB	0.0	0.0	CM_v_Zach White Commanders	CM	8
+Bench	JuJu Smith-Schuster	NE	WR	0.0	0.0	CM_v_Zach White Commanders	CM	8
+Bench	Kareem Hunt	Cle	RB	8.8	11.2	CM_v_Zach White Commanders	CM	8
+Bench	Ja'Marr Chase	Cin	WR	0.0	0.0	CM_v_Zach White Commanders	CM	8
+Bench	Michael Thomas	NO	WR	0.0	0.0	CM_v_Zach White Commanders	CM	8
+Bench	PJ Walker	Chi	QB	13.7	17.68	CM_v_Zach White Commanders	CM	8
+QB	Jared Goff	Det	QB	16.2	18.64	CM_v_Zach White Commanders	Zach White Commanders	8
+RB	Saquon Barkley	NYG	RB	22.9	15.2	CM_v_Zach White Commanders	Zach White Commanders	8
+RB	Gus Edwards	Bal	RB	8.3	6.5	CM_v_Zach White Commanders	Zach White Commanders	8
+WR	Courtland Sutton	Den	WR	13.3	2.3	CM_v_Zach White Commanders	Zach White Commanders	8
+WR	Amari Cooper	Cle	WR	14.1	23.1	CM_v_Zach White Commanders	Zach White Commanders	8
+TE	George Kittle	SF	TE	11.8	12.9	CM_v_Zach White Commanders	Zach White Commanders	8
+FLEX	David Montgomery	Det	RB	11.3	8.5	CM_v_Zach White Commanders	Zach White Commanders	8
+OP	Andy Dalton	Car	QB	17.1	17.16	CM_v_Zach White Commanders	Zach White Commanders	8
+D/ST	Falcons	Atl	D/ST	8.1	3.0	CM_v_Zach White Commanders	Zach White Commanders	8
+Bench	Patrick Mahomes	KC	QB	0.0	0.0	CM_v_Zach White Commanders	Zach White Commanders	8
+Bench	Melvin Gordon III	FA	RB	10.0	14.2	CM_v_Zach White Commanders	Zach White Commanders	8
+Bench	Darrell Henderson Jr.	FA	RB	11.7	5.0	CM_v_Zach White Commanders	Zach White Commanders	8
+Bench	Darren Waller	NYG	TE	0.0	0.0	CM_v_Zach White Commanders	Zach White Commanders	8
+Bench	Kyren Williams	LAR	RB	0.0	0.0	CM_v_Zach White Commanders	Zach White Commanders	8
+Bench	Brian Robinson Jr.	Wsh	RB	9.2	2.0	CM_v_Zach White Commanders	Zach White Commanders	8
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	CM_v_Zach White Commanders	Zach White Commanders	8
+QB	Dak Prescott	Dal	QB	15.9	26.4	DW_v_SH	DW	8
+RB	Joe Mixon	Cin	RB	18.3	12.9	DW_v_SH	DW	8
+RB	Tony Pollard	Dal	RB	16.5	33.7	DW_v_SH	DW	8
+WR	DeAndre Hopkins	Ari	WR	14.4	33.9	DW_v_SH	DW	8
+WR	CeeDee Lamb	Dal	WR	15.3	18.8	DW_v_SH	DW	8
+TE	Greg Dulcich	Den	TE	8.4	12.7	DW_v_SH	DW	8
+FLEX	A.J. Brown	Phi	WR	16.2	39.6	DW_v_SH	DW	8
+OP	Malik Willis	Ten	QB	14.9	2.4	DW_v_SH	DW	8
+D/ST	Colts	Ind	D/ST	6.0	4.0	DW_v_SH	DW	8
+Bench	Jimmy Garoppolo	LV	QB	13.7	17.7	DW_v_SH	DW	8
+Bench	Kenny Pickett	Pit	QB	14.0	8.34	DW_v_SH	DW	8
+Bench	Joshua Palmer	LAC	WR	0.0	0.0	DW_v_SH	DW	8
+Bench	Mecole Hardman	KC	WR	0.0	0.0	DW_v_SH	DW	8
+Bench	Tyler Boyd	Cin	WR	11.8	12.8	DW_v_SH	DW	8
+Bench	Evan Engram	Jax	TE	7.6	15.5	DW_v_SH	DW	8
+Bench	Alexander Mattison	Min	RB	5.5	10.0	DW_v_SH	DW	8
+QB	Tom Brady	TB	QB	18.3	17.1	DW_v_SH	SH	8
+RB	D'Onta Foreman	Chi	RB	12.1	31.8	DW_v_SH	SH	8
+RB	Alvin Kamara	NO	RB	18.7	42.8	DW_v_SH	SH	8
+WR	DJ Moore	Chi	WR	13.9	27.5	DW_v_SH	SH	8
+WR	Chris Godwin	TB	WR	14.3	13.5	DW_v_SH	SH	8
+TE	Hayden Hurst	Car	TE	9.4	8.2	DW_v_SH	SH	8
+FLEX	Christian McCaffrey	SF	RB	18.5	40.26	DW_v_SH	SH	8
+OP	Sam Ehlinger	Ind	QB	14.9	7.54	DW_v_SH	SH	8
+D/ST	49ers	SF	D/ST	7.5	5.0	DW_v_SH	SH	8
+Bench	Tyler Lockett	Sea	WR	13.0	15.3	DW_v_SH	SH	8
+Bench	Mark Ingram II	NO	RB	4.7	1.2	DW_v_SH	SH	8
+Bench	Aaron Rodgers	GB	QB	14.2	16.22	DW_v_SH	SH	8
+Bench	Travis Kelce	KC	TE	0.0	0.0	DW_v_SH	SH	8
+Bench	Jamaal Williams	NO	RB	10.2	22.6	DW_v_SH	SH	8
+Bench	Chuba Hubbard	Car	RB	0.0	0.0	DW_v_SH	SH	8
+Bench	Adam Thielen	FA	WR	11.6	12.7	DW_v_SH	SH	8
+QB	Kyler Murray	Ari	QB	19.3	26.64	JK_v_CC	JK	8
+RB	Dalvin Cook	Min	RB	16.1	25.1	JK_v_CC	JK	8
+RB	Nyheim Hines	Buf	RB	8.5	12.9	JK_v_CC	JK	8
+WR	Mike Evans	TB	WR	15.5	18.3	JK_v_CC	JK	8
+WR	Hunter Renfrow	LV	WR	9.6	1.6	JK_v_CC	JK	8
+TE	Mark Andrews	Bal	TE	15.9	6.3	JK_v_CC	JK	8
+FLEX	Zach Ertz	Ari	TE	11.7	13.4	JK_v_CC	JK	8
+OP	Mac Jones	NE	QB	13.1	12.66	JK_v_CC	JK	8
+D/ST	Bengals	Cin	D/ST	6.1	5.0	JK_v_CC	JK	8
+Bench	Ezekiel Elliott	FA	RB	0.0	0.0	JK_v_CC	JK	8
+Bench	Matt Ryan	FA	QB	0.0	0.0	JK_v_CC	JK	8
+Bench	Marquise Brown	Ari	WR	0.0	0.0	JK_v_CC	JK	8
+Bench	Bills	Buf	D/ST	6.8	4.0	JK_v_CC	JK	8
+Bench	J.D. McKissic	FA	RB	5.9	5.0	JK_v_CC	JK	8
+Bench	Richie James	NYG	WR	3.1	-4.0	JK_v_CC	JK	8
+Bench	Robert Woods	FA	WR	8.5	2.6	JK_v_CC	JK	8
+QB	Lamar Jackson	Bal	QB	22.1	21.82	JK_v_CC	CC	8
+RB	Derrick Henry	Ten	RB	19.6	35.8	JK_v_CC	CC	8
+RB	Miles Sanders	Car	RB	14.1	13.8	JK_v_CC	CC	8
+WR	Brandin Cooks	Dal	WR	12.0	11.3	JK_v_CC	CC	8
+WR	Amon-Ra St. Brown	Det	WR	16.7	13.9	JK_v_CC	CC	8
+TE	Pat Freiermuth	Pit	TE	11.3	9.7	JK_v_CC	CC	8
+FLEX	Chris Olave	NO	WR	14.3	10.2	JK_v_CC	CC	8
+OP	Joe Burrow	Cin	QB	22.4	14.48	JK_v_CC	CC	8
+D/ST	Packers	GB	D/ST	2.7	6.0	JK_v_CC	CC	8
+Bench	James Conner	Ari	RB	0.0	0.0	JK_v_CC	CC	8
+Bench	Drake London	Atl	WR	9.5	7.1	JK_v_CC	CC	8
+Bench	Ryan Tannehill	Ten	QB	0.0	0.0	JK_v_CC	CC	8
+Bench	Corey Davis	NYJ	WR	0.0	0.0	JK_v_CC	CC	8
+Bench	Jerick McKinnon	KC	RB	0.0	0.0	JK_v_CC	CC	8
+Bench	Alec Pierce	Ind	WR	7.2	9.5	JK_v_CC	CC	8
+Bench	Rex Burkhead	Hou	RB	7.7	1.2	JK_v_CC	CC	8
+QB	Jalen Hurts	Phi	QB	24.7	28.4	AY_v_TN	AY	8
+RB	Travis Etienne Jr.	Jax	RB	15.0	25.2	AY_v_TN	AY	8
+RB	Jonathan Taylor	Ind	RB	17.2	5.6	AY_v_TN	AY	8
+WR	Justin Jefferson	Min	WR	18.4	15.8	AY_v_TN	AY	8
+WR	Rashod Bateman	Bal	WR	11.0	0.0	AY_v_TN	AY	8
+TE	Dallas Goedert	Phi	TE	10.5	12.4	AY_v_TN	AY	8
+FLEX	Tee Higgins	Cin	WR	17.3	13.9	AY_v_TN	AY	8
+OP	Wan'Dale Robinson	NYG	WR	9.6	3.5	AY_v_TN	AY	8
+D/ST	Empty	--	--	--	--	AY_v_TN	AY	8
+Bench	AJ Dillon	GB	RB	6.4	7.3	AY_v_TN	AY	8
+Bench	Jakobi Meyers	LV	WR	10.8	21.0	AY_v_TN	AY	8
+Bench	Latavius Murray	Den	RB	9.2	12.9	AY_v_TN	AY	8
+Bench	Carson Wentz	FA	QB	0.0	0.0	AY_v_TN	AY	8
+Bench	Kadarius Toney	KC	WR	0.0	0.0	AY_v_TN	AY	8
+Bench	Justin Herbert	LAC	QB	0.0	0.0	AY_v_TN	AY	8
+Bench	Chase Edmonds	TB	RB	8.2	1.4	AY_v_TN	AY	8
+Bench	Romeo Doubs	GB	WR	10.3	16.2	AY_v_TN	AY	8
+QB	Daniel Jones	NYG	QB	19.0	9.04	AY_v_TN	TN	8
+RB	Nick Chubb	Cle	RB	16.3	25.4	AY_v_TN	TN	8
+RB	Josh Jacobs	LV	RB	19.5	7.4	AY_v_TN	TN	8
+WR	Cooper Kupp	LAR	WR	20.2	22.9	AY_v_TN	TN	8
+WR	Diontae Johnson	Pit	WR	12.2	8.5	AY_v_TN	TN	8
+TE	Dalton Schultz	Hou	TE	8.3	13.4	AY_v_TN	TN	8
+FLEX	Eno Benjamin	NO	RB	13.2	8.5	AY_v_TN	TN	8
+OP	Taylor Heinicke	Atl	QB	15.6	23.06	AY_v_TN	TN	8
+D/ST	Ravens	Bal	D/ST	4.7	5.0	AY_v_TN	TN	8
+Bench	Deebo Samuel	SF	WR	0.0	0.0	AY_v_TN	TN	8
+Bench	Jameis Winston	NO	QB	0.0	0.0	AY_v_TN	TN	8
+Bench	Christian Kirk	Jax	WR	12.1	7.0	AY_v_TN	TN	8
+Bench	Chargers	LAC	D/ST	--	0.0	AY_v_TN	TN	8
+Bench	Rondale Moore	Ari	WR	10.0	23.4	AY_v_TN	TN	8
+Bench	Gerald Everett	LAC	TE	0.0	0.0	AY_v_TN	TN	8
+Bench	Garrett Wilson	NYJ	WR	10.3	17.5	AY_v_TN	TN	8
+QB	Geno Smith	Sea	QB	18.8	21.8	JR_v_AY	JR	9
+RB	Rhamondre Stevenson	NE	RB	18.1	16.0	JR_v_AY	JR	9
+RB	Dameon Pierce	Hou	RB	17.1	13.9	JR_v_AY	JR	9
+WR	Tyreek Hill	Mia	WR	23.1	27.3	JR_v_AY	JR	9
+WR	Allen Lazard	NYJ	WR	13.4	18.7	JR_v_AY	JR	9
+TE	T.J. Hockenson	Min	TE	10.1	16.0	JR_v_AY	JR	9
+FLEX	Devin Singletary	Hou	RB	11.5	8.8	JR_v_AY	JR	9
+OP	Michael Carter	NYJ	RB	12.4	15.6	JR_v_AY	JR	9
+D/ST	Colts	Ind	D/ST	6.7	10.0	JR_v_AY	JR	9
+Bench	Russell Wilson	Den	QB	0.0	0.0	JR_v_AY	JR	9
+Bench	Breece Hall	NYJ	RB	0.0	0.0	JR_v_AY	JR	9
+Bench	Davis Mills	Hou	QB	12.2	13.96	JR_v_AY	JR	9
+Bench	George Pickens	Pit	WR	0.0	0.0	JR_v_AY	JR	9
+Bench	Robbie Anderson	FA	WR	1.1	0.6	JR_v_AY	JR	9
+Bench	Jacoby Brissett	Wsh	QB	0.0	0.0	JR_v_AY	JR	9
+Bench	Mo Alie-Cox	Ind	TE	2.9	3.3	JR_v_AY	JR	9
+QB	Jalen Hurts	Phi	QB	24.7	20.02	JR_v_AY	AY	9
+RB	Kenyan Drake	Bal	RB	9.5	24.9	JR_v_AY	AY	9
+RB	Joe Mixon	Cin	RB	18.2	55.1	JR_v_AY	AY	9
+WR	Justin Jefferson	Min	WR	18.0	25.5	JR_v_AY	AY	9
+WR	Tee Higgins	Cin	WR	15.7	13.0	JR_v_AY	AY	9
+TE	Dallas Goedert	Phi	TE	10.9	24.0	JR_v_AY	AY	9
+FLEX	Jakobi Meyers	LV	WR	11.9	7.4	JR_v_AY	AY	9
+OP	Zay Jones	Jax	WR	10.9	9.0	JR_v_AY	AY	9
+D/ST	Vikings	Min	D/ST	6.2	8.0	JR_v_AY	AY	9
+Bench	AJ Dillon	GB	RB	8.1	6.4	JR_v_AY	AY	9
+Bench	Jonathan Taylor	Ind	RB	0.0	0.0	JR_v_AY	AY	9
+Bench	Carson Wentz	FA	QB	0.0	0.0	JR_v_AY	AY	9
+Bench	Wan'Dale Robinson	NYG	WR	0.0	0.0	JR_v_AY	AY	9
+Bench	Kadarius Toney	KC	WR	4.0	3.2	JR_v_AY	AY	9
+Bench	CeeDee Lamb	Dal	WR	0.0	0.0	JR_v_AY	AY	9
+Bench	Dak Prescott	Dal	QB	0.0	0.0	JR_v_AY	AY	9
+QB	Lamar Jackson	Bal	QB	21.5	17.52	CC_v_MR	CC	9
+RB	Derrick Henry	Ten	RB	20.0	23.5	CC_v_MR	CC	9
+RB	Miles Sanders	Car	RB	13.5	15.3	CC_v_MR	CC	9
+WR	Amon-Ra St. Brown	Det	WR	15.6	9.5	CC_v_MR	CC	9
+WR	Drake London	Atl	WR	9.5	3.3	CC_v_MR	CC	9
+TE	Taysom Hill	NO	TE	8.4	1.12	CC_v_MR	CC	9
+FLEX	Chris Olave	NO	WR	13.6	13.1	CC_v_MR	CC	9
+OP	Joe Burrow	Cin	QB	20.4	19.14	CC_v_MR	CC	9
+D/ST	Packers	GB	D/ST	5.1	5.0	CC_v_MR	CC	9
+Bench	James Conner	Ari	RB	11.3	11.4	CC_v_MR	CC	9
+Bench	Brandin Cooks	Dal	WR	0.0	0.0	CC_v_MR	CC	9
+Bench	Pat Freiermuth	Pit	TE	0.0	0.0	CC_v_MR	CC	9
+Bench	Ryan Tannehill	Ten	QB	0.0	0.0	CC_v_MR	CC	9
+Bench	Corey Davis	NYJ	WR	0.0	0.0	CC_v_MR	CC	9
+Bench	Alec Pierce	Ind	WR	8.1	3.3	CC_v_MR	CC	9
+Bench	Rex Burkhead	Hou	RB	4.7	2.5	CC_v_MR	CC	9
+QB	Tua Tagovailoa	Mia	QB	20.1	24.08	CC_v_MR	MR	9
+RB	D'Andre Swift	Det	RB	13.1	8.0	CC_v_MR	MR	9
+RB	Kenneth Walker III	Sea	RB	14.9	27.9	CC_v_MR	MR	9
+WR	Jaylen Waddle	Mia	WR	15.4	19.5	CC_v_MR	MR	9
+WR	Stefon Diggs	Buf	WR	20.1	14.3	CC_v_MR	MR	9
+TE	Robert Tonyan	Chi	TE	8.9	5.9	CC_v_MR	MR	9
+FLEX	Mack Hollins	LV	WR	8.7	3.7	CC_v_MR	MR	9
+OP	Derek Carr	NO	QB	16.4	18.36	CC_v_MR	MR	9
+D/ST	Eagles	Phi	D/ST	8.2	8.0	CC_v_MR	MR	9
+Bench	Keenan Allen	LAC	WR	0.0	0.0	CC_v_MR	MR	9
+Bench	Najee Harris	Pit	RB	0.0	0.0	CC_v_MR	MR	9
+Bench	Damien Harris	Buf	RB	0.0	0.0	CC_v_MR	MR	9
+Bench	Zach Wilson	NYJ	QB	13.9	10.56	CC_v_MR	MR	9
+Bench	Jerry Jeudy	Den	WR	0.0	0.0	CC_v_MR	MR	9
+Bench	Parris Campbell	NYG	WR	9.2	3.6	CC_v_MR	MR	9
+Bench	Jeff Wilson Jr.	Mia	RB	5.9	16.2	CC_v_MR	MR	9
+QB	Tom Brady	TB	QB	16.3	15.2	Zach White Commanders_v_MF	Zach White Commanders	9
+RB	Alvin Kamara	NO	RB	20.3	9.2	Zach White Commanders_v_MF	Zach White Commanders	9
+RB	D'Onta Foreman	Chi	RB	13.0	4.1	Zach White Commanders_v_MF	Zach White Commanders	9
+WR	DJ Moore	Chi	WR	13.7	4.4	Zach White Commanders_v_MF	Zach White Commanders	9
+WR	Gabe Davis	Buf	WR	12.8	5.3	Zach White Commanders_v_MF	Zach White Commanders	9
+TE	Evan Engram	Jax	TE	9.7	1.8	Zach White Commanders_v_MF	Zach White Commanders	9
+FLEX	David Montgomery	Det	RB	11.9	5.4	Zach White Commanders_v_MF	Zach White Commanders	9
+OP	Andy Dalton	Car	QB	16.6	11.9	Zach White Commanders_v_MF	Zach White Commanders	9
+D/ST	Dolphins	Mia	D/ST	6.7	8.0	Zach White Commanders_v_MF	Zach White Commanders	9
+Bench	Courtland Sutton	Den	WR	0.0	0.0	Zach White Commanders_v_MF	Zach White Commanders	9
+Bench	Darrell Henderson Jr.	FA	RB	7.3	5.6	Zach White Commanders_v_MF	Zach White Commanders	9
+Bench	Darren Waller	NYG	TE	0.0	0.0	Zach White Commanders_v_MF	Zach White Commanders	9
+Bench	Brian Robinson Jr.	Wsh	RB	9.1	5.8	Zach White Commanders_v_MF	Zach White Commanders	9
+Bench	Gus Edwards	Bal	RB	0.0	0.0	Zach White Commanders_v_MF	Zach White Commanders	9
+Bench	George Kittle	SF	TE	0.0	0.0	Zach White Commanders_v_MF	Zach White Commanders	9
+Bench	PJ Walker	Chi	QB	12.2	-1.04	Zach White Commanders_v_MF	Zach White Commanders	9
+QB	Justin Fields	Chi	QB	17.2	42.72	Zach White Commanders_v_MF	MF	9
+RB	Raheem Mostert	Mia	RB	12.6	8.6	Zach White Commanders_v_MF	MF	9
+RB	Cordarrelle Patterson	Atl	RB	10.1	18.3	Zach White Commanders_v_MF	MF	9
+WR	Devin Duvernay	Bal	WR	10.3	1.5	Zach White Commanders_v_MF	MF	9
+WR	Michael Pittman Jr.	Ind	WR	13.4	5.2	Zach White Commanders_v_MF	MF	9
+TE	Kyle Pitts	Atl	TE	10.4	4.7	Zach White Commanders_v_MF	MF	9
+FLEX	Marquez Valdes-Scantling	KC	WR	9.0	2.2	Zach White Commanders_v_MF	MF	9
+OP	Matthew Stafford	LAR	QB	14.9	10.5	Zach White Commanders_v_MF	MF	9
+D/ST	Buccaneers	TB	D/ST	6.6	9.0	Zach White Commanders_v_MF	MF	9
+Bench	Mike Williams	LAC	WR	0.0	0.0	Zach White Commanders_v_MF	MF	9
+Bench	David Njoku	Cle	TE	0.0	0.0	Zach White Commanders_v_MF	MF	9
+Bench	Jahan Dotson	Wsh	WR	0.0	0.0	Zach White Commanders_v_MF	MF	9
+Bench	Brandon Aiyuk	SF	WR	0.0	0.0	Zach White Commanders_v_MF	MF	9
+Bench	Donovan Peoples-Jones	Cle	WR	0.0	0.0	Zach White Commanders_v_MF	MF	9
+Bench	Tyler Allgeier	Atl	RB	8.0	13.3	Zach White Commanders_v_MF	MF	9
+Bench	Kenny Pickett	Pit	QB	0.0	0.0	Zach White Commanders_v_MF	MF	9
+QB	Josh Allen	Buf	QB	23.9	26.8	EM_v_DW	EM	9
+RB	Aaron Jones	GB	RB	18.4	6.5	EM_v_DW	EM	9
+RB	Clyde Edwards-Helaire	KC	RB	8.5	2.9	EM_v_DW	EM	9
+WR	Terry McLaurin	Wsh	WR	14.0	10.6	EM_v_DW	EM	9
+WR	DK Metcalf	Sea	WR	15.0	14.7	EM_v_DW	EM	9
+TE	Dawson Knox	Buf	TE	7.9	5.5	EM_v_DW	EM	9
+FLEX	Davante Adams	LV	WR	16.9	36.6	EM_v_DW	EM	9
+OP	Trevor Lawrence	Jax	QB	18.1	16.7	EM_v_DW	EM	9
+D/ST	Patriots	NE	D/ST	7.2	26.0	EM_v_DW	EM	9
+Bench	Darnell Mooney	Chi	WR	9.8	17.5	EM_v_DW	EM	9
+Bench	Chase Claypool	Chi	WR	8.0	3.7	EM_v_DW	EM	9
+Bench	James Robinson	NE	RB	7.4	13.3	EM_v_DW	EM	9
+Bench	Hunter Henry	NE	TE	4.6	9.0	EM_v_DW	EM	9
+Bench	Jarvis Landry	NO	WR	0.0	0.0	EM_v_DW	EM	9
+Bench	Steelers	Pit	D/ST	--	0.0	EM_v_DW	EM	9
+Bench	Will Dissly	Sea	TE	5.3	5.4	EM_v_DW	EM	9
+QB	Justin Herbert	LAC	QB	21.8	13.1	EM_v_DW	DW	9
+RB	Deon Jackson	Ind	RB	14.2	5.6	EM_v_DW	DW	9
+RB	Travis Etienne Jr.	Jax	RB	17.8	26.6	EM_v_DW	DW	9
+WR	A.J. Brown	Phi	WR	17.9	15.9	EM_v_DW	DW	9
+WR	Joshua Palmer	LAC	WR	13.2	18.6	EM_v_DW	DW	9
+TE	Isaiah Likely	Bal	TE	10.0	9.4	EM_v_DW	DW	9
+FLEX	DeAndre Hopkins	Ari	WR	16.7	13.6	EM_v_DW	DW	9
+OP	Tyler Boyd	Cin	WR	11.8	9.4	EM_v_DW	DW	9
+D/ST	Chiefs	KC	D/ST	6.6	6.0	EM_v_DW	DW	9
+Bench	Jimmy Garoppolo	LV	QB	0.0	0.0	EM_v_DW	DW	9
+Bench	Greg Dulcich	Den	TE	0.0	0.0	EM_v_DW	DW	9
+Bench	Tony Pollard	Dal	RB	0.0	0.0	EM_v_DW	DW	9
+Bench	Romeo Doubs	GB	WR	10.6	2.8	EM_v_DW	DW	9
+Bench	Sony Michel	FA	RB	6.8	1.2	EM_v_DW	DW	9
+Bench	Allen Robinson II	LAR	WR	10.3	5.4	EM_v_DW	DW	9
+Bench	Kyren Williams	LAR	RB	0.0	0.0	EM_v_DW	DW	9
+QB	Taylor Heinicke	Atl	QB	17.8	14.66	TN_v_CM	TN	9
+RB	Josh Jacobs	LV	RB	18.4	11.7	TN_v_CM	TN	9
+RB	Khalil Herbert	Chi	RB	8.5	2.3	TN_v_CM	TN	9
+WR	Cooper Kupp	LAR	WR	21.0	26.8	TN_v_CM	TN	9
+WR	Garrett Wilson	NYJ	WR	10.4	17.9	TN_v_CM	TN	9
+TE	Gerald Everett	LAC	TE	12.0	8.6	TN_v_CM	TN	9
+FLEX	Rondale Moore	Ari	WR	11.9	14.9	TN_v_CM	TN	9
+OP	Christian Kirk	Jax	WR	13.4	21.6	TN_v_CM	TN	9
+D/ST	Ravens	Bal	D/ST	5.1	11.0	TN_v_CM	TN	9
+Bench	Deebo Samuel	SF	WR	0.0	0.0	TN_v_CM	TN	9
+Bench	Nick Chubb	Cle	RB	0.0	0.0	TN_v_CM	TN	9
+Bench	Diontae Johnson	Pit	WR	0.0	0.0	TN_v_CM	TN	9
+Bench	Jameis Winston	NO	QB	0.0	0.0	TN_v_CM	TN	9
+Bench	Daniel Jones	NYG	QB	0.0	0.0	TN_v_CM	TN	9
+Bench	Dalton Schultz	Hou	TE	0.0	0.0	TN_v_CM	TN	9
+Bench	Eno Benjamin	NO	RB	9.8	3.7	TN_v_CM	TN	9
+QB	Marcus Mariota	Phi	QB	17.7	7.56	TN_v_CM	CM	9
+RB	Leonard Fournette	FA	RB	13.3	11.0	TN_v_CM	CM	9
+RB	Austin Ekeler	LAC	RB	21.7	24.1	TN_v_CM	CM	9
+WR	DeVonta Smith	Phi	WR	13.0	4.2	TN_v_CM	CM	9
+WR	JuJu Smith-Schuster	NE	WR	12.9	18.8	TN_v_CM	CM	9
+TE	Tyler Higbee	LAR	TE	10.7	0.0	TN_v_CM	CM	9
+FLEX	Antonio Gibson	Wsh	RB	11.6	6.7	TN_v_CM	CM	9
+OP	Kirk Cousins	Min	QB	17.1	17.4	TN_v_CM	CM	9
+D/ST	Rams	LAR	D/ST	5.1	4.0	TN_v_CM	CM	9
+Bench	Curtis Samuel	Wsh	WR	11.3	17.1	TN_v_CM	CM	9
+Bench	Cowboys	Dal	D/ST	--	0.0	TN_v_CM	CM	9
+Bench	Kareem Hunt	Cle	RB	0.0	0.0	TN_v_CM	CM	9
+Bench	Ja'Marr Chase	Cin	WR	0.0	0.0	TN_v_CM	CM	9
+Bench	Melvin Gordon III	FA	RB	0.0	0.0	TN_v_CM	CM	9
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	TN_v_CM	CM	9
+Bench	Isiah Pacheco	KC	RB	6.9	1.9	TN_v_CM	CM	9
+QB	Patrick Mahomes	KC	QB	22.9	35.14	SH_v_JK	SH	9
+RB	Jamaal Williams	NO	RB	11.4	10.1	SH_v_JK	SH	9
+RB	Jerick McKinnon	KC	RB	6.0	10.4	SH_v_JK	SH	9
+WR	Chris Godwin	TB	WR	13.9	10.7	SH_v_JK	SH	9
+WR	Tyler Lockett	Sea	WR	13.9	17.7	SH_v_JK	SH	9
+TE	Travis Kelce	KC	TE	17.3	20.6	SH_v_JK	SH	9
+FLEX	Adam Thielen	FA	WR	12.1	9.7	SH_v_JK	SH	9
+OP	Aaron Rodgers	GB	QB	19.0	16.64	SH_v_JK	SH	9
+D/ST	49ers	SF	D/ST	--	0.0	SH_v_JK	SH	9
+Bench	Christian McCaffrey	SF	RB	0.0	0.0	SH_v_JK	SH	9
+Bench	Sam Ehlinger	Ind	QB	14.2	7.02	SH_v_JK	SH	9
+Bench	Amari Cooper	Cle	WR	0.0	0.0	SH_v_JK	SH	9
+Bench	Saquon Barkley	NYG	RB	0.0	0.0	SH_v_JK	SH	9
+Bench	Jared Goff	Det	QB	15.3	12.38	SH_v_JK	SH	9
+Bench	Elijah Mitchell	SF	RB	0.0	0.0	SH_v_JK	SH	9
+Bench	Alexander Mattison	Min	RB	4.7	1.1	SH_v_JK	SH	9
+QB	Kyler Murray	Ari	QB	20.1	19.0	SH_v_JK	JK	9
+RB	Dalvin Cook	Min	RB	17.1	13.6	SH_v_JK	JK	9
+RB	Nyheim Hines	Buf	RB	7.4	0.0	SH_v_JK	JK	9
+WR	Mike Evans	TB	WR	13.8	9.0	SH_v_JK	JK	9
+WR	Hunter Renfrow	LV	WR	7.8	5.6	SH_v_JK	JK	9
+TE	Zach Ertz	Ari	TE	10.8	15.0	SH_v_JK	JK	9
+FLEX	Robert Woods	FA	WR	10.8	0.0	SH_v_JK	JK	9
+OP	Mac Jones	NE	QB	13.6	9.68	SH_v_JK	JK	9
+D/ST	Bengals	Cin	D/ST	7.6	9.0	SH_v_JK	JK	9
+Bench	Mark Andrews	Bal	TE	0.0	0.0	SH_v_JK	JK	9
+Bench	Ezekiel Elliott	FA	RB	0.0	0.0	SH_v_JK	JK	9
+Bench	Matt Ryan	FA	QB	0.0	0.0	SH_v_JK	JK	9
+Bench	Marquise Brown	Ari	WR	0.0	0.0	SH_v_JK	JK	9
+Bench	Bills	Buf	D/ST	7.4	5.0	SH_v_JK	JK	9
+Bench	J.D. McKissic	FA	RB	0.0	0.0	SH_v_JK	JK	9
+Bench	Richie James	NYG	WR	0.0	0.0	SH_v_JK	JK	9
+QB	Marcus Mariota	Phi	QB	16.9	18.74	CM_v_JR	CM	10
+RB	Leonard Fournette	FA	RB	13.6	11.8	CM_v_JR	CM	10
+RB	Austin Ekeler	LAC	RB	20.3	13.3	CM_v_JR	CM	10
+WR	DeVonta Smith	Phi	WR	12.0	13.9	CM_v_JR	CM	10
+WR	JuJu Smith-Schuster	NE	WR	14.2	5.3	CM_v_JR	CM	10
+TE	Tyler Higbee	LAR	TE	8.0	15.3	CM_v_JR	CM	10
+FLEX	Antonio Gibson	Wsh	RB	11.9	14.8	CM_v_JR	CM	10
+OP	Kirk Cousins	Min	QB	16.6	17.48	CM_v_JR	CM	10
+D/ST	Cowboys	Dal	D/ST	6.9	5.0	CM_v_JR	CM	10
+Bench	Curtis Samuel	Wsh	WR	10.0	6.0	CM_v_JR	CM	10
+Bench	Rams	LAR	D/ST	7.3	5.0	CM_v_JR	CM	10
+Bench	Kareem Hunt	Cle	RB	10.2	2.9	CM_v_JR	CM	10
+Bench	Ja'Marr Chase	Cin	WR	0.0	0.0	CM_v_JR	CM	10
+Bench	Melvin Gordon III	FA	RB	7.3	11.0	CM_v_JR	CM	10
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	CM_v_JR	CM	10
+Bench	Isiah Pacheco	KC	RB	7.0	6.2	CM_v_JR	CM	10
+QB	Geno Smith	Sea	QB	17.8	19.2	CM_v_JR	JR	10
+RB	Devin Singletary	Hou	RB	11.1	15.7	CM_v_JR	JR	10
+RB	Dameon Pierce	Hou	RB	17.1	12.2	CM_v_JR	JR	10
+WR	Tyreek Hill	Mia	WR	22.8	15.4	CM_v_JR	JR	10
+WR	Allen Lazard	NYJ	WR	13.1	7.5	CM_v_JR	JR	10
+TE	T.J. Hockenson	Min	TE	12.3	11.5	CM_v_JR	JR	10
+FLEX	George Pickens	Pit	WR	10.1	14.5	CM_v_JR	JR	10
+OP	Jacoby Brissett	Wsh	QB	16.2	16.48	CM_v_JR	JR	10
+D/ST	Colts	Ind	D/ST	6.0	2.0	CM_v_JR	JR	10
+Bench	Russell Wilson	Den	QB	14.9	15.24	CM_v_JR	JR	10
+Bench	Breece Hall	NYJ	RB	0.0	0.0	CM_v_JR	JR	10
+Bench	Rhamondre Stevenson	NE	RB	0.0	0.0	CM_v_JR	JR	10
+Bench	Davis Mills	Hou	QB	13.0	15.76	CM_v_JR	JR	10
+Bench	Robbie Anderson	FA	WR	4.7	0.0	CM_v_JR	JR	10
+Bench	Michael Carter	NYJ	RB	0.0	0.0	CM_v_JR	JR	10
+Bench	Mo Alie-Cox	Ind	TE	5.2	0.0	CM_v_JR	JR	10
+QB	Tua Tagovailoa	Mia	QB	21.2	23.4	MR_v_SH	MR	10
+RB	D'Andre Swift	Det	RB	13.1	8.2	MR_v_SH	MR	10
+RB	Kenneth Walker III	Sea	RB	16.1	13.2	MR_v_SH	MR	10
+WR	Jaylen Waddle	Mia	WR	15.7	10.6	MR_v_SH	MR	10
+WR	Stefon Diggs	Buf	WR	20.1	24.8	MR_v_SH	MR	10
+TE	Evan Engram	Jax	TE	8.8	4.4	MR_v_SH	MR	10
+FLEX	Najee Harris	Pit	RB	12.1	9.9	MR_v_SH	MR	10
+OP	Derek Carr	NO	QB	15.6	17.92	MR_v_SH	MR	10
+D/ST	Eagles	Phi	D/ST	8.0	8.0	MR_v_SH	MR	10
+Bench	Keenan Allen	LAC	WR	0.0	0.0	MR_v_SH	MR	10
+Bench	Damien Harris	Buf	RB	0.0	0.0	MR_v_SH	MR	10
+Bench	Zach Wilson	NYJ	QB	0.0	0.0	MR_v_SH	MR	10
+Bench	Jerry Jeudy	Den	WR	12.3	0.0	MR_v_SH	MR	10
+Bench	Jeff Wilson Jr.	Mia	RB	10.9	22.3	MR_v_SH	MR	10
+Bench	Odell Beckham Jr.	FA	WR	0.0	0.0	MR_v_SH	MR	10
+Bench	Noah Fant	Sea	TE	7.2	6.4	MR_v_SH	MR	10
+QB	Patrick Mahomes	KC	QB	24.6	32.14	MR_v_SH	SH	10
+RB	Christian McCaffrey	SF	RB	22.6	17.7	MR_v_SH	SH	10
+RB	Saquon Barkley	NYG	RB	24.9	23.0	MR_v_SH	SH	10
+WR	Chris Godwin	TB	WR	13.5	19.1	MR_v_SH	SH	10
+WR	Tyler Lockett	Sea	WR	13.7	13.2	MR_v_SH	SH	10
+TE	Travis Kelce	KC	TE	19.5	20.1	MR_v_SH	SH	10
+FLEX	Amari Cooper	Cle	WR	14.1	6.2	MR_v_SH	SH	10
+OP	Jared Goff	Det	QB	16.5	14.84	MR_v_SH	SH	10
+D/ST	49ers	SF	D/ST	5.2	9.0	MR_v_SH	SH	10
+Bench	Aaron Rodgers	GB	QB	15.0	19.36	MR_v_SH	SH	10
+Bench	Jamaal Williams	NO	RB	12.1	11.9	MR_v_SH	SH	10
+Bench	Adam Thielen	FA	WR	11.9	9.9	MR_v_SH	SH	10
+Bench	Sam Ehlinger	Ind	QB	1.4	0.0	MR_v_SH	SH	10
+Bench	Jerick McKinnon	KC	RB	8.1	11.8	MR_v_SH	SH	10
+Bench	Elijah Mitchell	SF	RB	4.5	9.8	MR_v_SH	SH	10
+Bench	Alexander Mattison	Min	RB	3.6	2.9	MR_v_SH	SH	10
+QB	Justin Fields	Chi	QB	22.6	40.38	MF_v_TN	MF	10
+RB	Cordarrelle Patterson	Atl	RB	12.4	3.0	MF_v_TN	MF	10
+RB	Tyler Allgeier	Atl	RB	6.2	3.3	MF_v_TN	MF	10
+WR	Brandon Aiyuk	SF	WR	11.9	12.4	MF_v_TN	MF	10
+WR	Michael Pittman Jr.	Ind	WR	14.1	12.3	MF_v_TN	MF	10
+TE	Kyle Pitts	Atl	TE	10.4	4.8	MF_v_TN	MF	10
+FLEX	Donovan Peoples-Jones	Cle	WR	10.0	14.9	MF_v_TN	MF	10
+OP	Kenny Pickett	Pit	QB	14.9	19.06	MF_v_TN	MF	10
+D/ST	Cardinals	Ari	D/ST	6.9	11.0	MF_v_TN	MF	10
+Bench	Matthew Stafford	LAR	QB	0.0	0.0	MF_v_TN	MF	10
+Bench	Mike Williams	LAC	WR	0.0	0.0	MF_v_TN	MF	10
+Bench	Raheem Mostert	Mia	RB	9.9	18.7	MF_v_TN	MF	10
+Bench	David Njoku	Cle	TE	0.0	0.0	MF_v_TN	MF	10
+Bench	Buccaneers	TB	D/ST	5.3	9.0	MF_v_TN	MF	10
+Bench	Chuba Hubbard	Car	RB	9.9	1.4	MF_v_TN	MF	10
+Bench	Mecole Hardman	KC	WR	0.0	0.0	MF_v_TN	MF	10
+QB	Daniel Jones	NYG	QB	17.4	18.28	MF_v_TN	TN	10
+RB	Nick Chubb	Cle	RB	18.2	15.1	MF_v_TN	TN	10
+RB	Josh Jacobs	LV	RB	16.8	22.6	MF_v_TN	TN	10
+WR	Cooper Kupp	LAR	WR	19.8	2.9	MF_v_TN	TN	10
+WR	Deebo Samuel	SF	WR	15.4	7.1	MF_v_TN	TN	10
+TE	Gerald Everett	LAC	TE	11.8	4.3	MF_v_TN	TN	10
+FLEX	Diontae Johnson	Pit	WR	12.6	10.3	MF_v_TN	TN	10
+OP	Christian Kirk	Jax	WR	14.2	31.5	MF_v_TN	TN	10
+D/ST	Broncos	Den	D/ST	7.0	5.0	MF_v_TN	TN	10
+Bench	Jameis Winston	NO	QB	0.0	0.0	MF_v_TN	TN	10
+Bench	Dalton Schultz	Hou	TE	9.1	17.4	MF_v_TN	TN	10
+Bench	Ravens	Bal	D/ST	--	0.0	MF_v_TN	TN	10
+Bench	Rondale Moore	Ari	WR	11.5	18.4	MF_v_TN	TN	10
+Bench	Taylor Heinicke	Atl	QB	15.4	6.44	MF_v_TN	TN	10
+Bench	Garrett Wilson	NYJ	WR	0.0	0.0	MF_v_TN	TN	10
+Bench	Khalil Herbert	Chi	RB	10.0	5.7	MF_v_TN	TN	10
+QB	Justin Herbert	LAC	QB	18.7	13.04	DW_v_Zach White Commanders	DW	10
+RB	Tony Pollard	Dal	RB	15.5	21.8	DW_v_Zach White Commanders	DW	10
+RB	Travis Etienne Jr.	Jax	RB	18.9	10.3	DW_v_Zach White Commanders	DW	10
+WR	DeAndre Hopkins	Ari	WR	15.5	19.8	DW_v_Zach White Commanders	DW	10
+WR	A.J. Brown	Phi	WR	16.8	1.7	DW_v_Zach White Commanders	DW	10
+TE	Greg Dulcich	Den	TE	8.7	2.1	DW_v_Zach White Commanders	DW	10
+FLEX	Joshua Palmer	LAC	WR	13.5	7.4	DW_v_Zach White Commanders	DW	10
+OP	Jimmy Garoppolo	LV	QB	16.6	15.9	DW_v_Zach White Commanders	DW	10
+D/ST	Titans	Ten	D/ST	6.9	12.0	DW_v_Zach White Commanders	DW	10
+Bench	Tyler Boyd	Cin	WR	0.0	0.0	DW_v_Zach White Commanders	DW	10
+Bench	Kyren Williams	LAR	RB	4.0	6.9	DW_v_Zach White Commanders	DW	10
+Bench	Rachaad White	TB	RB	7.0	10.5	DW_v_Zach White Commanders	DW	10
+Bench	Jaylen Warren	Pit	RB	6.4	10.7	DW_v_Zach White Commanders	DW	10
+Bench	Chase Edmonds	TB	RB	5.8	1.9	DW_v_Zach White Commanders	DW	10
+Bench	Eno Benjamin	NO	RB	8.3	0.0	DW_v_Zach White Commanders	DW	10
+Bench	Kenneth Gainwell	Phi	RB	5.2	2.2	DW_v_Zach White Commanders	DW	10
+QB	Tom Brady	TB	QB	17.0	17.02	DW_v_Zach White Commanders	Zach White Commanders	10
+RB	Alvin Kamara	NO	RB	19.9	7.5	DW_v_Zach White Commanders	Zach White Commanders	10
+RB	D'Onta Foreman	Chi	RB	11.7	19.0	DW_v_Zach White Commanders	Zach White Commanders	10
+WR	DJ Moore	Chi	WR	13.2	6.9	DW_v_Zach White Commanders	Zach White Commanders	10
+WR	Gabe Davis	Buf	WR	12.0	21.3	DW_v_Zach White Commanders	Zach White Commanders	10
+TE	George Kittle	SF	TE	11.0	3.1	DW_v_Zach White Commanders	Zach White Commanders	10
+FLEX	David Montgomery	Det	RB	12.8	5.4	DW_v_Zach White Commanders	Zach White Commanders	10
+OP	Andy Dalton	Car	QB	16.4	9.06	DW_v_Zach White Commanders	Zach White Commanders	10
+D/ST	Saints	NO	D/ST	7.5	6.0	DW_v_Zach White Commanders	Zach White Commanders	10
+Bench	Courtland Sutton	Den	WR	11.5	12.6	DW_v_Zach White Commanders	Zach White Commanders	10
+Bench	Brian Robinson Jr.	Wsh	RB	10.0	14.6	DW_v_Zach White Commanders	Zach White Commanders	10
+Bench	Gus Edwards	Bal	RB	0.0	0.0	DW_v_Zach White Commanders	Zach White Commanders	10
+Bench	PJ Walker	Chi	QB	14.2	5.72	DW_v_Zach White Commanders	Zach White Commanders	10
+Bench	Jets	NYJ	D/ST	--	0.0	DW_v_Zach White Commanders	Zach White Commanders	10
+Bench	Mack Hollins	LV	WR	8.8	3.8	DW_v_Zach White Commanders	Zach White Commanders	10
+Bench	Treylon Burks	Ten	WR	6.1	5.4	DW_v_Zach White Commanders	Zach White Commanders	10
+QB	Kyler Murray	Ari	QB	0.0	0.0	JK_v_EM	JK	10
+RB	Dalvin Cook	Min	RB	15.6	23.6	JK_v_EM	JK	10
+RB	Nyheim Hines	Buf	RB	5.8	1.9	JK_v_EM	JK	10
+WR	Mike Evans	TB	WR	14.2	10.4	JK_v_EM	JK	10
+WR	Hunter Renfrow	LV	WR	0.0	0.0	JK_v_EM	JK	10
+TE	Zach Ertz	Ari	TE	10.8	2.2	JK_v_EM	JK	10
+FLEX	Robert Woods	FA	WR	7.5	3.0	JK_v_EM	JK	10
+OP	Mac Jones	NE	QB	0.0	0.0	JK_v_EM	JK	10
+D/ST	Bengals	Cin	D/ST	--	0.0	JK_v_EM	JK	10
+Bench	Mark Andrews	Bal	TE	0.0	0.0	JK_v_EM	JK	10
+Bench	Ezekiel Elliott	FA	RB	0.0	0.0	JK_v_EM	JK	10
+Bench	Matt Ryan	FA	QB	13.0	22.68	JK_v_EM	JK	10
+Bench	Marquise Brown	Ari	WR	0.0	0.0	JK_v_EM	JK	10
+Bench	Bills	Buf	D/ST	5.7	4.0	JK_v_EM	JK	10
+Bench	J.D. McKissic	FA	RB	0.0	0.0	JK_v_EM	JK	10
+Bench	Richie James	NYG	WR	1.2	0.0	JK_v_EM	JK	10
+QB	Josh Allen	Buf	QB	25.1	21.6	JK_v_EM	EM	10
+RB	Aaron Jones	GB	RB	14.5	23.6	JK_v_EM	EM	10
+RB	Clyde Edwards-Helaire	KC	RB	7.3	0.0	JK_v_EM	EM	10
+WR	Terry McLaurin	Wsh	WR	13.4	20.8	JK_v_EM	EM	10
+WR	DK Metcalf	Sea	WR	14.7	13.1	JK_v_EM	EM	10
+TE	Dawson Knox	Buf	TE	7.9	9.7	JK_v_EM	EM	10
+FLEX	Davante Adams	LV	WR	17.3	27.6	JK_v_EM	EM	10
+OP	Trevor Lawrence	Jax	QB	17.9	20.96	JK_v_EM	EM	10
+D/ST	Falcons	Atl	D/ST	7.2	1.0	JK_v_EM	EM	10
+Bench	Darnell Mooney	Chi	WR	10.7	9.7	JK_v_EM	EM	10
+Bench	Chase Claypool	Chi	WR	9.9	1.8	JK_v_EM	EM	10
+Bench	James Robinson	NE	RB	0.0	0.0	JK_v_EM	EM	10
+Bench	Hunter Henry	NE	TE	0.0	0.0	JK_v_EM	EM	10
+Bench	Jarvis Landry	NO	WR	9.3	6.7	JK_v_EM	EM	10
+Bench	Will Dissly	Sea	TE	5.2	4.8	JK_v_EM	EM	10
+Bench	Patriots	NE	D/ST	--	0.0	JK_v_EM	EM	10
+QB	Jalen Hurts	Phi	QB	23.6	22.8	AY_v_CC	AY	10
+RB	AJ Dillon	GB	RB	8.1	6.5	AY_v_CC	AY	10
+RB	Jonathan Taylor	Ind	RB	16.5	24.3	AY_v_CC	AY	10
+WR	Justin Jefferson	Min	WR	19.7	35.3	AY_v_CC	AY	10
+WR	CeeDee Lamb	Dal	WR	14.2	38.0	AY_v_CC	AY	10
+TE	Dallas Goedert	Phi	TE	11.9	9.3	AY_v_CC	AY	10
+FLEX	Zay Jones	Jax	WR	9.8	14.8	AY_v_CC	AY	10
+OP	Dak Prescott	Dal	QB	15.3	21.2	AY_v_CC	AY	10
+D/ST	Vikings	Min	D/ST	3.8	11.0	AY_v_CC	AY	10
+Bench	Jakobi Meyers	LV	WR	0.0	0.0	AY_v_CC	AY	10
+Bench	Tee Higgins	Cin	WR	0.0	0.0	AY_v_CC	AY	10
+Bench	Carson Wentz	FA	QB	0.0	0.0	AY_v_CC	AY	10
+Bench	Wan'Dale Robinson	NYG	WR	7.9	3.5	AY_v_CC	AY	10
+Bench	Kadarius Toney	KC	WR	6.0	19.0	AY_v_CC	AY	10
+Bench	Kenyan Drake	Bal	RB	0.0	0.0	AY_v_CC	AY	10
+Bench	Joe Mixon	Cin	RB	0.0	0.0	AY_v_CC	AY	10
+QB	John Wolford	LAR	QB	15.0	9.78	AY_v_CC	CC	10
+RB	Derrick Henry	Ten	RB	17.5	8.7	AY_v_CC	CC	10
+RB	Miles Sanders	Car	RB	12.7	5.4	AY_v_CC	CC	10
+WR	Amon-Ra St. Brown	Det	WR	16.0	22.1	AY_v_CC	CC	10
+WR	Drake London	Atl	WR	10.5	14.8	AY_v_CC	CC	10
+TE	Pat Freiermuth	Pit	TE	11.5	7.6	AY_v_CC	CC	10
+FLEX	Chris Olave	NO	WR	13.5	7.0	AY_v_CC	CC	10
+OP	James Conner	Ari	RB	12.3	23.6	AY_v_CC	CC	10
+D/ST	Packers	GB	D/ST	4.6	3.0	AY_v_CC	CC	10
+Bench	Lamar Jackson	Bal	QB	0.0	0.0	AY_v_CC	CC	10
+Bench	Joe Burrow	Cin	QB	0.0	0.0	AY_v_CC	CC	10
+Bench	Brandin Cooks	Dal	WR	11.0	8.2	AY_v_CC	CC	10
+Bench	Corey Davis	NYJ	WR	0.0	0.0	AY_v_CC	CC	10
+Bench	Alec Pierce	Ind	WR	8.7	0.0	AY_v_CC	CC	10
+Bench	Rex Burkhead	Hou	RB	6.0	5.0	AY_v_CC	CC	10
+Bench	Taysom Hill	NO	TE	6.2	0.1	AY_v_CC	CC	10
+QB	Russell Wilson	Den	QB	16.6	10.68	JR_v_MF	JR	11
+RB	Devin Singletary	Hou	RB	13.1	17.7	JR_v_MF	JR	11
+RB	Dameon Pierce	Hou	RB	15.1	3.7	JR_v_MF	JR	11
+WR	George Pickens	Pit	WR	9.8	18.3	JR_v_MF	JR	11
+WR	Allen Lazard	NYJ	WR	12.3	10.7	JR_v_MF	JR	11
+TE	T.J. Hockenson	Min	TE	12.6	8.4	JR_v_MF	JR	11
+FLEX	Rhamondre Stevenson	NE	RB	15.3	14.2	JR_v_MF	JR	11
+OP	Jacoby Brissett	Wsh	QB	14.9	25.86	JR_v_MF	JR	11
+D/ST	Raiders	LV	D/ST	6.0	8.0	JR_v_MF	JR	11
+Bench	Tyreek Hill	Mia	WR	0.0	0.0	JR_v_MF	JR	11
+Bench	Davis Mills	Hou	QB	13.5	11.76	JR_v_MF	JR	11
+Bench	Robbie Anderson	FA	WR	3.9	0.0	JR_v_MF	JR	11
+Bench	Michael Carter	NYJ	RB	11.2	2.7	JR_v_MF	JR	11
+Bench	Mo Alie-Cox	Ind	TE	5.0	2.4	JR_v_MF	JR	11
+Bench	Geno Smith	Sea	QB	0.0	0.0	JR_v_MF	JR	11
+Bench	Colts	Ind	D/ST	4.3	11.0	JR_v_MF	JR	11
+QB	Justin Fields	Chi	QB	22.7	23.62	JR_v_MF	MF	11
+RB	Cordarrelle Patterson	Atl	RB	8.9	11.9	JR_v_MF	MF	11
+RB	Chuba Hubbard	Car	RB	5.7	4.5	JR_v_MF	MF	11
+WR	Brandon Aiyuk	SF	WR	11.7	16.0	JR_v_MF	MF	11
+WR	Michael Pittman Jr.	Ind	WR	13.8	13.5	JR_v_MF	MF	11
+TE	Kyle Pitts	Atl	TE	11.7	7.3	JR_v_MF	MF	11
+FLEX	Donovan Peoples-Jones	Cle	WR	9.7	17.1	JR_v_MF	MF	11
+OP	Ryan Tannehill	Ten	QB	13.0	20.02	JR_v_MF	MF	11
+D/ST	Cardinals	Ari	D/ST	5.0	-4.0	JR_v_MF	MF	11
+Bench	Matthew Stafford	LAR	QB	14.2	14.76	JR_v_MF	MF	11
+Bench	Mike Williams	LAC	WR	14.0	2.5	JR_v_MF	MF	11
+Bench	Raheem Mostert	Mia	RB	0.0	0.0	JR_v_MF	MF	11
+Bench	David Njoku	Cle	TE	10.5	3.7	JR_v_MF	MF	11
+Bench	Tyler Allgeier	Atl	RB	7.1	7.4	JR_v_MF	MF	11
+Bench	Ben Skowronek	LAR	WR	8.6	1.4	JR_v_MF	MF	11
+Bench	Marquez Valdes-Scantling	KC	WR	10.7	2.8	JR_v_MF	MF	11
+QB	Josh Allen	Buf	QB	26.5	12.58	EM_v_MR	EM	11
+RB	Aaron Jones	GB	RB	15.1	14.0	EM_v_MR	EM	11
+RB	James Robinson	NE	RB	9.3	1.0	EM_v_MR	EM	11
+WR	Terry McLaurin	Wsh	WR	14.7	9.6	EM_v_MR	EM	11
+WR	Darnell Mooney	Chi	WR	10.5	12.9	EM_v_MR	EM	11
+TE	Dawson Knox	Buf	TE	8.7	14.0	EM_v_MR	EM	11
+FLEX	Davante Adams	LV	WR	18.3	33.1	EM_v_MR	EM	11
+OP	Clyde Edwards-Helaire	KC	RB	5.5	0.9	EM_v_MR	EM	11
+D/ST	Patriots	NE	D/ST	7.7	17.0	EM_v_MR	EM	11
+Bench	Trevor Lawrence	Jax	QB	0.0	0.0	EM_v_MR	EM	11
+Bench	DK Metcalf	Sea	WR	0.0	0.0	EM_v_MR	EM	11
+Bench	Chase Claypool	Chi	WR	6.3	3.1	EM_v_MR	EM	11
+Bench	Hunter Henry	NE	TE	4.6	3.0	EM_v_MR	EM	11
+Bench	Jarvis Landry	NO	WR	9.2	12.3	EM_v_MR	EM	11
+Bench	Will Dissly	Sea	TE	0.0	0.0	EM_v_MR	EM	11
+Bench	Falcons	Atl	D/ST	5.1	14.0	EM_v_MR	EM	11
+QB	Kenny Pickett	Pit	QB	14.8	16.0	EM_v_MR	MR	11
+RB	Najee Harris	Pit	RB	11.2	27.6	EM_v_MR	MR	11
+RB	D'Andre Swift	Det	RB	11.8	12.2	EM_v_MR	MR	11
+WR	Keenan Allen	LAC	WR	11.2	12.4	EM_v_MR	MR	11
+WR	Stefon Diggs	Buf	WR	20.5	14.8	EM_v_MR	MR	11
+TE	Cole Kmet	Chi	TE	8.0	6.5	EM_v_MR	MR	11
+FLEX	Christian Watson	GB	WR	9.6	21.1	EM_v_MR	MR	11
+OP	Derek Carr	NO	QB	13.9	20.28	EM_v_MR	MR	11
+D/ST	Eagles	Phi	D/ST	7.7	10.0	EM_v_MR	MR	11
+Bench	Jaylen Waddle	Mia	WR	0.0	0.0	EM_v_MR	MR	11
+Bench	Tua Tagovailoa	Mia	QB	0.0	0.0	EM_v_MR	MR	11
+Bench	Jerry Jeudy	Den	WR	0.0	0.0	EM_v_MR	MR	11
+Bench	Kenneth Walker III	Sea	RB	0.0	0.0	EM_v_MR	MR	11
+Bench	Jeff Wilson Jr.	Mia	RB	0.0	0.0	EM_v_MR	MR	11
+Bench	Odell Beckham Jr.	FA	WR	0.0	0.0	EM_v_MR	MR	11
+Bench	Parris Campbell	NYG	WR	11.1	11.7	EM_v_MR	MR	11
+QB	Andy Dalton	Car	QB	14.3	22.2	Zach White Commanders_v_JK	Zach White Commanders	11
+RB	David Montgomery	Det	RB	14.4	21.1	Zach White Commanders_v_JK	Zach White Commanders	11
+RB	D'Onta Foreman	Chi	RB	12.2	2.4	Zach White Commanders_v_JK	Zach White Commanders	11
+WR	Gabe Davis	Buf	WR	12.7	11.8	Zach White Commanders_v_JK	Zach White Commanders	11
+WR	A.J. Brown	Phi	WR	15.2	9.0	Zach White Commanders_v_JK	Zach White Commanders	11
+TE	George Kittle	SF	TE	11.4	24.4	Zach White Commanders_v_JK	Zach White Commanders	11
+FLEX	Courtland Sutton	Den	WR	13.4	13.0	Zach White Commanders_v_JK	Zach White Commanders	11
+OP	DJ Moore	Chi	WR	12.0	5.4	Zach White Commanders_v_JK	Zach White Commanders	11
+D/ST	Jets	NYJ	D/ST	7.9	11.0	Zach White Commanders_v_JK	Zach White Commanders	11
+Bench	Brian Robinson Jr.	Wsh	RB	11.4	5.7	Zach White Commanders_v_JK	Zach White Commanders	11
+Bench	Gus Edwards	Bal	RB	0.0	0.0	Zach White Commanders_v_JK	Zach White Commanders	11
+Bench	Tom Brady	TB	QB	0.0	0.0	Zach White Commanders_v_JK	Zach White Commanders	11
+Bench	PJ Walker	Chi	QB	0.0	0.0	Zach White Commanders_v_JK	Zach White Commanders	11
+Bench	Mack Hollins	LV	WR	8.5	11.2	Zach White Commanders_v_JK	Zach White Commanders	11
+Bench	Treylon Burks	Ten	WR	7.6	18.1	Zach White Commanders_v_JK	Zach White Commanders	11
+Bench	Trey McBride	Ari	TE	6.1	5.4	Zach White Commanders_v_JK	Zach White Commanders	11
+QB	Matt Ryan	FA	QB	12.6	8.62	Zach White Commanders_v_JK	JK	11
+RB	Dalvin Cook	Min	RB	17.8	7.2	Zach White Commanders_v_JK	JK	11
+RB	Ezekiel Elliott	FA	RB	10.5	17.7	Zach White Commanders_v_JK	JK	11
+WR	Robert Woods	FA	WR	7.7	12.9	Zach White Commanders_v_JK	JK	11
+WR	Michael Gallup	Dal	WR	9.9	7.1	Zach White Commanders_v_JK	JK	11
+TE	Mark Andrews	Bal	TE	15.2	12.3	Zach White Commanders_v_JK	JK	11
+FLEX	Latavius Murray	Den	RB	9.5	17.2	Zach White Commanders_v_JK	JK	11
+OP	Mac Jones	NE	QB	12.8	10.14	Zach White Commanders_v_JK	JK	11
+D/ST	Bills	Buf	D/ST	5.4	4.0	Zach White Commanders_v_JK	JK	11
+Bench	Kyler Murray	Ari	QB	0.0	0.0	Zach White Commanders_v_JK	JK	11
+Bench	Mike Evans	TB	WR	0.0	0.0	Zach White Commanders_v_JK	JK	11
+Bench	Marquise Brown	Ari	WR	0.0	0.0	Zach White Commanders_v_JK	JK	11
+Bench	Nyheim Hines	Buf	RB	3.1	-0.8	Zach White Commanders_v_JK	JK	11
+Bench	Zach Ertz	Ari	TE	0.0	0.0	Zach White Commanders_v_JK	JK	11
+Bench	Richie James	NYG	WR	0.1	13.8	Zach White Commanders_v_JK	JK	11
+Bench	Bengals	Cin	D/ST	7.9	0.0	Zach White Commanders_v_JK	JK	11
+QB	Daniel Jones	NYG	QB	18.0	26.64	TN_v_DW	TN	11
+RB	Nick Chubb	Cle	RB	16.5	9.7	TN_v_DW	TN	11
+RB	Josh Jacobs	LV	RB	17.4	19.0	TN_v_DW	TN	11
+WR	Deebo Samuel	SF	WR	14.9	22.4	TN_v_DW	TN	11
+WR	Rondale Moore	Ari	WR	11.9	-0.6	TN_v_DW	TN	11
+TE	Dalton Schultz	Hou	TE	11.4	5.2	TN_v_DW	TN	11
+FLEX	Diontae Johnson	Pit	WR	11.9	6.2	TN_v_DW	TN	11
+OP	Taylor Heinicke	Atl	QB	16.9	7.84	TN_v_DW	TN	11
+D/ST	Ravens	Bal	D/ST	7.0	17.0	TN_v_DW	TN	11
+Bench	Cooper Kupp	LAR	WR	0.0	0.0	TN_v_DW	TN	11
+Bench	Jameis Winston	NO	QB	0.0	0.0	TN_v_DW	TN	11
+Bench	Christian Kirk	Jax	WR	0.0	0.0	TN_v_DW	TN	11
+Bench	Gerald Everett	LAC	TE	0.0	0.0	TN_v_DW	TN	11
+Bench	Garrett Wilson	NYJ	WR	11.9	3.2	TN_v_DW	TN	11
+Bench	Khalil Herbert	Chi	RB	0.0	0.0	TN_v_DW	TN	11
+Bench	Broncos	Den	D/ST	6.1	-2.0	TN_v_DW	TN	11
+QB	Justin Herbert	LAC	QB	20.3	20.7	TN_v_DW	DW	11
+RB	Tony Pollard	Dal	RB	10.4	36.9	TN_v_DW	DW	11
+RB	Alvin Kamara	NO	RB	17.1	12.9	TN_v_DW	DW	11
+WR	Tyler Boyd	Cin	WR	12.9	6.2	TN_v_DW	DW	11
+WR	Allen Robinson II	LAR	WR	11.0	14.7	TN_v_DW	DW	11
+TE	Greg Dulcich	Den	TE	8.1	7.0	TN_v_DW	DW	11
+FLEX	DeAndre Hopkins	Ari	WR	17.0	18.1	TN_v_DW	DW	11
+OP	Jimmy Garoppolo	LV	QB	16.0	25.42	TN_v_DW	DW	11
+D/ST	Titans	Ten	D/ST	5.9	7.0	TN_v_DW	DW	11
+Bench	Travis Etienne Jr.	Jax	RB	0.0	0.0	TN_v_DW	DW	11
+Bench	Kyren Williams	LAR	RB	5.2	5.4	TN_v_DW	DW	11
+Bench	Rachaad White	TB	RB	0.0	0.0	TN_v_DW	DW	11
+Bench	Darrell Henderson Jr.	FA	RB	8.7	0.9	TN_v_DW	DW	11
+Bench	Hayden Hurst	Car	TE	9.2	4.8	TN_v_DW	DW	11
+Bench	Darius Slayton	NYG	WR	8.6	13.6	TN_v_DW	DW	11
+Bench	Colt McCoy	Ari	QB	15.2	8.32	TN_v_DW	DW	11
+QB	Lamar Jackson	Bal	QB	22.7	16.46	CC_v_CM	CC	11
+RB	Derrick Henry	Ten	RB	17.5	25.36	CC_v_CM	CC	11
+RB	Miles Sanders	Car	RB	11.9	5.8	CC_v_CM	CC	11
+WR	Amon-Ra St. Brown	Det	WR	15.4	15.0	CC_v_CM	CC	11
+WR	Chris Olave	NO	WR	12.0	21.2	CC_v_CM	CC	11
+TE	Pat Freiermuth	Pit	TE	12.0	15.9	CC_v_CM	CC	11
+FLEX	James Conner	Ari	RB	14.2	13.4	CC_v_CM	CC	11
+OP	Joe Burrow	Cin	QB	20.6	28.7	CC_v_CM	CC	11
+D/ST	Packers	GB	D/ST	5.9	2.0	CC_v_CM	CC	11
+Bench	Brandin Cooks	Dal	WR	9.6	10.0	CC_v_CM	CC	11
+Bench	Drake London	Atl	WR	9.5	7.2	CC_v_CM	CC	11
+Bench	Corey Davis	NYJ	WR	0.0	0.0	CC_v_CM	CC	11
+Bench	Alec Pierce	Ind	WR	7.1	5.8	CC_v_CM	CC	11
+Bench	Rex Burkhead	Hou	RB	4.9	0.0	CC_v_CM	CC	11
+Bench	Taysom Hill	NO	TE	5.3	7.56	CC_v_CM	CC	11
+Bench	John Wolford	LAR	QB	0.0	0.0	CC_v_CM	CC	11
+QB	Marcus Mariota	Phi	QB	17.6	17.74	CC_v_CM	CM	11
+RB	Austin Ekeler	LAC	RB	21.4	18.0	CC_v_CM	CM	11
+RB	Isiah Pacheco	KC	RB	8.9	10.7	CC_v_CM	CM	11
+WR	Curtis Samuel	Wsh	WR	9.9	9.8	CC_v_CM	CM	11
+WR	DeVonta Smith	Phi	WR	12.3	13.8	CC_v_CM	CM	11
+TE	Tyler Higbee	LAR	TE	9.7	8.5	CC_v_CM	CM	11
+FLEX	Antonio Gibson	Wsh	RB	12.2	13.3	CC_v_CM	CM	11
+OP	Kirk Cousins	Min	QB	17.6	2.2	CC_v_CM	CM	11
+D/ST	Cowboys	Dal	D/ST	5.5	18.0	CC_v_CM	CM	11
+Bench	Leonard Fournette	FA	RB	0.0	0.0	CC_v_CM	CM	11
+Bench	Rams	LAR	D/ST	6.3	4.0	CC_v_CM	CM	11
+Bench	JuJu Smith-Schuster	NE	WR	0.0	0.0	CC_v_CM	CM	11
+Bench	Kareem Hunt	Cle	RB	9.6	7.4	CC_v_CM	CM	11
+Bench	Ja'Marr Chase	Cin	WR	0.0	0.0	CC_v_CM	CM	11
+Bench	Melvin Gordon III	FA	RB	9.7	12.0	CC_v_CM	CM	11
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	CC_v_CM	CM	11
+QB	Aaron Rodgers	GB	QB	15.6	19.08	SH_v_AY	SH	11
+RB	Christian McCaffrey	SF	RB	19.2	17.6	SH_v_AY	SH	11
+RB	Saquon Barkley	NYG	RB	24.7	5.5	SH_v_AY	SH	11
+WR	Adam Thielen	FA	WR	11.6	4.5	SH_v_AY	SH	11
+WR	Amari Cooper	Cle	WR	13.0	31.3	SH_v_AY	SH	11
+TE	Travis Kelce	KC	TE	19.6	35.5	SH_v_AY	SH	11
+FLEX	Jamaal Williams	NO	RB	11.8	24.4	SH_v_AY	SH	11
+OP	Patrick Mahomes	KC	QB	25.1	27.46	SH_v_AY	SH	11
+D/ST	49ers	SF	D/ST	7.1	11.0	SH_v_AY	SH	11
+Bench	Chris Godwin	TB	WR	0.0	0.0	SH_v_AY	SH	11
+Bench	Tyler Lockett	Sea	WR	0.0	0.0	SH_v_AY	SH	11
+Bench	Sam Ehlinger	Ind	QB	0.0	0.0	SH_v_AY	SH	11
+Bench	Jared Goff	Det	QB	14.6	6.5	SH_v_AY	SH	11
+Bench	Jerick McKinnon	KC	RB	9.6	1.4	SH_v_AY	SH	11
+Bench	Elijah Mitchell	SF	RB	7.4	5.9	SH_v_AY	SH	11
+Bench	Alexander Mattison	Min	RB	4.0	1.8	SH_v_AY	SH	11
+QB	Jalen Hurts	Phi	QB	22.2	24.2	SH_v_AY	AY	11
+RB	Jonathan Taylor	Ind	RB	16.5	16.4	SH_v_AY	AY	11
+RB	Joe Mixon	Cin	RB	19.8	9.2	SH_v_AY	AY	11
+WR	Justin Jefferson	Min	WR	21.4	6.3	SH_v_AY	AY	11
+WR	CeeDee Lamb	Dal	WR	16.9	9.5	SH_v_AY	AY	11
+TE	Tyler Conklin	NYJ	TE	7.7	3.5	SH_v_AY	AY	11
+FLEX	Tee Higgins	Cin	WR	15.8	23.8	SH_v_AY	AY	11
+OP	Dak Prescott	Dal	QB	17.5	20.64	SH_v_AY	AY	11
+D/ST	Commanders	Wsh	D/ST	6.8	21.0	SH_v_AY	AY	11
+Bench	AJ Dillon	GB	RB	7.4	3.3	SH_v_AY	AY	11
+Bench	Jakobi Meyers	LV	WR	12.0	9.2	SH_v_AY	AY	11
+Bench	Carson Wentz	FA	QB	0.0	0.0	SH_v_AY	AY	11
+Bench	Kadarius Toney	KC	WR	10.7	0.0	SH_v_AY	AY	11
+Bench	Dallas Goedert	Phi	TE	0.0	0.0	SH_v_AY	AY	11
+Bench	Kenyan Drake	Bal	RB	12.4	7.3	SH_v_AY	AY	11
+Bench	Zay Jones	Jax	WR	0.0	0.0	SH_v_AY	AY	11
+QB	Russell Wilson	Den	QB	15.1	8.48	JR_v_DW	JR	12
+RB	Devin Singletary	Hou	RB	12.3	9.0	JR_v_DW	JR	12
+RB	Rhamondre Stevenson	NE	RB	17.7	20.2	JR_v_DW	JR	12
+WR	Tyreek Hill	Mia	WR	22.3	15.0	JR_v_DW	JR	12
+WR	Allen Lazard	NYJ	WR	12.9	4.4	JR_v_DW	JR	12
+TE	T.J. Hockenson	Min	TE	11.3	15.3	JR_v_DW	JR	12
+FLEX	Dameon Pierce	Hou	RB	14.1	4.6	JR_v_DW	JR	12
+OP	Geno Smith	Sea	QB	20.5	20.32	JR_v_DW	JR	12
+D/ST	Colts	Ind	D/ST	7.8	3.0	JR_v_DW	JR	12
+Bench	Davis Mills	Hou	QB	0.0	0.0	JR_v_DW	JR	12
+Bench	George Pickens	Pit	WR	10.0	10.7	JR_v_DW	JR	12
+Bench	Robbie Anderson	FA	WR	5.1	2.7	JR_v_DW	JR	12
+Bench	Michael Carter	NYJ	RB	14.8	5.6	JR_v_DW	JR	12
+Bench	Jacoby Brissett	Wsh	QB	16.6	14.1	JR_v_DW	JR	12
+Bench	Mo Alie-Cox	Ind	TE	3.1	3.4	JR_v_DW	JR	12
+Bench	Raiders	LV	D/ST	4.7	5.0	JR_v_DW	JR	12
+QB	Justin Herbert	LAC	QB	18.7	28.76	JR_v_DW	DW	12
+RB	Tony Pollard	Dal	RB	13.9	8.1	JR_v_DW	DW	12
+RB	Jonathan Taylor	Ind	RB	19.1	18.8	JR_v_DW	DW	12
+WR	DeAndre Hopkins	Ari	WR	16.6	18.7	JR_v_DW	DW	12
+WR	Joshua Palmer	LAC	WR	12.9	10.6	JR_v_DW	DW	12
+TE	Greg Dulcich	Den	TE	8.4	3.1	JR_v_DW	DW	12
+FLEX	Travis Etienne Jr.	Jax	RB	17.4	0.3	JR_v_DW	DW	12
+OP	Jimmy Garoppolo	LV	QB	15.9	13.28	JR_v_DW	DW	12
+D/ST	Chiefs	KC	D/ST	8.8	13.0	JR_v_DW	DW	12
+Bench	Tyler Boyd	Cin	WR	12.4	3.6	JR_v_DW	DW	12
+Bench	Darius Slayton	NYG	WR	10.4	9.3	JR_v_DW	DW	12
+Bench	Jameson Williams	Det	WR	0.0	0.0	JR_v_DW	DW	12
+Bench	Dolphins	Mia	D/ST	8.0	23.0	JR_v_DW	DW	12
+Bench	Jerick McKinnon	KC	RB	9.3	5.6	JR_v_DW	DW	12
+Bench	Foster Moreau	LV	TE	9.1	12.3	JR_v_DW	DW	12
+Bench	Deon Jackson	Ind	RB	5.4	0.0	JR_v_DW	DW	12
+QB	Andy Dalton	Car	QB	14.1	10.26	Zach White Commanders_v_MR	Zach White Commanders	12
+RB	David Montgomery	Det	RB	13.9	14.3	Zach White Commanders_v_MR	Zach White Commanders	12
+RB	D'Onta Foreman	Chi	RB	11.5	11.3	Zach White Commanders_v_MR	Zach White Commanders	12
+WR	Gabe Davis	Buf	WR	13.7	7.8	Zach White Commanders_v_MR	Zach White Commanders	12
+WR	A.J. Brown	Phi	WR	15.7	12.6	Zach White Commanders_v_MR	Zach White Commanders	12
+TE	George Kittle	SF	TE	11.2	5.6	Zach White Commanders_v_MR	Zach White Commanders	12
+FLEX	Courtland Sutton	Den	WR	13.0	13.5	Zach White Commanders_v_MR	Zach White Commanders	12
+OP	Tom Brady	TB	QB	18.1	18.04	Zach White Commanders_v_MR	Zach White Commanders	12
+D/ST	Jets	NYJ	D/ST	8.5	10.0	Zach White Commanders_v_MR	Zach White Commanders	12
+Bench	Brian Robinson Jr.	Wsh	RB	8.4	20.5	Zach White Commanders_v_MR	Zach White Commanders	12
+Bench	Gus Edwards	Bal	RB	7.8	9.2	Zach White Commanders_v_MR	Zach White Commanders	12
+Bench	DJ Moore	Chi	WR	10.8	20.3	Zach White Commanders_v_MR	Zach White Commanders	12
+Bench	Mack Hollins	LV	WR	9.9	16.3	Zach White Commanders_v_MR	Zach White Commanders	12
+Bench	Treylon Burks	Ten	WR	9.6	17.0	Zach White Commanders_v_MR	Zach White Commanders	12
+Bench	Trey McBride	Ari	TE	6.1	1.1	Zach White Commanders_v_MR	Zach White Commanders	12
+Bench	Demarcus Robinson	Bal	WR	9.6	2.7	Zach White Commanders_v_MR	Zach White Commanders	12
+QB	Tua Tagovailoa	Mia	QB	20.9	15.96	Zach White Commanders_v_MR	MR	12
+RB	Najee Harris	Pit	RB	14.4	10.9	Zach White Commanders_v_MR	MR	12
+RB	Kenneth Walker III	Sea	RB	17.6	16.9	Zach White Commanders_v_MR	MR	12
+WR	Jaylen Waddle	Mia	WR	14.8	13.5	Zach White Commanders_v_MR	MR	12
+WR	Stefon Diggs	Buf	WR	21.2	21.7	Zach White Commanders_v_MR	MR	12
+TE	Cole Kmet	Chi	TE	9.6	5.7	Zach White Commanders_v_MR	MR	12
+FLEX	Keenan Allen	LAC	WR	14.3	15.9	Zach White Commanders_v_MR	MR	12
+OP	Derek Carr	NO	QB	17.9	22.8	Zach White Commanders_v_MR	MR	12
+D/ST	Eagles	Phi	D/ST	7.0	6.0	Zach White Commanders_v_MR	MR	12
+Bench	D'Andre Swift	Det	RB	11.3	10.3	Zach White Commanders_v_MR	MR	12
+Bench	Parris Campbell	NYG	WR	10.4	3.4	Zach White Commanders_v_MR	MR	12
+Bench	Kenny Pickett	Pit	QB	14.5	12.16	Zach White Commanders_v_MR	MR	12
+Bench	Chuba Hubbard	Car	RB	5.4	6.5	Zach White Commanders_v_MR	MR	12
+Bench	Brandon Aiyuk	SF	WR	12.1	11.5	Zach White Commanders_v_MR	MR	12
+Bench	Mike Williams	LAC	WR	0.0	0.0	Zach White Commanders_v_MR	MR	12
+Bench	Mike Gesicki	NE	TE	6.4	0.0	Zach White Commanders_v_MR	MR	12
+QB	Lamar Jackson	Bal	QB	21.7	23.06	CC_v_MF	CC	12
+RB	Derrick Henry	Ten	RB	17.6	14.7	CC_v_MF	CC	12
+RB	Miles Sanders	Car	RB	12.5	31.0	CC_v_MF	CC	12
+WR	Amon-Ra St. Brown	Det	WR	16.5	27.9	CC_v_MF	CC	12
+WR	Chris Olave	NO	WR	12.7	11.2	CC_v_MF	CC	12
+TE	Pat Freiermuth	Pit	TE	12.3	6.9	CC_v_MF	CC	12
+FLEX	James Conner	Ari	RB	17.2	21.0	CC_v_MF	CC	12
+OP	Joe Burrow	Cin	QB	20.4	18.0	CC_v_MF	CC	12
+D/ST	Packers	GB	D/ST	3.7	-4.0	CC_v_MF	CC	12
+Bench	Brandin Cooks	Dal	WR	10.1	11.1	CC_v_MF	CC	12
+Bench	Drake London	Atl	WR	8.9	4.9	CC_v_MF	CC	12
+Bench	Corey Davis	NYJ	WR	9.1	1.9	CC_v_MF	CC	12
+Bench	Alec Pierce	Ind	WR	7.4	0.0	CC_v_MF	CC	12
+Bench	Rex Burkhead	Hou	RB	3.8	1.5	CC_v_MF	CC	12
+Bench	Taysom Hill	NO	TE	5.3	3.0	CC_v_MF	CC	12
+Bench	John Wolford	LAR	QB	0.0	0.0	CC_v_MF	CC	12
+QB	Sam Darnold	SF	QB	11.1	16.86	CC_v_MF	MF	12
+RB	Cordarrelle Patterson	Atl	RB	8.5	10.1	CC_v_MF	MF	12
+RB	Jeff Wilson Jr.	Mia	RB	15.2	12.2	CC_v_MF	MF	12
+WR	Michael Pittman Jr.	Ind	WR	13.5	19.1	CC_v_MF	MF	12
+WR	Christian Watson	GB	WR	11.3	21.0	CC_v_MF	MF	12
+TE	David Njoku	Cle	TE	9.9	13.9	CC_v_MF	MF	12
+FLEX	Donovan Peoples-Jones	Cle	WR	9.7	3.6	CC_v_MF	MF	12
+OP	Ryan Tannehill	Ten	QB	14.3	12.54	CC_v_MF	MF	12
+D/ST	Cardinals	Ari	D/ST	4.8	5.0	CC_v_MF	MF	12
+Bench	Matthew Stafford	LAR	QB	0.0	0.0	CC_v_MF	MF	12
+Bench	Raheem Mostert	Mia	RB	0.0	0.0	CC_v_MF	MF	12
+Bench	Tyler Allgeier	Atl	RB	6.7	5.4	CC_v_MF	MF	12
+Bench	Justin Fields	Chi	QB	0.0	0.0	CC_v_MF	MF	12
+Bench	Marquez Valdes-Scantling	KC	WR	8.5	9.6	CC_v_MF	MF	12
+Bench	Odell Beckham Jr.	FA	WR	0.0	0.0	CC_v_MF	MF	12
+Bench	Jerry Jeudy	Den	WR	0.0	0.0	CC_v_MF	MF	12
+QB	Josh Allen	Buf	QB	26.4	30.92	EM_v_AY	EM	12
+RB	Aaron Jones	GB	RB	15.3	18.9	EM_v_AY	EM	12
+RB	Samaje Perine	Den	RB	13.3	19.3	EM_v_AY	EM	12
+WR	Terry McLaurin	Wsh	WR	16.3	9.3	EM_v_AY	EM	12
+WR	DK Metcalf	Sea	WR	16.0	20.0	EM_v_AY	EM	12
+TE	Dawson Knox	Buf	TE	9.6	3.7	EM_v_AY	EM	12
+FLEX	Davante Adams	LV	WR	23.0	14.4	EM_v_AY	EM	12
+OP	Trevor Lawrence	Jax	QB	16.8	24.94	EM_v_AY	EM	12
+D/ST	Patriots	NE	D/ST	7.3	1.0	EM_v_AY	EM	12
+Bench	Clyde Edwards-Helaire	KC	RB	0.0	0.0	EM_v_AY	EM	12
+Bench	Darnell Mooney	Chi	WR	11.0	0.0	EM_v_AY	EM	12
+Bench	Chase Claypool	Chi	WR	7.0	7.1	EM_v_AY	EM	12
+Bench	James Robinson	NE	RB	0.0	0.0	EM_v_AY	EM	12
+Bench	Hunter Henry	NE	TE	4.5	15.3	EM_v_AY	EM	12
+Bench	Jarvis Landry	NO	WR	9.7	4.0	EM_v_AY	EM	12
+Bench	Falcons	Atl	D/ST	5.6	2.0	EM_v_AY	EM	12
+QB	Jalen Hurts	Phi	QB	23.6	29.82	EM_v_AY	AY	12
+RB	Rachaad White	TB	RB	14.4	19.9	EM_v_AY	AY	12
+RB	Alvin Kamara	NO	RB	15.6	7.0	EM_v_AY	AY	12
+WR	Justin Jefferson	Min	WR	19.1	29.34	EM_v_AY	AY	12
+WR	CeeDee Lamb	Dal	WR	15.8	17.7	EM_v_AY	AY	12
+TE	Tyler Conklin	NYJ	TE	7.7	8.0	EM_v_AY	AY	12
+FLEX	Tee Higgins	Cin	WR	18.3	24.4	EM_v_AY	AY	12
+OP	Dak Prescott	Dal	QB	17.2	16.84	EM_v_AY	AY	12
+D/ST	Commanders	Wsh	D/ST	7.2	6.0	EM_v_AY	AY	12
+Bench	AJ Dillon	GB	RB	6.8	17.8	EM_v_AY	AY	12
+Bench	Jakobi Meyers	LV	WR	12.6	9.2	EM_v_AY	AY	12
+Bench	Carson Wentz	FA	QB	0.0	0.0	EM_v_AY	AY	12
+Bench	Kadarius Toney	KC	WR	0.0	0.0	EM_v_AY	AY	12
+Bench	Dallas Goedert	Phi	TE	0.0	0.0	EM_v_AY	AY	12
+Bench	Kenyan Drake	Bal	RB	6.1	0.2	EM_v_AY	AY	12
+Bench	Joe Mixon	Cin	RB	0.0	0.0	EM_v_AY	AY	12
+QB	Daniel Jones	NYG	QB	16.3	14.52	TN_v_JK	TN	12
+RB	Nick Chubb	Cle	RB	16.9	20.2	TN_v_JK	TN	12
+RB	Josh Jacobs	LV	RB	18.7	48.3	TN_v_JK	TN	12
+WR	Deebo Samuel	SF	WR	15.4	7.3	TN_v_JK	TN	12
+WR	Christian Kirk	Jax	WR	14.0	8.1	TN_v_JK	TN	12
+TE	Juwan Johnson	NO	TE	7.9	0.0	TN_v_JK	TN	12
+FLEX	Diontae Johnson	Pit	WR	10.2	9.9	TN_v_JK	TN	12
+OP	Taylor Heinicke	Atl	QB	16.1	12.42	TN_v_JK	TN	12
+D/ST	Broncos	Den	D/ST	7.7	3.0	TN_v_JK	TN	12
+Bench	Cooper Kupp	LAR	WR	0.0	0.0	TN_v_JK	TN	12
+Bench	Jameis Winston	NO	QB	0.0	0.0	TN_v_JK	TN	12
+Bench	Dalton Schultz	Hou	TE	10.7	19.1	TN_v_JK	TN	12
+Bench	Ravens	Bal	D/ST	6.4	7.0	TN_v_JK	TN	12
+Bench	Rondale Moore	Ari	WR	0.0	0.0	TN_v_JK	TN	12
+Bench	Gerald Everett	LAC	TE	9.2	7.8	TN_v_JK	TN	12
+Bench	Garrett Wilson	NYJ	WR	11.4	26.4	TN_v_JK	TN	12
+QB	Kyler Murray	Ari	QB	20.9	26.24	TN_v_JK	JK	12
+RB	Dalvin Cook	Min	RB	15.9	9.6	TN_v_JK	JK	12
+RB	Ezekiel Elliott	FA	RB	11.5	16.5	TN_v_JK	JK	12
+WR	Mike Evans	TB	WR	14.2	5.1	TN_v_JK	JK	12
+WR	Michael Gallup	Dal	WR	8.6	11.3	TN_v_JK	JK	12
+TE	Mark Andrews	Bal	TE	15.1	11.0	TN_v_JK	JK	12
+FLEX	Latavius Murray	Den	RB	14.5	10.8	TN_v_JK	JK	12
+OP	Mac Jones	NE	QB	14.5	23.28	TN_v_JK	JK	12
+D/ST	Bills	Buf	D/ST	5.7	10.0	TN_v_JK	JK	12
+Bench	Matt Ryan	FA	QB	13.6	11.16	TN_v_JK	JK	12
+Bench	Marquise Brown	Ari	WR	9.6	10.6	TN_v_JK	JK	12
+Bench	Nyheim Hines	Buf	RB	3.3	0.3	TN_v_JK	JK	12
+Bench	Zach Ertz	Ari	TE	0.0	0.0	TN_v_JK	JK	12
+Bench	Richie James	NYG	WR	6.2	15.1	TN_v_JK	JK	12
+Bench	Bengals	Cin	D/ST	6.6	3.0	TN_v_JK	JK	12
+Bench	Robert Woods	FA	WR	9.9	3.6	TN_v_JK	JK	12
+QB	Jared Goff	Det	QB	14.6	17.6	SH_v_CM	SH	12
+RB	Christian McCaffrey	SF	RB	18.1	8.9	SH_v_CM	SH	12
+RB	Saquon Barkley	NYG	RB	19.3	15.2	SH_v_CM	SH	12
+WR	Chris Godwin	TB	WR	14.4	29.0	SH_v_CM	SH	12
+WR	Tyler Lockett	Sea	WR	14.3	15.8	SH_v_CM	SH	12
+TE	Travis Kelce	KC	TE	18.6	15.7	SH_v_CM	SH	12
+FLEX	Amari Cooper	Cle	WR	13.1	16.4	SH_v_CM	SH	12
+OP	Patrick Mahomes	KC	QB	23.8	19.4	SH_v_CM	SH	12
+D/ST	49ers	SF	D/ST	7.1	14.0	SH_v_CM	SH	12
+Bench	Aaron Rodgers	GB	QB	14.9	11.5	SH_v_CM	SH	12
+Bench	Jamaal Williams	NO	RB	11.1	10.6	SH_v_CM	SH	12
+Bench	Adam Thielen	FA	WR	10.2	21.1	SH_v_CM	SH	12
+Bench	Elijah Mitchell	SF	RB	8.0	6.3	SH_v_CM	SH	12
+Bench	Alexander Mattison	Min	RB	3.6	1.1	SH_v_CM	SH	12
+Bench	Mike White	Mia	QB	14.8	24.8	SH_v_CM	SH	12
+Bench	Isaiah Spiller	LAC	RB	1.7	1.5	SH_v_CM	SH	12
+QB	Marcus Mariota	Phi	QB	14.7	14.86	SH_v_CM	CM	12
+RB	Austin Ekeler	LAC	RB	21.2	25.0	SH_v_CM	CM	12
+RB	Isiah Pacheco	KC	RB	10.4	15.6	SH_v_CM	CM	12
+WR	DeVonta Smith	Phi	WR	12.5	9.0	SH_v_CM	CM	12
+WR	JuJu Smith-Schuster	NE	WR	13.2	6.8	SH_v_CM	CM	12
+TE	Tyler Higbee	LAR	TE	10.0	0.0	SH_v_CM	CM	12
+FLEX	Antonio Gibson	Wsh	RB	13.3	8.4	SH_v_CM	CM	12
+OP	Kirk Cousins	Min	QB	14.9	22.86	SH_v_CM	CM	12
+D/ST	Cowboys	Dal	D/ST	7.2	4.0	SH_v_CM	CM	12
+Bench	Leonard Fournette	FA	RB	0.0	0.0	SH_v_CM	CM	12
+Bench	Curtis Samuel	Wsh	WR	9.9	1.3	SH_v_CM	CM	12
+Bench	Rams	LAR	D/ST	3.2	1.0	SH_v_CM	CM	12
+Bench	Kareem Hunt	Cle	RB	8.9	3.1	SH_v_CM	CM	12
+Bench	Ja'Marr Chase	Cin	WR	0.0	0.0	SH_v_CM	CM	12
+Bench	Deshaun Watson	Cle	QB	0.0	0.0	SH_v_CM	CM	12
+Bench	James Cook	Buf	RB	6.7	3.8	SH_v_CM	CM	12
+QB	Mac Jones	NE	QB	14.3	12.5	JK_v_JR	JK	13
+RB	Dalvin Cook	Min	RB	16.2	16.3	JK_v_JR	JK	13
+RB	Ezekiel Elliott	FA	RB	10.6	18.1	JK_v_JR	JK	13
+WR	Mike Evans	TB	WR	13.5	9.9	JK_v_JR	JK	13
+WR	Michael Gallup	Dal	WR	9.2	18.3	JK_v_JR	JK	13
+TE	Mark Andrews	Bal	TE	13.2	9.4	JK_v_JR	JK	13
+FLEX	Latavius Murray	Den	RB	11.1	10.1	JK_v_JR	JK	13
+OP	Matt Ryan	FA	QB	12.8	12.12	JK_v_JR	JK	13
+D/ST	Bills	Buf	D/ST	7.5	7.0	JK_v_JR	JK	13
+Bench	Kyler Murray	Ari	QB	0.0	0.0	JK_v_JR	JK	13
+Bench	Marquise Brown	Ari	WR	0.0	0.0	JK_v_JR	JK	13
+Bench	Nyheim Hines	Buf	RB	2.5	2.8	JK_v_JR	JK	13
+Bench	Zach Ertz	Ari	TE	0.0	0.0	JK_v_JR	JK	13
+Bench	Richie James	NYG	WR	6.3	5.0	JK_v_JR	JK	13
+Bench	Bengals	Cin	D/ST	3.4	5.0	JK_v_JR	JK	13
+Bench	Robert Woods	FA	WR	9.5	1.6	JK_v_JR	JK	13
+QB	Geno Smith	Sea	QB	17.9	23.98	JK_v_JR	JR	13
+RB	Rhamondre Stevenson	NE	RB	19.1	13.8	JK_v_JR	JR	13
+RB	Dameon Pierce	Hou	RB	14.6	12.5	JK_v_JR	JR	13
+WR	Tyreek Hill	Mia	WR	20.4	29.6	JK_v_JR	JR	13
+WR	George Pickens	Pit	WR	11.0	1.2	JK_v_JR	JR	13
+TE	T.J. Hockenson	Min	TE	12.0	7.3	JK_v_JR	JR	13
+FLEX	Devin Singletary	Hou	RB	10.6	11.1	JK_v_JR	JR	13
+OP	Russell Wilson	Den	QB	14.7	9.66	JK_v_JR	JR	13
+D/ST	Colts	Ind	D/ST	4.8	-1.0	JK_v_JR	JR	13
+Bench	Davis Mills	Hou	QB	0.0	0.0	JK_v_JR	JR	13
+Bench	Robbie Anderson	FA	WR	0.0	0.0	JK_v_JR	JR	13
+Bench	Michael Carter	NYJ	RB	0.0	0.0	JK_v_JR	JR	13
+Bench	Jacoby Brissett	Wsh	QB	0.0	0.0	JK_v_JR	JR	13
+Bench	Mo Alie-Cox	Ind	TE	3.1	-0.4	JK_v_JR	JR	13
+Bench	Allen Lazard	NYJ	WR	12.9	11.7	JK_v_JR	JR	13
+Bench	Raiders	LV	D/ST	4.6	9.0	JK_v_JR	JR	13
+QB	Tua Tagovailoa	Mia	QB	18.4	15.8	MR_v_TN	MR	13
+RB	Najee Harris	Pit	RB	13.6	10.2	MR_v_TN	MR	13
+RB	Kenneth Walker III	Sea	RB	15.3	3.6	MR_v_TN	MR	13
+WR	Jaylen Waddle	Mia	WR	14.6	1.9	MR_v_TN	MR	13
+WR	Stefon Diggs	Buf	WR	18.2	22.2	MR_v_TN	MR	13
+TE	Pat Freiermuth	Pit	TE	12.2	10.6	MR_v_TN	MR	13
+FLEX	Keenan Allen	LAC	WR	15.7	20.8	MR_v_TN	MR	13
+OP	Lamar Jackson	Bal	QB	19.5	1.34	MR_v_TN	MR	13
+D/ST	Eagles	Phi	D/ST	7.4	11.0	MR_v_TN	MR	13
+Bench	Parris Campbell	NYG	WR	10.1	8.5	MR_v_TN	MR	13
+Bench	Kenny Pickett	Pit	QB	16.7	13.28	MR_v_TN	MR	13
+Bench	Chuba Hubbard	Car	RB	0.0	0.0	MR_v_TN	MR	13
+Bench	Miles Sanders	Car	RB	12.0	11.8	MR_v_TN	MR	13
+Bench	Devin Duvernay	Bal	WR	7.8	10.3	MR_v_TN	MR	13
+Bench	Jaylen Warren	Pit	RB	6.6	3.9	MR_v_TN	MR	13
+Bench	DeAndre Carter	LAC	WR	9.8	2.4	MR_v_TN	MR	13
+QB	Daniel Jones	NYG	QB	15.1	17.1	MR_v_TN	TN	13
+RB	Nick Chubb	Cle	RB	18.7	8.0	MR_v_TN	TN	13
+RB	Josh Jacobs	LV	RB	24.1	21.0	MR_v_TN	TN	13
+WR	Deebo Samuel	SF	WR	14.7	12.3	MR_v_TN	TN	13
+WR	Christian Kirk	Jax	WR	15.2	16.4	MR_v_TN	TN	13
+TE	Dalton Schultz	Hou	TE	9.2	5.3	MR_v_TN	TN	13
+FLEX	Garrett Wilson	NYJ	WR	13.9	24.2	MR_v_TN	TN	13
+OP	Taylor Heinicke	Atl	QB	14.6	17.6	MR_v_TN	TN	13
+D/ST	Ravens	Bal	D/ST	7.7	7.0	MR_v_TN	TN	13
+Bench	Cooper Kupp	LAR	WR	0.0	0.0	MR_v_TN	TN	13
+Bench	Diontae Johnson	Pit	WR	11.2	11.0	MR_v_TN	TN	13
+Bench	Rondale Moore	Ari	WR	0.0	0.0	MR_v_TN	TN	13
+Bench	Gerald Everett	LAC	TE	9.1	13.0	MR_v_TN	TN	13
+Bench	Broncos	Den	D/ST	5.6	14.0	MR_v_TN	TN	13
+Bench	Juwan Johnson	NO	TE	0.0	0.0	MR_v_TN	TN	13
+Bench	Steelers	Pit	D/ST	7.2	4.0	MR_v_TN	TN	13
+QB	Justin Fields	Chi	QB	22.9	21.26	MF_v_SH	MF	13
+RB	Cordarrelle Patterson	Atl	RB	10.9	6.0	MF_v_SH	MF	13
+RB	Jeff Wilson Jr.	Mia	RB	10.7	0.3	MF_v_SH	MF	13
+WR	Michael Pittman Jr.	Ind	WR	14.0	3.6	MF_v_SH	MF	13
+WR	Christian Watson	GB	WR	13.4	24.4	MF_v_SH	MF	13
+TE	Foster Moreau	LV	TE	8.6	4.2	MF_v_SH	MF	13
+FLEX	Tyler Boyd	Cin	WR	9.0	10.0	MF_v_SH	MF	13
+OP	Ryan Tannehill	Ten	QB	14.0	13.04	MF_v_SH	MF	13
+D/ST	Buccaneers	TB	D/ST	6.4	5.0	MF_v_SH	MF	13
+Bench	Raheem Mostert	Mia	RB	8.2	3.0	MF_v_SH	MF	13
+Bench	David Njoku	Cle	TE	0.0	0.0	MF_v_SH	MF	13
+Bench	Donovan Peoples-Jones	Cle	WR	10.7	13.4	MF_v_SH	MF	13
+Bench	Tyler Allgeier	Atl	RB	7.8	5.2	MF_v_SH	MF	13
+Bench	Marquez Valdes-Scantling	KC	WR	9.7	9.1	MF_v_SH	MF	13
+Bench	Sam Darnold	SF	QB	0.0	0.0	MF_v_SH	MF	13
+Bench	Odell Beckham Jr.	FA	WR	0.0	0.0	MF_v_SH	MF	13
+QB	Aaron Rodgers	GB	QB	18.8	13.68	MF_v_SH	SH	13
+RB	Christian McCaffrey	SF	RB	17.9	28.6	MF_v_SH	SH	13
+RB	Saquon Barkley	NYG	RB	17.6	19.1	MF_v_SH	SH	13
+WR	Chris Godwin	TB	WR	14.6	14.3	MF_v_SH	SH	13
+WR	Tyler Lockett	Sea	WR	12.6	27.8	MF_v_SH	SH	13
+TE	Travis Kelce	KC	TE	19.9	7.6	MF_v_SH	SH	13
+FLEX	Amari Cooper	Cle	WR	15.1	8.0	MF_v_SH	SH	13
+OP	Patrick Mahomes	KC	QB	23.5	19.82	MF_v_SH	SH	13
+D/ST	49ers	SF	D/ST	5.2	19.0	MF_v_SH	SH	13
+Bench	Jamaal Williams	NO	RB	12.2	9.5	MF_v_SH	SH	13
+Bench	Adam Thielen	FA	WR	11.4	4.7	MF_v_SH	SH	13
+Bench	Jared Goff	Det	QB	15.6	21.6	MF_v_SH	SH	13
+Bench	Alexander Mattison	Min	RB	3.5	9.8	MF_v_SH	SH	13
+Bench	Mike White	Mia	QB	15.5	19.46	MF_v_SH	SH	13
+Bench	Isaiah Spiller	LAC	RB	2.9	0.0	MF_v_SH	SH	13
+Bench	Tyrion Davis-Price	SF	RB	2.5	0.0	MF_v_SH	SH	13
+QB	Jalen Hurts	Phi	QB	22.6	34.4	AY_v_Zach White Commanders	AY	13
+RB	Rachaad White	TB	RB	10.4	16.9	AY_v_Zach White Commanders	AY	13
+RB	Alvin Kamara	NO	RB	16.2	5.7	AY_v_Zach White Commanders	AY	13
+WR	Justin Jefferson	Min	WR	19.5	18.6	AY_v_Zach White Commanders	AY	13
+WR	CeeDee Lamb	Dal	WR	16.1	20.4	AY_v_Zach White Commanders	AY	13
+TE	Tyler Conklin	NYJ	TE	7.8	2.9	AY_v_Zach White Commanders	AY	13
+FLEX	Tee Higgins	Cin	WR	15.6	12.5	AY_v_Zach White Commanders	AY	13
+OP	Dak Prescott	Dal	QB	16.5	17.8	AY_v_Zach White Commanders	AY	13
+D/ST	Commanders	Wsh	D/ST	6.4	8.0	AY_v_Zach White Commanders	AY	13
+Bench	AJ Dillon	GB	RB	9.0	20.9	AY_v_Zach White Commanders	AY	13
+Bench	Jakobi Meyers	LV	WR	12.0	5.2	AY_v_Zach White Commanders	AY	13
+Bench	Carson Wentz	FA	QB	0.0	0.0	AY_v_Zach White Commanders	AY	13
+Bench	Kadarius Toney	KC	WR	0.0	0.0	AY_v_Zach White Commanders	AY	13
+Bench	Dallas Goedert	Phi	TE	0.0	0.0	AY_v_Zach White Commanders	AY	13
+Bench	Kenyan Drake	Bal	RB	3.6	6.6	AY_v_Zach White Commanders	AY	13
+Bench	Joe Mixon	Cin	RB	0.0	0.0	AY_v_Zach White Commanders	AY	13
+QB	Andy Dalton	Car	QB	14.4	13.26	AY_v_Zach White Commanders	Zach White Commanders	13
+RB	David Montgomery	Det	RB	14.7	16.7	AY_v_Zach White Commanders	Zach White Commanders	13
+RB	Brian Robinson Jr.	Wsh	RB	10.0	13.1	AY_v_Zach White Commanders	Zach White Commanders	13
+WR	Treylon Burks	Ten	WR	10.1	9.5	AY_v_Zach White Commanders	Zach White Commanders	13
+WR	A.J. Brown	Phi	WR	15.5	31.9	AY_v_Zach White Commanders	Zach White Commanders	13
+TE	George Kittle	SF	TE	10.2	4.2	AY_v_Zach White Commanders	Zach White Commanders	13
+FLEX	Courtland Sutton	Den	WR	12.2	0.0	AY_v_Zach White Commanders	Zach White Commanders	13
+OP	Tom Brady	TB	QB	16.8	18.14	AY_v_Zach White Commanders	Zach White Commanders	13
+D/ST	Jets	NYJ	D/ST	6.6	4.0	AY_v_Zach White Commanders	Zach White Commanders	13
+Bench	Gus Edwards	Bal	RB	10.0	1.2	AY_v_Zach White Commanders	Zach White Commanders	13
+Bench	DJ Moore	Chi	WR	0.0	0.0	AY_v_Zach White Commanders	Zach White Commanders	13
+Bench	D'Onta Foreman	Chi	RB	0.0	0.0	AY_v_Zach White Commanders	Zach White Commanders	13
+Bench	Gabe Davis	Buf	WR	11.1	9.5	AY_v_Zach White Commanders	Zach White Commanders	13
+Bench	Mack Hollins	LV	WR	10.0	8.5	AY_v_Zach White Commanders	Zach White Commanders	13
+Bench	Trey McBride	Ari	TE	0.0	0.0	AY_v_Zach White Commanders	Zach White Commanders	13
+Bench	Demarcus Robinson	Bal	WR	7.8	11.1	AY_v_Zach White Commanders	Zach White Commanders	13
+QB	Deshaun Watson	Cle	QB	19.8	6.34	CM_v_EM	CM	13
+RB	Austin Ekeler	LAC	RB	21.5	13.2	CM_v_EM	CM	13
+RB	Isiah Pacheco	KC	RB	9.9	16.2	CM_v_EM	CM	13
+WR	JuJu Smith-Schuster	NE	WR	11.8	6.5	CM_v_EM	CM	13
+WR	Ja'Marr Chase	Cin	WR	18.5	16.7	CM_v_EM	CM	13
+TE	Tyler Higbee	LAR	TE	8.8	3.4	CM_v_EM	CM	13
+FLEX	Leonard Fournette	FA	RB	11.6	14.1	CM_v_EM	CM	13
+OP	Kirk Cousins	Min	QB	16.0	11.82	CM_v_EM	CM	13
+D/ST	Cowboys	Dal	D/ST	8.1	21.0	CM_v_EM	CM	13
+Bench	Curtis Samuel	Wsh	WR	9.1	14.6	CM_v_EM	CM	13
+Bench	Rams	LAR	D/ST	5.9	6.0	CM_v_EM	CM	13
+Bench	Marcus Mariota	Phi	QB	16.4	11.38	CM_v_EM	CM	13
+Bench	DeVonta Smith	Phi	WR	13.0	21.2	CM_v_EM	CM	13
+Bench	Antonio Gibson	Wsh	RB	11.7	7.9	CM_v_EM	CM	13
+Bench	Kareem Hunt	Cle	RB	8.5	9.4	CM_v_EM	CM	13
+Bench	James Cook	Buf	RB	5.0	16.5	CM_v_EM	CM	13
+QB	Josh Allen	Buf	QB	21.0	16.92	CM_v_EM	EM	13
+RB	Aaron Jones	GB	RB	16.7	10.0	CM_v_EM	EM	13
+RB	Samaje Perine	Den	RB	16.1	21.5	CM_v_EM	EM	13
+WR	Terry McLaurin	Wsh	WR	14.8	24.5	CM_v_EM	EM	13
+WR	DK Metcalf	Sea	WR	15.5	26.7	CM_v_EM	EM	13
+TE	Dawson Knox	Buf	TE	7.8	0.0	CM_v_EM	EM	13
+FLEX	Davante Adams	LV	WR	20.7	37.7	CM_v_EM	EM	13
+OP	Trevor Lawrence	Jax	QB	19.2	16.36	CM_v_EM	EM	13
+D/ST	Seahawks	Sea	D/ST	7.4	9.0	CM_v_EM	EM	13
+Bench	Clyde Edwards-Helaire	KC	RB	0.0	0.0	CM_v_EM	EM	13
+Bench	Darnell Mooney	Chi	WR	0.0	0.0	CM_v_EM	EM	13
+Bench	Chase Claypool	Chi	WR	8.1	5.8	CM_v_EM	EM	13
+Bench	James Robinson	NE	RB	7.0	1.0	CM_v_EM	EM	13
+Bench	Hunter Henry	NE	TE	5.2	3.3	CM_v_EM	EM	13
+Bench	Jarvis Landry	NO	WR	9.0	3.4	CM_v_EM	EM	13
+Bench	Patriots	NE	D/ST	6.0	4.0	CM_v_EM	EM	13
+QB	Justin Herbert	LAC	QB	20.5	18.1	DW_v_CC	DW	13
+RB	Jonathan Taylor	Ind	RB	18.0	13.3	DW_v_CC	DW	13
+RB	Kyren Williams	LAR	RB	10.4	0.9	DW_v_CC	DW	13
+WR	Darius Slayton	NYG	WR	9.6	15.0	DW_v_CC	DW	13
+WR	Joshua Palmer	LAC	WR	12.3	13.0	DW_v_CC	DW	13
+TE	Hayden Hurst	Car	TE	9.3	3.2	DW_v_CC	DW	13
+FLEX	Tony Pollard	Dal	RB	13.3	24.6	DW_v_CC	DW	13
+OP	Jimmy Garoppolo	LV	QB	16.2	2.24	DW_v_CC	DW	13
+D/ST	Browns	Cle	D/ST	7.8	33.0	DW_v_CC	DW	13
+Bench	DeAndre Hopkins	Ari	WR	0.0	0.0	DW_v_CC	DW	13
+Bench	Travis Etienne Jr.	Jax	RB	16.5	7.6	DW_v_CC	DW	13
+Bench	Jameson Williams	Det	WR	4.4	0.0	DW_v_CC	DW	13
+Bench	Zonovan Knight	NYJ	RB	10.6	16.8	DW_v_CC	DW	13
+Bench	Zay Jones	Jax	WR	11.6	3.6	DW_v_CC	DW	13
+Bench	J.K. Dobbins	Bal	RB	0.0	0.0	DW_v_CC	DW	13
+Bench	Chiefs	KC	D/ST	4.7	-2.0	DW_v_CC	DW	13
+QB	Derek Carr	NO	QB	18.1	17.0	DW_v_CC	CC	13
+RB	Derrick Henry	Ten	RB	17.0	5.8	DW_v_CC	CC	13
+RB	D'Andre Swift	Det	RB	10.7	21.1	DW_v_CC	CC	13
+WR	Amon-Ra St. Brown	Det	WR	16.0	34.6	DW_v_CC	CC	13
+WR	Chris Olave	NO	WR	13.5	10.5	DW_v_CC	CC	13
+TE	Cole Kmet	Chi	TE	8.8	13.2	DW_v_CC	CC	13
+FLEX	Brandon Aiyuk	SF	WR	12.2	9.6	DW_v_CC	CC	13
+OP	Joe Burrow	Cin	QB	22.7	30.04	DW_v_CC	CC	13
+D/ST	Packers	GB	D/ST	4.9	6.0	DW_v_CC	CC	13
+Bench	James Conner	Ari	RB	0.0	0.0	DW_v_CC	CC	13
+Bench	Drake London	Atl	WR	8.9	15.5	DW_v_CC	CC	13
+Bench	Alec Pierce	Ind	WR	7.4	18.6	DW_v_CC	CC	13
+Bench	Rex Burkhead	Hou	RB	0.0	0.0	DW_v_CC	CC	13
+Bench	Taysom Hill	NO	TE	8.3	13.34	DW_v_CC	CC	13
+Bench	John Wolford	LAR	QB	14.5	8.02	DW_v_CC	CC	13
+Bench	Mike Williams	LAC	WR	0.0	0.0	DW_v_CC	CC	13
+QB	Geno Smith	Sea	QB	19.5	22.56	JR_v_MR	JR	14
+RB	Rhamondre Stevenson	NE	RB	18.9	3.0	JR_v_MR	JR	14
+RB	Dameon Pierce	Hou	RB	12.6	11.8	JR_v_MR	JR	14
+WR	Tyreek Hill	Mia	WR	22.2	24.1	JR_v_MR	JR	14
+WR	George Pickens	Pit	WR	9.2	10.8	JR_v_MR	JR	14
+TE	T.J. Hockenson	Min	TE	12.9	11.7	JR_v_MR	JR	14
+FLEX	Devin Singletary	Hou	RB	9.4	5.3	JR_v_MR	JR	14
+OP	Russell Wilson	Den	QB	15.3	26.58	JR_v_MR	JR	14
+D/ST	Raiders	LV	D/ST	7.7	10.0	JR_v_MR	JR	14
+Bench	Davis Mills	Hou	QB	12.9	6.2	JR_v_MR	JR	14
+Bench	Robbie Anderson	FA	WR	1.5	9.0	JR_v_MR	JR	14
+Bench	Michael Carter	NYJ	RB	10.1	3.0	JR_v_MR	JR	14
+Bench	Jacoby Brissett	Wsh	QB	0.0	0.0	JR_v_MR	JR	14
+Bench	Mo Alie-Cox	Ind	TE	0.0	0.0	JR_v_MR	JR	14
+Bench	Allen Lazard	NYJ	WR	0.0	0.0	JR_v_MR	JR	14
+Bench	Colts	Ind	D/ST	--	0.0	JR_v_MR	JR	14
+QB	Tua Tagovailoa	Mia	QB	20.9	12.6	JR_v_MR	MR	14
+RB	Najee Harris	Pit	RB	10.9	13.0	JR_v_MR	MR	14
+RB	Miles Sanders	Car	RB	12.3	28.5	JR_v_MR	MR	14
+WR	Jaylen Waddle	Mia	WR	15.2	5.1	JR_v_MR	MR	14
+WR	Stefon Diggs	Buf	WR	18.3	6.7	JR_v_MR	MR	14
+TE	Pat Freiermuth	Pit	TE	11.1	12.3	JR_v_MR	MR	14
+FLEX	Keenan Allen	LAC	WR	16.0	21.2	JR_v_MR	MR	14
+OP	Kenny Pickett	Pit	QB	14.7	1.6	JR_v_MR	MR	14
+D/ST	Eagles	Phi	D/ST	7.4	10.0	JR_v_MR	MR	14
+Bench	Kenneth Walker III	Sea	RB	0.0	0.0	JR_v_MR	MR	14
+Bench	Parris Campbell	NYG	WR	0.0	0.0	JR_v_MR	MR	14
+Bench	Chuba Hubbard	Car	RB	6.8	18.9	JR_v_MR	MR	14
+Bench	Lamar Jackson	Bal	QB	0.0	0.0	JR_v_MR	MR	14
+Bench	Devin Duvernay	Bal	WR	7.8	0.0	JR_v_MR	MR	14
+Bench	Jaylen Warren	Pit	RB	5.5	4.7	JR_v_MR	MR	14
+Bench	Desmond Ridder	Atl	QB	0.0	0.0	JR_v_MR	MR	14
+QB	Josh Allen	Buf	QB	21.8	20.58	EM_v_MF	EM	14
+RB	Samaje Perine	Den	RB	7.4	9.4	EM_v_MF	EM	14
+RB	Travis Homer	Chi	RB	12.2	5.4	EM_v_MF	EM	14
+WR	Davante Adams	LV	WR	19.0	10.1	EM_v_MF	EM	14
+WR	DK Metcalf	Sea	WR	15.7	18.1	EM_v_MF	EM	14
+TE	Dawson Knox	Buf	TE	7.1	14.1	EM_v_MF	EM	14
+FLEX	Jerry Jeudy	Den	WR	13.5	33.3	EM_v_MF	EM	14
+OP	Trevor Lawrence	Jax	QB	17.0	33.42	EM_v_MF	EM	14
+D/ST	Patriots	NE	D/ST	6.7	20.0	EM_v_MF	EM	14
+Bench	Aaron Jones	GB	RB	0.0	0.0	EM_v_MF	EM	14
+Bench	Terry McLaurin	Wsh	WR	0.0	0.0	EM_v_MF	EM	14
+Bench	Clyde Edwards-Helaire	KC	RB	0.0	0.0	EM_v_MF	EM	14
+Bench	Darnell Mooney	Chi	WR	0.0	0.0	EM_v_MF	EM	14
+Bench	Chase Claypool	Chi	WR	0.0	0.0	EM_v_MF	EM	14
+Bench	Hunter Henry	NE	TE	6.6	10.0	EM_v_MF	EM	14
+Bench	Jarvis Landry	NO	WR	0.0	0.0	EM_v_MF	EM	14
+QB	Sam Darnold	SF	QB	14.0	11.8	EM_v_MF	MF	14
+RB	Raheem Mostert	Mia	RB	10.8	5.4	EM_v_MF	MF	14
+RB	Jeff Wilson Jr.	Mia	RB	10.7	2.6	EM_v_MF	MF	14
+WR	Donovan Peoples-Jones	Cle	WR	9.5	19.4	EM_v_MF	MF	14
+WR	Marquez Valdes-Scantling	KC	WR	8.9	3.0	EM_v_MF	MF	14
+TE	Foster Moreau	LV	TE	7.4	0.0	EM_v_MF	MF	14
+FLEX	Tyler Boyd	Cin	WR	9.7	0.0	EM_v_MF	MF	14
+OP	Ryan Tannehill	Ten	QB	15.9	18.76	EM_v_MF	MF	14
+D/ST	Buccaneers	TB	D/ST	5.9	-3.0	EM_v_MF	MF	14
+Bench	David Njoku	Cle	TE	10.0	18.7	EM_v_MF	MF	14
+Bench	Michael Pittman Jr.	Ind	WR	0.0	0.0	EM_v_MF	MF	14
+Bench	Cordarrelle Patterson	Atl	RB	0.0	0.0	EM_v_MF	MF	14
+Bench	Tyler Allgeier	Atl	RB	0.0	0.0	EM_v_MF	MF	14
+Bench	Justin Fields	Chi	QB	0.0	0.0	EM_v_MF	MF	14
+Bench	Odell Beckham Jr.	FA	WR	0.0	0.0	EM_v_MF	MF	14
+Bench	Christian Watson	GB	WR	0.0	0.0	EM_v_MF	MF	14
+QB	Tom Brady	TB	QB	15.3	12.12	Zach White Commanders_v_CM	Zach White Commanders	14
+RB	Gus Edwards	Bal	RB	6.8	6.6	Zach White Commanders_v_CM	Zach White Commanders	14
+RB	D'Onta Foreman	Chi	RB	12.0	8.5	Zach White Commanders_v_CM	Zach White Commanders	14
+WR	Mack Hollins	LV	WR	10.1	8.2	Zach White Commanders_v_CM	Zach White Commanders	14
+WR	A.J. Brown	Phi	WR	15.7	17.0	Zach White Commanders_v_CM	Zach White Commanders	14
+TE	George Kittle	SF	TE	8.8	6.8	Zach White Commanders_v_CM	Zach White Commanders	14
+FLEX	DJ Moore	Chi	WR	12.6	0.6	Zach White Commanders_v_CM	Zach White Commanders	14
+OP	Brock Purdy	SF	QB	15.0	21.7	Zach White Commanders_v_CM	Zach White Commanders	14
+D/ST	Jets	NYJ	D/ST	4.8	9.0	Zach White Commanders_v_CM	Zach White Commanders	14
+Bench	Courtland Sutton	Den	WR	0.0	0.0	Zach White Commanders_v_CM	Zach White Commanders	14
+Bench	David Montgomery	Det	RB	0.0	0.0	Zach White Commanders_v_CM	Zach White Commanders	14
+Bench	Brian Robinson Jr.	Wsh	RB	0.0	0.0	Zach White Commanders_v_CM	Zach White Commanders	14
+Bench	Andy Dalton	Car	QB	0.0	0.0	Zach White Commanders_v_CM	Zach White Commanders	14
+Bench	Gabe Davis	Buf	WR	11.7	6.1	Zach White Commanders_v_CM	Zach White Commanders	14
+Bench	Treylon Burks	Ten	WR	0.0	0.0	Zach White Commanders_v_CM	Zach White Commanders	14
+Bench	Demarcus Robinson	Bal	WR	8.4	10.2	Zach White Commanders_v_CM	Zach White Commanders	14
+QB	Deshaun Watson	Cle	QB	18.4	17.34	Zach White Commanders_v_CM	CM	14
+RB	Austin Ekeler	LAC	RB	19.6	24.4	Zach White Commanders_v_CM	CM	14
+RB	Isiah Pacheco	KC	RB	12.4	12.3	Zach White Commanders_v_CM	CM	14
+WR	JuJu Smith-Schuster	NE	WR	10.6	22.4	Zach White Commanders_v_CM	CM	14
+WR	Ja'Marr Chase	Cin	WR	18.7	28.5	Zach White Commanders_v_CM	CM	14
+TE	Tyler Higbee	LAR	TE	8.4	3.1	Zach White Commanders_v_CM	CM	14
+FLEX	Leonard Fournette	FA	RB	10.0	10.6	Zach White Commanders_v_CM	CM	14
+OP	Kirk Cousins	Min	QB	18.8	25.0	Zach White Commanders_v_CM	CM	14
+D/ST	Cowboys	Dal	D/ST	8.8	5.0	Zach White Commanders_v_CM	CM	14
+Bench	Curtis Samuel	Wsh	WR	0.0	0.0	Zach White Commanders_v_CM	CM	14
+Bench	Rams	LAR	D/ST	4.6	5.0	Zach White Commanders_v_CM	CM	14
+Bench	DeVonta Smith	Phi	WR	13.9	17.4	Zach White Commanders_v_CM	CM	14
+Bench	Antonio Gibson	Wsh	RB	0.0	0.0	Zach White Commanders_v_CM	CM	14
+Bench	Kareem Hunt	Cle	RB	7.6	3.2	Zach White Commanders_v_CM	CM	14
+Bench	James Cook	Buf	RB	8.7	2.5	Zach White Commanders_v_CM	CM	14
+Bench	Noah Fant	Sea	TE	7.8	0.0	Zach White Commanders_v_CM	CM	14
+QB	Patrick Mahomes	KC	QB	20.3	22.78	SH_v_DW	SH	14
+RB	Christian McCaffrey	SF	RB	18.8	29.3	SH_v_DW	SH	14
+RB	Saquon Barkley	NYG	RB	18.5	6.8	SH_v_DW	SH	14
+WR	Chris Godwin	TB	WR	14.8	10.4	SH_v_DW	SH	14
+WR	Adam Thielen	FA	WR	12.4	19.5	SH_v_DW	SH	14
+TE	Travis Kelce	KC	TE	17.1	11.1	SH_v_DW	SH	14
+FLEX	Tyler Lockett	Sea	WR	13.9	17.0	SH_v_DW	SH	14
+OP	Jared Goff	Det	QB	16.5	26.1	SH_v_DW	SH	14
+D/ST	49ers	SF	D/ST	6.3	11.0	SH_v_DW	SH	14
+Bench	Aaron Rodgers	GB	QB	0.0	0.0	SH_v_DW	SH	14
+Bench	Jamaal Williams	NO	RB	9.1	3.7	SH_v_DW	SH	14
+Bench	Amari Cooper	Cle	WR	14.8	6.2	SH_v_DW	SH	14
+Bench	Alexander Mattison	Min	RB	4.4	-0.1	SH_v_DW	SH	14
+Bench	Mike White	Mia	QB	14.7	10.72	SH_v_DW	SH	14
+Bench	Jordan Mason	SF	RB	4.9	5.6	SH_v_DW	SH	14
+Bench	Matt Breida	NYG	RB	3.4	3.5	SH_v_DW	SH	14
+QB	Justin Herbert	LAC	QB	19.2	19.48	SH_v_DW	DW	14
+RB	Tony Pollard	Dal	RB	15.1	22.2	SH_v_DW	DW	14
+RB	Travis Etienne Jr.	Jax	RB	15.7	3.2	SH_v_DW	DW	14
+WR	DeAndre Hopkins	Ari	WR	14.3	12.9	SH_v_DW	DW	14
+WR	Joshua Palmer	LAC	WR	9.4	9.3	SH_v_DW	DW	14
+TE	Evan Engram	Jax	TE	7.5	39.2	SH_v_DW	DW	14
+FLEX	J.K. Dobbins	Bal	RB	7.4	18.0	SH_v_DW	DW	14
+OP	Zonovan Knight	NYJ	RB	11.0	15.7	SH_v_DW	DW	14
+D/ST	Chiefs	KC	D/ST	6.4	15.0	SH_v_DW	DW	14
+Bench	Darius Slayton	NYG	WR	10.4	6.2	SH_v_DW	DW	14
+Bench	Jameson Williams	Det	WR	5.3	11.1	SH_v_DW	DW	14
+Bench	Jonathan Taylor	Ind	RB	0.0	0.0	SH_v_DW	DW	14
+Bench	Kyren Williams	LAR	RB	7.8	3.9	SH_v_DW	DW	14
+Bench	Zay Jones	Jax	WR	12.0	21.7	SH_v_DW	DW	14
+Bench	Jerick McKinnon	KC	RB	8.6	32.4	SH_v_DW	DW	14
+Bench	Cam Akers	LAR	RB	9.1	9.3	SH_v_DW	DW	14
+QB	Derek Carr	NO	QB	16.3	4.58	CC_v_JK	CC	14
+RB	Derrick Henry	Ten	RB	17.8	20.5	CC_v_JK	CC	14
+RB	D'Andre Swift	Det	RB	15.1	6.9	CC_v_JK	CC	14
+WR	Amon-Ra St. Brown	Det	WR	19.1	13.4	CC_v_JK	CC	14
+WR	Mike Williams	LAC	WR	13.7	23.6	CC_v_JK	CC	14
+TE	Greg Dulcich	Den	TE	9.4	7.2	CC_v_JK	CC	14
+FLEX	James Conner	Ari	RB	14.0	23.4	CC_v_JK	CC	14
+OP	Joe Burrow	Cin	QB	22.7	17.56	CC_v_JK	CC	14
+D/ST	Cardinals	Ari	D/ST	6.6	3.0	CC_v_JK	CC	14
+Bench	Chris Olave	NO	WR	0.0	0.0	CC_v_JK	CC	14
+Bench	Drake London	Atl	WR	0.0	0.0	CC_v_JK	CC	14
+Bench	Alec Pierce	Ind	WR	0.0	0.0	CC_v_JK	CC	14
+Bench	Taysom Hill	NO	TE	0.0	0.0	CC_v_JK	CC	14
+Bench	John Wolford	LAR	QB	10.3	0.0	CC_v_JK	CC	14
+Bench	Brandon Aiyuk	SF	WR	11.4	13.7	CC_v_JK	CC	14
+Bench	Cole Kmet	Chi	TE	0.0	0.0	CC_v_JK	CC	14
+QB	Kyler Murray	Ari	QB	17.7	0.66	CC_v_JK	JK	14
+RB	Dalvin Cook	Min	RB	17.9	8.6	CC_v_JK	JK	14
+RB	Ezekiel Elliott	FA	RB	13.7	17.1	CC_v_JK	JK	14
+WR	Mike Evans	TB	WR	12.5	8.4	CC_v_JK	JK	14
+WR	Marquise Brown	Ari	WR	13.2	7.4	CC_v_JK	JK	14
+TE	Mark Andrews	Bal	TE	13.1	3.7	CC_v_JK	JK	14
+FLEX	Latavius Murray	Den	RB	12.2	6.1	CC_v_JK	JK	14
+OP	Mac Jones	NE	QB	15.2	8.3	CC_v_JK	JK	14
+D/ST	Bills	Buf	D/ST	6.0	14.0	CC_v_JK	JK	14
+Bench	Matt Ryan	FA	QB	0.0	0.0	CC_v_JK	JK	14
+Bench	Nyheim Hines	Buf	RB	3.2	1.7	CC_v_JK	JK	14
+Bench	Zach Ertz	Ari	TE	0.0	0.0	CC_v_JK	JK	14
+Bench	Richie James	NYG	WR	7.0	19.1	CC_v_JK	JK	14
+Bench	Bengals	Cin	D/ST	5.0	7.0	CC_v_JK	JK	14
+Bench	Robert Woods	FA	WR	9.6	9.9	CC_v_JK	JK	14
+Bench	Michael Gallup	Dal	WR	10.4	6.0	CC_v_JK	JK	14
+QB	Daniel Jones	NYG	QB	16.5	19.36	TN_v_AY	TN	14
+RB	Nick Chubb	Cle	RB	13.9	8.4	TN_v_AY	TN	14
+RB	Josh Jacobs	LV	RB	20.2	19.4	TN_v_AY	TN	14
+WR	Deebo Samuel	SF	WR	14.5	14.4	TN_v_AY	TN	14
+WR	Christian Kirk	Jax	WR	13.9	9.5	TN_v_AY	TN	14
+TE	Dalton Schultz	Hou	TE	9.4	14.7	TN_v_AY	TN	14
+FLEX	Garrett Wilson	NYJ	WR	14.7	13.8	TN_v_AY	TN	14
+OP	Tyler Huntley	Bal	QB	17.3	6.62	TN_v_AY	TN	14
+D/ST	Steelers	Pit	D/ST	6.9	4.0	TN_v_AY	TN	14
+Bench	Cooper Kupp	LAR	WR	0.0	0.0	TN_v_AY	TN	14
+Bench	Diontae Johnson	Pit	WR	11.7	14.2	TN_v_AY	TN	14
+Bench	Ravens	Bal	D/ST	7.6	11.0	TN_v_AY	TN	14
+Bench	Rondale Moore	Ari	WR	0.0	0.0	TN_v_AY	TN	14
+Bench	Gerald Everett	LAC	TE	8.1	7.8	TN_v_AY	TN	14
+Bench	Taylor Heinicke	Atl	QB	0.0	0.0	TN_v_AY	TN	14
+Bench	Broncos	Den	D/ST	3.8	4.0	TN_v_AY	TN	14
+QB	Jalen Hurts	Phi	QB	24.7	30.38	TN_v_AY	AY	14
+RB	Joe Mixon	Cin	RB	18.4	12.6	TN_v_AY	AY	14
+RB	Rachaad White	TB	RB	9.6	10.7	TN_v_AY	AY	14
+WR	Justin Jefferson	Min	WR	20.2	33.3	TN_v_AY	AY	14
+WR	CeeDee Lamb	Dal	WR	16.4	8.3	TN_v_AY	AY	14
+TE	Tyler Conklin	NYJ	TE	7.7	7.8	TN_v_AY	AY	14
+FLEX	Tee Higgins	Cin	WR	14.5	0.0	TN_v_AY	AY	14
+OP	Dak Prescott	Dal	QB	17.6	15.66	TN_v_AY	AY	14
+D/ST	Browns	Cle	D/ST	4.6	3.0	TN_v_AY	AY	14
+Bench	AJ Dillon	GB	RB	0.0	0.0	TN_v_AY	AY	14
+Bench	Jakobi Meyers	LV	WR	0.0	0.0	TN_v_AY	AY	14
+Bench	Carson Wentz	FA	QB	0.0	0.0	TN_v_AY	AY	14
+Bench	Kadarius Toney	KC	WR	0.0	0.0	TN_v_AY	AY	14
+Bench	Dallas Goedert	Phi	TE	0.0	0.0	TN_v_AY	AY	14
+Bench	Kenyan Drake	Bal	RB	0.0	2.2	TN_v_AY	AY	14
+Bench	Alvin Kamara	NO	RB	0.0	0.0	TN_v_AY	AY	14
+QB	Matt Ryan	FA	QB	14.7	11.28	JK_v_JR	JK	15
+RB	Dalvin Cook	Min	RB	16.9	27.0	JK_v_JR	JK	15
+RB	Ezekiel Elliott	FA	RB	13.9	15.1	JK_v_JR	JK	15
+WR	Mike Evans	TB	WR	13.8	13.3	JK_v_JR	JK	15
+WR	Marquise Brown	Ari	WR	12.6	5.9	JK_v_JR	JK	15
+TE	Mark Andrews	Bal	TE	12.4	6.1	JK_v_JR	JK	15
+FLEX	Latavius Murray	Den	RB	12.9	21.2	JK_v_JR	JK	15
+OP	Mac Jones	NE	QB	15.4	7.48	JK_v_JR	JK	15
+D/ST	Bills	Buf	D/ST	5.3	-1.0	JK_v_JR	JK	15
+Bench	Kyler Murray	Ari	QB	0.0	0.0	JK_v_JR	JK	15
+Bench	Nyheim Hines	Buf	RB	3.4	8.0	JK_v_JR	JK	15
+Bench	Zach Ertz	Ari	TE	0.0	0.0	JK_v_JR	JK	15
+Bench	Richie James	NYG	WR	7.6	8.2	JK_v_JR	JK	15
+Bench	Bengals	Cin	D/ST	5.5	9.0	JK_v_JR	JK	15
+Bench	Robert Woods	FA	WR	8.3	3.2	JK_v_JR	JK	15
+Bench	Michael Gallup	Dal	WR	10.4	1.2	JK_v_JR	JK	15
+QB	Geno Smith	Sea	QB	17.5	15.32	JK_v_JR	JR	15
+RB	Rhamondre Stevenson	NE	RB	17.1	24.8	JK_v_JR	JR	15
+RB	Michael Carter	NYJ	RB	10.5	4.1	JK_v_JR	JR	15
+WR	Tyreek Hill	Mia	WR	22.2	21.9	JK_v_JR	JR	15
+WR	George Pickens	Pit	WR	8.4	7.3	JK_v_JR	JR	15
+TE	T.J. Hockenson	Min	TE	11.5	8.3	JK_v_JR	JR	15
+FLEX	Allen Lazard	NYJ	WR	11.3	1.7	JK_v_JR	JR	15
+OP	Davis Mills	Hou	QB	10.3	18.94	JK_v_JR	JR	15
+D/ST	Raiders	LV	D/ST	7.3	10.0	JK_v_JR	JR	15
+Bench	Russell Wilson	Den	QB	0.0	0.0	JK_v_JR	JR	15
+Bench	Devin Singletary	Hou	RB	9.0	10.0	JK_v_JR	JR	15
+Bench	Robbie Anderson	FA	WR	4.1	0.0	JK_v_JR	JR	15
+Bench	Jacoby Brissett	Wsh	QB	0.0	0.3	JK_v_JR	JR	15
+Bench	Mo Alie-Cox	Ind	TE	3.2	0.0	JK_v_JR	JR	15
+Bench	Dameon Pierce	Hou	RB	0.0	0.0	JK_v_JR	JR	15
+Bench	Colts	Ind	D/ST	5.2	19.0	JK_v_JR	JR	15
+QB	Josh Allen	Buf	QB	23.1	35.86	EM_v_MR	EM	15
+RB	Aaron Jones	GB	RB	15.5	20.6	EM_v_MR	EM	15
+RB	Samaje Perine	Den	RB	7.6	3.4	EM_v_MR	EM	15
+WR	Davante Adams	LV	WR	18.1	6.8	EM_v_MR	EM	15
+WR	DK Metcalf	Sea	WR	16.0	12.5	EM_v_MR	EM	15
+TE	Dawson Knox	Buf	TE	7.8	21.8	EM_v_MR	EM	15
+FLEX	Terry McLaurin	Wsh	WR	15.7	13.0	EM_v_MR	EM	15
+OP	Trevor Lawrence	Jax	QB	17.7	27.82	EM_v_MR	EM	15
+D/ST	Patriots	NE	D/ST	6.2	12.0	EM_v_MR	EM	15
+Bench	Clyde Edwards-Helaire	KC	RB	0.0	0.0	EM_v_MR	EM	15
+Bench	Darnell Mooney	Chi	WR	0.0	0.0	EM_v_MR	EM	15
+Bench	Chase Claypool	Chi	WR	0.0	0.0	EM_v_MR	EM	15
+Bench	Hunter Henry	NE	TE	6.7	2.9	EM_v_MR	EM	15
+Bench	Jarvis Landry	NO	WR	8.4	0.0	EM_v_MR	EM	15
+Bench	Jerry Jeudy	Den	WR	13.8	14.6	EM_v_MR	EM	15
+Bench	Travis Homer	Chi	RB	4.0	5.0	EM_v_MR	EM	15
+QB	Tua Tagovailoa	Mia	QB	18.7	18.06	EM_v_MR	MR	15
+RB	Najee Harris	Pit	RB	12.7	14.6	EM_v_MR	MR	15
+RB	Miles Sanders	Car	RB	13.9	1.9	EM_v_MR	MR	15
+WR	Keenan Allen	LAC	WR	16.3	16.6	EM_v_MR	MR	15
+WR	Stefon Diggs	Buf	WR	17.8	10.7	EM_v_MR	MR	15
+TE	Pat Freiermuth	Pit	TE	10.7	0.0	EM_v_MR	MR	15
+FLEX	Jaylen Waddle	Mia	WR	14.1	20.4	EM_v_MR	MR	15
+OP	Baker Mayfield	TB	QB	13.9	7.54	EM_v_MR	MR	15
+D/ST	Eagles	Phi	D/ST	7.2	13.0	EM_v_MR	MR	15
+Bench	Kenneth Walker III	Sea	RB	13.5	11.9	EM_v_MR	MR	15
+Bench	Parris Campbell	NYG	WR	9.5	3.3	EM_v_MR	MR	15
+Bench	Chuba Hubbard	Car	RB	8.3	9.7	EM_v_MR	MR	15
+Bench	Lamar Jackson	Bal	QB	0.0	0.0	EM_v_MR	MR	15
+Bench	Devin Duvernay	Bal	WR	6.7	4.9	EM_v_MR	MR	15
+Bench	Jaylen Warren	Pit	RB	6.2	11.9	EM_v_MR	MR	15
+Bench	Desmond Ridder	Atl	QB	13.9	7.68	EM_v_MR	MR	15
+QB	Justin Fields	Chi	QB	20.9	23.58	MF_v_Zach White Commanders	MF	15
+RB	Raheem Mostert	Mia	RB	11.4	16.6	MF_v_Zach White Commanders	MF	15
+RB	Cordarrelle Patterson	Atl	RB	9.9	12.2	MF_v_Zach White Commanders	MF	15
+WR	Donovan Peoples-Jones	Cle	WR	10.2	13.1	MF_v_Zach White Commanders	MF	15
+WR	Christian Watson	GB	WR	12.5	8.6	MF_v_Zach White Commanders	MF	15
+TE	David Njoku	Cle	TE	10.0	5.8	MF_v_Zach White Commanders	MF	15
+FLEX	Michael Pittman Jr.	Ind	WR	14.2	19.0	MF_v_Zach White Commanders	MF	15
+OP	Ryan Tannehill	Ten	QB	15.7	11.7	MF_v_Zach White Commanders	MF	15
+D/ST	Saints	NO	D/ST	7.5	7.0	MF_v_Zach White Commanders	MF	15
+Bench	Tyler Allgeier	Atl	RB	7.5	22.6	MF_v_Zach White Commanders	MF	15
+Bench	Marquez Valdes-Scantling	KC	WR	8.1	11.6	MF_v_Zach White Commanders	MF	15
+Bench	Sam Darnold	SF	QB	12.6	13.2	MF_v_Zach White Commanders	MF	15
+Bench	Odell Beckham Jr.	FA	WR	0.0	0.0	MF_v_Zach White Commanders	MF	15
+Bench	Jeff Wilson Jr.	Mia	RB	0.0	0.0	MF_v_Zach White Commanders	MF	15
+Bench	Foster Moreau	LV	TE	1.1	4.0	MF_v_Zach White Commanders	MF	15
+Bench	Tyler Boyd	Cin	WR	8.9	14.5	MF_v_Zach White Commanders	MF	15
+QB	Tom Brady	TB	QB	16.9	18.58	MF_v_Zach White Commanders	Zach White Commanders	15
+RB	Gus Edwards	Bal	RB	7.5	5.5	MF_v_Zach White Commanders	Zach White Commanders	15
+RB	D'Onta Foreman	Chi	RB	11.3	0.9	MF_v_Zach White Commanders	Zach White Commanders	15
+WR	Mack Hollins	LV	WR	7.7	14.0	MF_v_Zach White Commanders	Zach White Commanders	15
+WR	A.J. Brown	Phi	WR	15.9	27.1	MF_v_Zach White Commanders	Zach White Commanders	15
+TE	George Kittle	SF	TE	11.4	25.3	MF_v_Zach White Commanders	Zach White Commanders	15
+FLEX	DJ Moore	Chi	WR	10.9	18.3	MF_v_Zach White Commanders	Zach White Commanders	15
+OP	Brock Purdy	SF	QB	17.0	16.48	MF_v_Zach White Commanders	Zach White Commanders	15
+D/ST	Jets	NYJ	D/ST	5.5	-1.0	MF_v_Zach White Commanders	Zach White Commanders	15
+Bench	Courtland Sutton	Den	WR	0.0	0.0	MF_v_Zach White Commanders	Zach White Commanders	15
+Bench	David Montgomery	Det	RB	13.8	24.1	MF_v_Zach White Commanders	Zach White Commanders	15
+Bench	Brian Robinson Jr.	Wsh	RB	12.1	11.7	MF_v_Zach White Commanders	Zach White Commanders	15
+Bench	Andy Dalton	Car	QB	16.2	14.14	MF_v_Zach White Commanders	Zach White Commanders	15
+Bench	Gabe Davis	Buf	WR	11.2	9.6	MF_v_Zach White Commanders	Zach White Commanders	15
+Bench	Treylon Burks	Ten	WR	0.0	0.0	MF_v_Zach White Commanders	Zach White Commanders	15
+Bench	Demarcus Robinson	Bal	WR	8.8	6.9	MF_v_Zach White Commanders	Zach White Commanders	15
+QB	Justin Herbert	LAC	QB	19.5	10.72	DW_v_CM	DW	15
+RB	Tony Pollard	Dal	RB	14.0	14.6	DW_v_CM	DW	15
+RB	Jonathan Taylor	Ind	RB	18.3	2.3	DW_v_CM	DW	15
+WR	DeAndre Hopkins	Ari	WR	14.5	13.0	DW_v_CM	DW	15
+WR	Zay Jones	Jax	WR	13.4	34.9	DW_v_CM	DW	15
+TE	Evan Engram	Jax	TE	9.3	14.2	DW_v_CM	DW	15
+FLEX	Zonovan Knight	NYJ	RB	12.2	2.3	DW_v_CM	DW	15
+OP	Jerick McKinnon	KC	RB	12.0	34.2	DW_v_CM	DW	15
+D/ST	Chiefs	KC	D/ST	8.3	6.0	DW_v_CM	DW	15
+Bench	Travis Etienne Jr.	Jax	RB	13.6	12.7	DW_v_CM	DW	15
+Bench	Darius Slayton	NYG	WR	10.2	7.3	DW_v_CM	DW	15
+Bench	Jameson Williams	Det	WR	4.9	0.0	DW_v_CM	DW	15
+Bench	Joshua Palmer	LAC	WR	9.6	9.9	DW_v_CM	DW	15
+Bench	Kyren Williams	LAR	RB	7.2	0.7	DW_v_CM	DW	15
+Bench	J.K. Dobbins	Bal	RB	10.3	13.8	DW_v_CM	DW	15
+Bench	Cam Akers	LAR	RB	10.2	13.0	DW_v_CM	DW	15
+QB	Deshaun Watson	Cle	QB	17.8	12.64	DW_v_CM	CM	15
+RB	Austin Ekeler	LAC	RB	19.7	15.0	DW_v_CM	CM	15
+RB	Isiah Pacheco	KC	RB	13.5	8.7	DW_v_CM	CM	15
+WR	JuJu Smith-Schuster	NE	WR	12.8	16.8	DW_v_CM	CM	15
+WR	Ja'Marr Chase	Cin	WR	18.8	19.0	DW_v_CM	CM	15
+TE	Tyler Higbee	LAR	TE	8.4	12.7	DW_v_CM	CM	15
+FLEX	Leonard Fournette	FA	RB	11.6	11.4	DW_v_CM	CM	15
+OP	Kirk Cousins	Min	QB	16.8	34.4	DW_v_CM	CM	15
+D/ST	Cowboys	Dal	D/ST	6.5	1.0	DW_v_CM	CM	15
+Bench	Curtis Samuel	Wsh	WR	9.9	7.5	DW_v_CM	CM	15
+Bench	Rams	LAR	D/ST	5.1	8.0	DW_v_CM	CM	15
+Bench	DeVonta Smith	Phi	WR	14.2	17.6	DW_v_CM	CM	15
+Bench	Antonio Gibson	Wsh	RB	11.0	4.7	DW_v_CM	CM	15
+Bench	Kareem Hunt	Cle	RB	7.6	3.7	DW_v_CM	CM	15
+Bench	James Cook	Buf	RB	8.4	11.9	DW_v_CM	CM	15
+Bench	Noah Fant	Sea	TE	6.4	14.2	DW_v_CM	CM	15
+QB	Daniel Jones	NYG	QB	16.2	9.9	TN_v_CC	TN	15
+RB	Nick Chubb	Cle	RB	13.8	9.9	TN_v_CC	TN	15
+RB	Josh Jacobs	LV	RB	18.5	13.0	TN_v_CC	TN	15
+WR	Diontae Johnson	Pit	WR	12.6	20.0	TN_v_CC	TN	15
+WR	Christian Kirk	Jax	WR	14.7	15.2	TN_v_CC	TN	15
+TE	Dalton Schultz	Hou	TE	10.5	3.5	TN_v_CC	TN	15
+FLEX	Garrett Wilson	NYJ	WR	13.4	13.8	TN_v_CC	TN	15
+OP	Taylor Heinicke	Atl	QB	15.3	13.26	TN_v_CC	TN	15
+D/ST	Broncos	Den	D/ST	8.0	12.0	TN_v_CC	TN	15
+Bench	Cooper Kupp	LAR	WR	0.0	0.0	TN_v_CC	TN	15
+Bench	Deebo Samuel	SF	WR	0.0	0.0	TN_v_CC	TN	15
+Bench	Ravens	Bal	D/ST	6.4	8.0	TN_v_CC	TN	15
+Bench	Gerald Everett	LAC	TE	8.9	8.2	TN_v_CC	TN	15
+Bench	Steelers	Pit	D/ST	7.2	8.0	TN_v_CC	TN	15
+Bench	Kenny Pickett	Pit	QB	0.0	0.0	TN_v_CC	TN	15
+Bench	Chris Moore	Hou	WR	11.0	8.2	TN_v_CC	TN	15
+QB	Tyler Huntley	Bal	QB	17.1	6.02	TN_v_CC	CC	15
+RB	Derrick Henry	Ten	RB	19.7	26.3	TN_v_CC	CC	15
+RB	James Conner	Ari	RB	17.4	18.1	TN_v_CC	CC	15
+WR	Amon-Ra St. Brown	Det	WR	16.9	15.2	TN_v_CC	CC	15
+WR	Mike Williams	LAC	WR	14.0	10.7	TN_v_CC	CC	15
+TE	Greg Dulcich	Den	TE	9.4	2.1	TN_v_CC	CC	15
+FLEX	Chris Olave	NO	WR	13.7	8.3	TN_v_CC	CC	15
+OP	Joe Burrow	Cin	QB	21.1	25.8	TN_v_CC	CC	15
+D/ST	Cardinals	Ari	D/ST	6.1	12.0	TN_v_CC	CC	15
+Bench	Drake London	Atl	WR	9.4	12.0	TN_v_CC	CC	15
+Bench	Alec Pierce	Ind	WR	8.5	0.0	TN_v_CC	CC	15
+Bench	Taysom Hill	NO	TE	7.9	10.2	TN_v_CC	CC	15
+Bench	D'Andre Swift	Det	RB	12.7	12.5	TN_v_CC	CC	15
+Bench	Brandon Aiyuk	SF	WR	14.0	3.9	TN_v_CC	CC	15
+Bench	Derek Carr	NO	QB	14.4	20.24	TN_v_CC	CC	15
+Bench	Empty	--	--	--	--	TN_v_CC	CC	15
+QB	Geno Smith	Sea	QB	20.2	13.2	JR_v_DW	JR	16
+RB	Rhamondre Stevenson	NE	RB	16.6	3.3	JR_v_DW	JR	16
+RB	Michael Carter	NYJ	RB	8.8	10.0	JR_v_DW	JR	16
+WR	Tyreek Hill	Mia	WR	22.4	14.3	JR_v_DW	JR	16
+WR	George Pickens	Pit	WR	7.8	16.7	JR_v_DW	JR	16
+TE	T.J. Hockenson	Min	TE	12.2	35.9	JR_v_DW	JR	16
+FLEX	Allen Lazard	NYJ	WR	10.4	11.1	JR_v_DW	JR	16
+OP	Davis Mills	Hou	QB	10.9	10.92	JR_v_DW	JR	16
+D/ST	Raiders	LV	D/ST	6.4	4.0	JR_v_DW	JR	16
+Bench	Russell Wilson	Den	QB	14.9	11.26	JR_v_DW	JR	16
+Bench	Devin Singletary	Hou	RB	11.4	20.5	JR_v_DW	JR	16
+Bench	Robbie Anderson	FA	WR	4.0	0.0	JR_v_DW	JR	16
+Bench	Jacoby Brissett	Wsh	QB	0.0	0.0	JR_v_DW	JR	16
+Bench	Mo Alie-Cox	Ind	TE	4.7	1.2	JR_v_DW	JR	16
+Bench	Dameon Pierce	Hou	RB	0.0	0.0	JR_v_DW	JR	16
+Bench	Colts	Ind	D/ST	5.0	9.0	JR_v_DW	JR	16
+QB	Justin Herbert	LAC	QB	18.8	6.5	JR_v_DW	DW	16
+RB	Travis Etienne Jr.	Jax	RB	14.0	14.2	JR_v_DW	DW	16
+RB	Jerick McKinnon	KC	RB	13.6	12.8	JR_v_DW	DW	16
+WR	DeAndre Hopkins	Ari	WR	14.3	1.4	JR_v_DW	DW	16
+WR	Zay Jones	Jax	WR	11.7	2.1	JR_v_DW	DW	16
+TE	Evan Engram	Jax	TE	9.6	18.3	JR_v_DW	DW	16
+FLEX	J.K. Dobbins	Bal	RB	11.8	5.9	JR_v_DW	DW	16
+OP	Tony Pollard	Dal	RB	14.9	14.0	JR_v_DW	DW	16
+D/ST	Chiefs	KC	D/ST	5.6	7.0	JR_v_DW	DW	16
+Bench	Darius Slayton	NYG	WR	11.3	11.9	JR_v_DW	DW	16
+Bench	Jameson Williams	Det	WR	3.5	0.0	JR_v_DW	DW	16
+Bench	Joshua Palmer	LAC	WR	8.7	3.6	JR_v_DW	DW	16
+Bench	Kyren Williams	LAR	RB	2.5	3.1	JR_v_DW	DW	16
+Bench	Zonovan Knight	NYJ	RB	11.7	2.3	JR_v_DW	DW	16
+Bench	Cam Akers	LAR	RB	10.5	34.7	JR_v_DW	DW	16
+Bench	Empty	--	--	--	--	JR_v_DW	DW	16
+QB	Daniel Jones	NYG	QB	18.3	21.76	TN_v_MR	TN	16
+RB	Nick Chubb	Cle	RB	17.0	11.2	TN_v_MR	TN	16
+RB	Josh Jacobs	LV	RB	20.0	6.0	TN_v_MR	TN	16
+WR	Diontae Johnson	Pit	WR	12.4	11.4	TN_v_MR	TN	16
+WR	Christian Kirk	Jax	WR	12.1	5.6	TN_v_MR	TN	16
+TE	Dalton Schultz	Hou	TE	9.9	7.3	TN_v_MR	TN	16
+FLEX	Garrett Wilson	NYJ	WR	12.1	5.0	TN_v_MR	TN	16
+OP	Kenny Pickett	Pit	QB	15.4	13.66	TN_v_MR	TN	16
+D/ST	Broncos	Den	D/ST	8.8	-4.0	TN_v_MR	TN	16
+Bench	Cooper Kupp	LAR	WR	0.0	0.0	TN_v_MR	TN	16
+Bench	Deebo Samuel	SF	WR	0.0	0.0	TN_v_MR	TN	16
+Bench	Ravens	Bal	D/ST	7.6	8.0	TN_v_MR	TN	16
+Bench	Gerald Everett	LAC	TE	9.3	0.0	TN_v_MR	TN	16
+Bench	Taylor Heinicke	Atl	QB	12.9	11.24	TN_v_MR	TN	16
+Bench	Steelers	Pit	D/ST	4.7	14.0	TN_v_MR	TN	16
+Bench	Chris Moore	Hou	WR	9.7	4.5	TN_v_MR	TN	16
+QB	Tua Tagovailoa	Mia	QB	19.8	13.4	TN_v_MR	MR	16
+RB	Najee Harris	Pit	RB	13.3	15.5	TN_v_MR	MR	16
+RB	Miles Sanders	Car	RB	13.1	6.1	TN_v_MR	MR	16
+WR	Keenan Allen	LAC	WR	15.9	21.4	TN_v_MR	MR	16
+WR	Stefon Diggs	Buf	WR	16.4	4.6	TN_v_MR	MR	16
+TE	Pat Freiermuth	Pit	TE	9.6	13.6	TN_v_MR	MR	16
+FLEX	Jaylen Waddle	Mia	WR	13.9	25.3	TN_v_MR	MR	16
+OP	Baker Mayfield	TB	QB	10.7	17.4	TN_v_MR	MR	16
+D/ST	Eagles	Phi	D/ST	5.6	9.0	TN_v_MR	MR	16
+Bench	Kenneth Walker III	Sea	RB	15.0	12.5	TN_v_MR	MR	16
+Bench	Parris Campbell	NYG	WR	8.5	3.9	TN_v_MR	MR	16
+Bench	Chuba Hubbard	Car	RB	9.2	12.5	TN_v_MR	MR	16
+Bench	Lamar Jackson	Bal	QB	0.0	0.0	TN_v_MR	MR	16
+Bench	Devin Duvernay	Bal	WR	0.0	0.0	TN_v_MR	MR	16
+Bench	Jaylen Warren	Pit	RB	7.2	4.0	TN_v_MR	MR	16
+Bench	Desmond Ridder	Atl	QB	11.7	9.52	TN_v_MR	MR	16
+QB	Justin Fields	Chi	QB	19.8	9.86	MF_v_JK	MF	16
+RB	Raheem Mostert	Mia	RB	10.3	4.9	MF_v_JK	MF	16
+RB	Cordarrelle Patterson	Atl	RB	10.4	4.1	MF_v_JK	MF	16
+WR	Donovan Peoples-Jones	Cle	WR	7.4	1.2	MF_v_JK	MF	16
+WR	Christian Watson	GB	WR	13.0	10.9	MF_v_JK	MF	16
+TE	David Njoku	Cle	TE	8.4	3.4	MF_v_JK	MF	16
+FLEX	Michael Pittman Jr.	Ind	WR	13.3	7.9	MF_v_JK	MF	16
+OP	Ryan Tannehill	Ten	QB	0.0	0.0	MF_v_JK	MF	16
+D/ST	Saints	NO	D/ST	5.4	9.0	MF_v_JK	MF	16
+Bench	Tyler Allgeier	Atl	RB	8.2	15.7	MF_v_JK	MF	16
+Bench	Marquez Valdes-Scantling	KC	WR	8.5	0.0	MF_v_JK	MF	16
+Bench	Sam Darnold	SF	QB	14.0	21.9	MF_v_JK	MF	16
+Bench	Odell Beckham Jr.	FA	WR	0.0	0.0	MF_v_JK	MF	16
+Bench	Jeff Wilson Jr.	Mia	RB	9.0	11.0	MF_v_JK	MF	16
+Bench	Foster Moreau	LV	TE	1.1	3.9	MF_v_JK	MF	16
+Bench	Tyler Boyd	Cin	WR	8.2	5.1	MF_v_JK	MF	16
+QB	Matt Ryan	FA	QB	0.0	0.0	MF_v_JK	JK	16
+RB	Dalvin Cook	Min	RB	19.6	10.7	MF_v_JK	JK	16
+RB	Ezekiel Elliott	FA	RB	12.6	13.1	MF_v_JK	JK	16
+WR	Mike Evans	TB	WR	13.0	5.9	MF_v_JK	JK	16
+WR	Marquise Brown	Ari	WR	11.5	8.8	MF_v_JK	JK	16
+TE	Mark Andrews	Bal	TE	12.3	7.5	MF_v_JK	JK	16
+FLEX	Latavius Murray	Den	RB	12.3	7.0	MF_v_JK	JK	16
+OP	Mac Jones	NE	QB	13.9	17.5	MF_v_JK	JK	16
+D/ST	Bills	Buf	D/ST	6.7	12.0	MF_v_JK	JK	16
+Bench	Kyler Murray	Ari	QB	0.0	0.0	MF_v_JK	JK	16
+Bench	Nyheim Hines	Buf	RB	2.8	2.1	MF_v_JK	JK	16
+Bench	Zach Ertz	Ari	TE	0.0	0.0	MF_v_JK	JK	16
+Bench	Richie James	NYG	WR	9.0	17.0	MF_v_JK	JK	16
+Bench	Bengals	Cin	D/ST	6.9	13.0	MF_v_JK	JK	16
+Bench	Robert Woods	FA	WR	5.8	7.0	MF_v_JK	JK	16
+Bench	Michael Gallup	Dal	WR	8.8	13.6	MF_v_JK	JK	16
+QB	Tom Brady	TB	QB	17.7	13.34	Zach White Commanders_v_CM	Zach White Commanders	16
+RB	Gus Edwards	Bal	RB	5.9	9.9	Zach White Commanders_v_CM	Zach White Commanders	16
+RB	D'Onta Foreman	Chi	RB	10.4	22.5	Zach White Commanders_v_CM	Zach White Commanders	16
+WR	Mack Hollins	LV	WR	8.9	1.7	Zach White Commanders_v_CM	Zach White Commanders	16
+WR	A.J. Brown	Phi	WR	16.9	16.3	Zach White Commanders_v_CM	Zach White Commanders	16
+TE	George Kittle	SF	TE	10.5	30.0	Zach White Commanders_v_CM	Zach White Commanders	16
+FLEX	DJ Moore	Chi	WR	12.0	20.1	Zach White Commanders_v_CM	Zach White Commanders	16
+OP	Brock Purdy	SF	QB	15.1	16.96	Zach White Commanders_v_CM	Zach White Commanders	16
+D/ST	Jets	NYJ	D/ST	6.5	3.0	Zach White Commanders_v_CM	Zach White Commanders	16
+Bench	Courtland Sutton	Den	WR	11.6	11.4	Zach White Commanders_v_CM	Zach White Commanders	16
+Bench	David Montgomery	Det	RB	13.4	10.4	Zach White Commanders_v_CM	Zach White Commanders	16
+Bench	Brian Robinson Jr.	Wsh	RB	8.0	5.8	Zach White Commanders_v_CM	Zach White Commanders	16
+Bench	Andy Dalton	Car	QB	11.8	2.58	Zach White Commanders_v_CM	Zach White Commanders	16
+Bench	Gabe Davis	Buf	WR	9.8	11.5	Zach White Commanders_v_CM	Zach White Commanders	16
+Bench	Treylon Burks	Ten	WR	7.8	1.5	Zach White Commanders_v_CM	Zach White Commanders	16
+Bench	Demarcus Robinson	Bal	WR	9.0	7.6	Zach White Commanders_v_CM	Zach White Commanders	16
+QB	Deshaun Watson	Cle	QB	14.5	12.8	Zach White Commanders_v_CM	CM	16
+RB	Austin Ekeler	LAC	RB	18.0	23.9	Zach White Commanders_v_CM	CM	16
+RB	Isiah Pacheco	KC	RB	12.1	10.0	Zach White Commanders_v_CM	CM	16
+WR	JuJu Smith-Schuster	NE	WR	14.2	5.7	Zach White Commanders_v_CM	CM	16
+WR	Ja'Marr Chase	Cin	WR	19.3	13.9	Zach White Commanders_v_CM	CM	16
+TE	Tyler Higbee	LAR	TE	7.7	30.4	Zach White Commanders_v_CM	CM	16
+FLEX	DeVonta Smith	Phi	WR	14.1	31.3	Zach White Commanders_v_CM	CM	16
+OP	Kirk Cousins	Min	QB	18.8	24.16	Zach White Commanders_v_CM	CM	16
+D/ST	Rams	LAR	D/ST	6.6	21.0	Zach White Commanders_v_CM	CM	16
+Bench	Leonard Fournette	FA	RB	12.1	25.2	Zach White Commanders_v_CM	CM	16
+Bench	Curtis Samuel	Wsh	WR	8.6	16.4	Zach White Commanders_v_CM	CM	16
+Bench	Cowboys	Dal	D/ST	6.0	5.0	Zach White Commanders_v_CM	CM	16
+Bench	Antonio Gibson	Wsh	RB	9.0	5.1	Zach White Commanders_v_CM	CM	16
+Bench	Kareem Hunt	Cle	RB	7.3	5.2	Zach White Commanders_v_CM	CM	16
+Bench	James Cook	Buf	RB	8.5	17.8	Zach White Commanders_v_CM	CM	16
+Bench	Noah Fant	Sea	TE	8.6	9.2	Zach White Commanders_v_CM	CM	16
+QB	Josh Allen	Buf	QB	22.9	24.98	EM_v_AY	EM	16
+RB	Aaron Jones	GB	RB	16.7	5.4	EM_v_AY	EM	16
+RB	Samaje Perine	Den	RB	6.7	5.2	EM_v_AY	EM	16
+WR	Davante Adams	LV	WR	17.5	3.5	EM_v_AY	EM	16
+WR	DK Metcalf	Sea	WR	18.0	15.1	EM_v_AY	EM	16
+TE	Dawson Knox	Buf	TE	7.9	12.8	EM_v_AY	EM	16
+FLEX	Terry McLaurin	Wsh	WR	14.1	17.7	EM_v_AY	EM	16
+OP	Trevor Lawrence	Jax	QB	15.1	18.26	EM_v_AY	EM	16
+D/ST	Buccaneers	TB	D/ST	6.8	9.0	EM_v_AY	EM	16
+Bench	Chase Claypool	Chi	WR	0.0	0.0	EM_v_AY	EM	16
+Bench	Hunter Henry	NE	TE	6.4	0.0	EM_v_AY	EM	16
+Bench	Patriots	NE	D/ST	6.3	12.0	EM_v_AY	EM	16
+Bench	Jerry Jeudy	Den	WR	12.7	17.7	EM_v_AY	EM	16
+Bench	Travis Homer	Chi	RB	2.9	0.0	EM_v_AY	EM	16
+Bench	Zach Wilson	NYJ	QB	14.8	2.78	EM_v_AY	EM	16
+Bench	Gardner Minshew	Ind	QB	17.1	24.7	EM_v_AY	EM	16
+QB	Dak Prescott	Dal	QB	16.6	28.98	EM_v_AY	AY	16
+RB	Joe Mixon	Cin	RB	15.4	17.8	EM_v_AY	AY	16
+RB	Alvin Kamara	NO	RB	16.1	19.0	EM_v_AY	AY	16
+WR	Justin Jefferson	Min	WR	20.9	31.3	EM_v_AY	AY	16
+WR	CeeDee Lamb	Dal	WR	14.1	34.0	EM_v_AY	AY	16
+TE	Darren Waller	NYG	TE	8.9	9.8	EM_v_AY	AY	16
+FLEX	Tee Higgins	Cin	WR	13.5	26.8	EM_v_AY	AY	16
+OP	Nick Foles	Ind	QB	13.9	2.72	EM_v_AY	AY	16
+D/ST	Titans	Ten	D/ST	8.3	6.0	EM_v_AY	AY	16
+Bench	Jalen Hurts	Phi	QB	0.0	0.0	EM_v_AY	AY	16
+Bench	AJ Dillon	GB	RB	9.7	12.8	EM_v_AY	AY	16
+Bench	Jakobi Meyers	LV	WR	10.2	20.3	EM_v_AY	AY	16
+Bench	Dallas Goedert	Phi	TE	10.0	9.7	EM_v_AY	AY	16
+Bench	Rachaad White	TB	RB	11.3	15.3	EM_v_AY	AY	16
+Bench	Chigoziem Okonkwo	Ten	TE	6.6	2.0	EM_v_AY	AY	16
+Bench	Malik Willis	Ten	QB	13.3	12.26	EM_v_AY	AY	16
+QB	Derek Carr	NO	QB	15.5	9.36	CC_v_SH	CC	16
+RB	Derrick Henry	Ten	RB	22.0	18.6	CC_v_SH	CC	16
+RB	James Conner	Ari	RB	19.2	25.0	CC_v_SH	CC	16
+WR	Amon-Ra St. Brown	Det	WR	18.0	14.6	CC_v_SH	CC	16
+WR	Mike Williams	LAC	WR	13.5	11.6	CC_v_SH	CC	16
+TE	Taysom Hill	NO	TE	8.8	11.6	CC_v_SH	CC	16
+FLEX	D'Andre Swift	Det	RB	13.5	3.5	CC_v_SH	CC	16
+OP	Joe Burrow	Cin	QB	19.5	25.5	CC_v_SH	CC	16
+D/ST	Cardinals	Ari	D/ST	5.1	3.0	CC_v_SH	CC	16
+Bench	Chris Olave	NO	WR	0.0	0.0	CC_v_SH	CC	16
+Bench	Drake London	Atl	WR	10.1	14.6	CC_v_SH	CC	16
+Bench	Alec Pierce	Ind	WR	7.1	5.6	CC_v_SH	CC	16
+Bench	Brandon Aiyuk	SF	WR	11.5	13.1	CC_v_SH	CC	16
+Bench	Greg Dulcich	Den	TE	8.0	13.9	CC_v_SH	CC	16
+Bench	Tyler Huntley	Bal	QB	14.9	13.2	CC_v_SH	CC	16
+Bench	Empty	--	--	--	--	CC_v_SH	CC	16
+QB	Patrick Mahomes	KC	QB	24.8	23.76	CC_v_SH	SH	16
+RB	Christian McCaffrey	SF	RB	21.6	13.8	CC_v_SH	SH	16
+RB	Saquon Barkley	NYG	RB	18.0	27.3	CC_v_SH	SH	16
+WR	Chris Godwin	TB	WR	14.9	14.3	CC_v_SH	SH	16
+WR	Amari Cooper	Cle	WR	10.8	13.2	CC_v_SH	SH	16
+TE	Travis Kelce	KC	TE	18.0	17.3	CC_v_SH	SH	16
+FLEX	Adam Thielen	FA	WR	10.9	1.6	CC_v_SH	SH	16
+OP	Jared Goff	Det	QB	16.1	25.7	CC_v_SH	SH	16
+D/ST	49ers	SF	D/ST	9.0	7.0	CC_v_SH	SH	16
+Bench	Tyler Lockett	Sea	WR	0.0	0.0	CC_v_SH	SH	16
+Bench	Aaron Rodgers	GB	QB	16.9	14.32	CC_v_SH	SH	16
+Bench	Jamaal Williams	NO	RB	9.9	3.4	CC_v_SH	SH	16
+Bench	Mike White	Mia	QB	0.0	0.0	CC_v_SH	SH	16
+Bench	Jordan Mason	SF	RB	4.4	0.0	CC_v_SH	SH	16
+Bench	Matt Breida	NYG	RB	4.1	0.9	CC_v_SH	SH	16
+Bench	Zack Moss	Ind	RB	11.3	8.0	CC_v_SH	SH	16
+QB	Geno Smith	Sea	QB	16.9	17.12	JR_v_CM	JR	17
+RB	Rhamondre Stevenson	NE	RB	14.8	7.1	JR_v_CM	JR	17
+RB	Michael Carter	NYJ	RB	9.7	2.5	JR_v_CM	JR	17
+WR	Tyreek Hill	Mia	WR	19.4	15.7	JR_v_CM	JR	17
+WR	George Pickens	Pit	WR	7.6	4.9	JR_v_CM	JR	17
+TE	T.J. Hockenson	Min	TE	14.5	12.9	JR_v_CM	JR	17
+FLEX	Allen Lazard	NYJ	WR	11.8	10.9	JR_v_CM	JR	17
+OP	Davis Mills	Hou	QB	11.7	9.38	JR_v_CM	JR	17
+D/ST	Raiders	LV	D/ST	5.0	-6.0	JR_v_CM	JR	17
+Bench	Russell Wilson	Den	QB	16.0	24.58	JR_v_CM	JR	17
+Bench	Devin Singletary	Hou	RB	9.7	0.0	JR_v_CM	JR	17
+Bench	Robbie Anderson	FA	WR	4.2	2.3	JR_v_CM	JR	17
+Bench	Jacoby Brissett	Wsh	QB	0.0	0.2	JR_v_CM	JR	17
+Bench	Mo Alie-Cox	Ind	TE	4.7	0.0	JR_v_CM	JR	17
+Bench	Dameon Pierce	Hou	RB	0.0	0.0	JR_v_CM	JR	17
+Bench	Colts	Ind	D/ST	5.5	1.0	JR_v_CM	JR	17
+QB	Deshaun Watson	Cle	QB	15.6	21.86	JR_v_CM	CM	17
+RB	Austin Ekeler	LAC	RB	17.5	32.1	JR_v_CM	CM	17
+RB	Isiah Pacheco	KC	RB	11.8	12.9	JR_v_CM	CM	17
+WR	JuJu Smith-Schuster	NE	WR	12.4	4.1	JR_v_CM	CM	17
+WR	Ja'Marr Chase	Cin	WR	20.4	0.0	JR_v_CM	CM	17
+TE	Tyler Higbee	LAR	TE	9.6	4.1	JR_v_CM	CM	17
+FLEX	DeVonta Smith	Phi	WR	13.8	20.5	JR_v_CM	CM	17
+OP	Kirk Cousins	Min	QB	19.8	10.9	JR_v_CM	CM	17
+D/ST	Rams	LAR	D/ST	5.0	-4.0	JR_v_CM	CM	17
+Bench	Leonard Fournette	FA	RB	13.7	8.7	JR_v_CM	CM	17
+Bench	Curtis Samuel	Wsh	WR	9.7	1.6	JR_v_CM	CM	17
+Bench	Cowboys	Dal	D/ST	9.7	11.0	JR_v_CM	CM	17
+Bench	Antonio Gibson	Wsh	RB	0.0	0.0	JR_v_CM	CM	17
+Bench	Kareem Hunt	Cle	RB	6.5	0.9	JR_v_CM	CM	17
+Bench	James Cook	Buf	RB	7.9	0.0	JR_v_CM	CM	17
+Bench	Noah Fant	Sea	TE	8.2	6.0	JR_v_CM	CM	17
+QB	Daniel Jones	NYG	QB	17.9	36.18	TN_v_MR	TN	17
+RB	Nick Chubb	Cle	RB	13.4	12.6	TN_v_MR	TN	17
+RB	Josh Jacobs	LV	RB	13.7	19.5	TN_v_MR	TN	17
+WR	Diontae Johnson	Pit	WR	11.7	5.5	TN_v_MR	TN	17
+WR	Christian Kirk	Jax	WR	14.0	4.1	TN_v_MR	TN	17
+TE	Dalton Schultz	Hou	TE	9.8	24.6	TN_v_MR	TN	17
+FLEX	Garrett Wilson	NYJ	WR	14.1	4.8	TN_v_MR	TN	17
+OP	Kenny Pickett	Pit	QB	13.2	10.92	TN_v_MR	TN	17
+D/ST	Broncos	Den	D/ST	3.4	6.0	TN_v_MR	TN	17
+Bench	Cooper Kupp	LAR	WR	0.0	0.0	TN_v_MR	TN	17
+Bench	Deebo Samuel	SF	WR	0.0	0.0	TN_v_MR	TN	17
+Bench	Ravens	Bal	D/ST	7.7	2.0	TN_v_MR	TN	17
+Bench	Gerald Everett	LAC	TE	7.7	10.5	TN_v_MR	TN	17
+Bench	Taylor Heinicke	Atl	QB	0.0	0.0	TN_v_MR	TN	17
+Bench	Steelers	Pit	D/ST	7.1	8.0	TN_v_MR	TN	17
+Bench	Chris Moore	Hou	WR	10.1	5.1	TN_v_MR	TN	17
+QB	Desmond Ridder	Atl	QB	12.2	5.66	TN_v_MR	MR	17
+RB	Najee Harris	Pit	RB	12.6	20.3	TN_v_MR	MR	17
+RB	Miles Sanders	Car	RB	14.1	6.1	TN_v_MR	MR	17
+WR	Keenan Allen	LAC	WR	16.1	11.8	TN_v_MR	MR	17
+WR	Stefon Diggs	Buf	WR	16.9	0.0	TN_v_MR	MR	17
+TE	Pat Freiermuth	Pit	TE	9.8	6.6	TN_v_MR	MR	17
+FLEX	Jaylen Waddle	Mia	WR	14.1	8.2	TN_v_MR	MR	17
+OP	Baker Mayfield	TB	QB	12.6	4.08	TN_v_MR	MR	17
+D/ST	Eagles	Phi	D/ST	7.5	10.0	TN_v_MR	MR	17
+Bench	Tua Tagovailoa	Mia	QB	0.0	0.0	TN_v_MR	MR	17
+Bench	Kenneth Walker III	Sea	RB	13.0	15.2	TN_v_MR	MR	17
+Bench	Parris Campbell	NYG	WR	8.9	8.3	TN_v_MR	MR	17
+Bench	Chuba Hubbard	Car	RB	8.8	9.5	TN_v_MR	MR	17
+Bench	Lamar Jackson	Bal	QB	0.0	0.0	TN_v_MR	MR	17
+Bench	Devin Duvernay	Bal	WR	0.0	0.0	TN_v_MR	MR	17
+Bench	Jaylen Warren	Pit	RB	5.6	12.8	TN_v_MR	MR	17
+QB	Justin Fields	Chi	QB	23.8	17.2	MF_v_Zach White Commanders	MF	17
+RB	Raheem Mostert	Mia	RB	8.5	23.1	MF_v_Zach White Commanders	MF	17
+RB	Cordarrelle Patterson	Atl	RB	10.6	20.4	MF_v_Zach White Commanders	MF	17
+WR	Donovan Peoples-Jones	Cle	WR	8.9	8.3	MF_v_Zach White Commanders	MF	17
+WR	Christian Watson	GB	WR	13.9	2.1	MF_v_Zach White Commanders	MF	17
+TE	David Njoku	Cle	TE	10.0	3.1	MF_v_Zach White Commanders	MF	17
+FLEX	Michael Pittman Jr.	Ind	WR	13.2	16.1	MF_v_Zach White Commanders	MF	17
+OP	Ryan Tannehill	Ten	QB	0.0	0.0	MF_v_Zach White Commanders	MF	17
+D/ST	Saints	NO	D/ST	4.6	19.0	MF_v_Zach White Commanders	MF	17
+Bench	Tyler Allgeier	Atl	RB	13.0	16.5	MF_v_Zach White Commanders	MF	17
+Bench	Marquez Valdes-Scantling	KC	WR	4.9	4.8	MF_v_Zach White Commanders	MF	17
+Bench	Sam Darnold	SF	QB	12.7	22.64	MF_v_Zach White Commanders	MF	17
+Bench	Odell Beckham Jr.	FA	WR	0.0	0.0	MF_v_Zach White Commanders	MF	17
+Bench	Jeff Wilson Jr.	Mia	RB	8.5	10.6	MF_v_Zach White Commanders	MF	17
+Bench	Foster Moreau	LV	TE	2.1	8.5	MF_v_Zach White Commanders	MF	17
+Bench	Tyler Boyd	Cin	WR	7.6	0.0	MF_v_Zach White Commanders	MF	17
+QB	Tom Brady	TB	QB	17.9	37.68	MF_v_Zach White Commanders	Zach White Commanders	17
+RB	Gus Edwards	Bal	RB	6.2	0.2	MF_v_Zach White Commanders	Zach White Commanders	17
+RB	D'Onta Foreman	Chi	RB	10.5	3.5	MF_v_Zach White Commanders	Zach White Commanders	17
+WR	Mack Hollins	LV	WR	7.1	7.0	MF_v_Zach White Commanders	Zach White Commanders	17
+WR	A.J. Brown	Phi	WR	15.8	19.7	MF_v_Zach White Commanders	Zach White Commanders	17
+TE	George Kittle	SF	TE	12.8	12.3	MF_v_Zach White Commanders	Zach White Commanders	17
+FLEX	DJ Moore	Chi	WR	12.2	23.7	MF_v_Zach White Commanders	Zach White Commanders	17
+OP	Brock Purdy	SF	QB	16.8	18.06	MF_v_Zach White Commanders	Zach White Commanders	17
+D/ST	Jets	NYJ	D/ST	6.3	5.0	MF_v_Zach White Commanders	Zach White Commanders	17
+Bench	Courtland Sutton	Den	WR	12.2	8.4	MF_v_Zach White Commanders	Zach White Commanders	17
+Bench	David Montgomery	Det	RB	13.5	5.6	MF_v_Zach White Commanders	Zach White Commanders	17
+Bench	Brian Robinson Jr.	Wsh	RB	14.5	8.7	MF_v_Zach White Commanders	Zach White Commanders	17
+Bench	Andy Dalton	Car	QB	13.6	7.0	MF_v_Zach White Commanders	Zach White Commanders	17
+Bench	Gabe Davis	Buf	WR	11.5	0.0	MF_v_Zach White Commanders	Zach White Commanders	17
+Bench	Treylon Burks	Ten	WR	8.6	12.6	MF_v_Zach White Commanders	Zach White Commanders	17
+Bench	Demarcus Robinson	Bal	WR	7.0	1.9	MF_v_Zach White Commanders	Zach White Commanders	17
+QB	Josh Allen	Buf	QB	22.9	0.0	EM_v_CC	EM	17
+RB	Aaron Jones	GB	RB	15.5	13.3	EM_v_CC	EM	17
+RB	Samaje Perine	Den	RB	7.3	0.0	EM_v_CC	EM	17
+WR	Davante Adams	LV	WR	17.1	34.3	EM_v_CC	EM	17
+WR	DK Metcalf	Sea	WR	15.8	1.3	EM_v_CC	EM	17
+TE	Dawson Knox	Buf	TE	10.0	0.0	EM_v_CC	EM	17
+FLEX	Terry McLaurin	Wsh	WR	12.4	5.7	EM_v_CC	EM	17
+OP	Trevor Lawrence	Jax	QB	19.2	5.48	EM_v_CC	EM	17
+D/ST	Patriots	NE	D/ST	6.9	12.0	EM_v_CC	EM	17
+Bench	Chase Claypool	Chi	WR	9.9	0.0	EM_v_CC	EM	17
+Bench	Hunter Henry	NE	TE	7.2	10.2	EM_v_CC	EM	17
+Bench	Jerry Jeudy	Den	WR	13.6	10.8	EM_v_CC	EM	17
+Bench	Travis Homer	Chi	RB	0.0	0.0	EM_v_CC	EM	17
+Bench	Zach Wilson	NYJ	QB	0.0	0.0	EM_v_CC	EM	17
+Bench	Gardner Minshew	Ind	QB	18.0	13.96	EM_v_CC	EM	17
+Bench	Buccaneers	TB	D/ST	6.7	7.0	EM_v_CC	EM	17
+QB	Carson Wentz	FA	QB	14.5	9.42	EM_v_CC	CC	17
+RB	James Conner	Ari	RB	19.3	14.0	EM_v_CC	CC	17
+RB	D'Andre Swift	Det	RB	12.8	27.7	EM_v_CC	CC	17
+WR	Amon-Ra St. Brown	Det	WR	19.2	10.2	EM_v_CC	CC	17
+WR	Mike Williams	LAC	WR	13.3	16.4	EM_v_CC	CC	17
+TE	Taysom Hill	NO	TE	6.4	13.56	EM_v_CC	CC	17
+FLEX	Drake London	Atl	WR	10.9	9.7	EM_v_CC	CC	17
+OP	Joe Burrow	Cin	QB	21.3	0.0	EM_v_CC	CC	17
+D/ST	Cardinals	Ari	D/ST	5.6	5.0	EM_v_CC	CC	17
+Bench	Derrick Henry	Ten	RB	0.0	0.0	EM_v_CC	CC	17
+Bench	Chris Olave	NO	WR	11.6	8.2	EM_v_CC	CC	17
+Bench	Alec Pierce	Ind	WR	7.5	4.5	EM_v_CC	CC	17
+Bench	Brandon Aiyuk	SF	WR	12.5	26.7	EM_v_CC	CC	17
+Bench	Derek Carr	NO	QB	0.0	0.0	EM_v_CC	CC	17
+Bench	Greg Dulcich	Den	TE	0.0	0.0	EM_v_CC	CC	17
+Bench	Tyler Huntley	Bal	QB	14.8	10.6	EM_v_CC	CC	17
+QB	Mac Jones	NE	QB	14.1	16.26	JK_v_DW	JK	17
+RB	Dalvin Cook	Min	RB	16.6	6.4	JK_v_DW	JK	17
+RB	Ezekiel Elliott	FA	RB	16.0	9.7	JK_v_DW	JK	17
+WR	Mike Evans	TB	WR	12.5	48.7	JK_v_DW	JK	17
+WR	Marquise Brown	Ari	WR	15.3	12.1	JK_v_DW	JK	17
+TE	Mark Andrews	Bal	TE	11.1	19.0	JK_v_DW	JK	17
+FLEX	Latavius Murray	Den	RB	11.2	11.2	JK_v_DW	JK	17
+OP	Michael Gallup	Dal	WR	9.4	6.9	JK_v_DW	JK	17
+D/ST	Bills	Buf	D/ST	5.8	0.0	JK_v_DW	JK	17
+Bench	Kyler Murray	Ari	QB	0.0	0.0	JK_v_DW	JK	17
+Bench	Matt Ryan	FA	QB	0.0	0.0	JK_v_DW	JK	17
+Bench	Nyheim Hines	Buf	RB	2.1	0.0	JK_v_DW	JK	17
+Bench	Zach Ertz	Ari	TE	0.0	0.0	JK_v_DW	JK	17
+Bench	Richie James	NYG	WR	9.7	20.6	JK_v_DW	JK	17
+Bench	Bengals	Cin	D/ST	4.8	0.0	JK_v_DW	JK	17
+Bench	Robert Woods	FA	WR	6.9	14.9	JK_v_DW	JK	17
+QB	Justin Herbert	LAC	QB	17.8	16.68	JK_v_DW	DW	17
+RB	Travis Etienne Jr.	Jax	RB	16.1	23.0	JK_v_DW	DW	17
+RB	Jerick McKinnon	KC	RB	11.7	22.6	JK_v_DW	DW	17
+WR	DeAndre Hopkins	Ari	WR	0.0	0.0	JK_v_DW	DW	17
+WR	Zay Jones	Jax	WR	12.8	5.4	JK_v_DW	DW	17
+TE	Evan Engram	Jax	TE	12.5	3.9	JK_v_DW	DW	17
+FLEX	J.K. Dobbins	Bal	RB	9.3	9.3	JK_v_DW	DW	17
+OP	Tony Pollard	Dal	RB	0.0	0.0	JK_v_DW	DW	17
+D/ST	Chiefs	KC	D/ST	7.5	9.0	JK_v_DW	DW	17
+Bench	Darius Slayton	NYG	WR	10.1	1.4	JK_v_DW	DW	17
+Bench	Jameson Williams	Det	WR	3.8	4.0	JK_v_DW	DW	17
+Bench	Joshua Palmer	LAC	WR	8.4	0.0	JK_v_DW	DW	17
+Bench	Kyren Williams	LAR	RB	4.5	0.6	JK_v_DW	DW	17
+Bench	Zonovan Knight	NYJ	RB	11.6	6.4	JK_v_DW	DW	17
+Bench	Cam Akers	LAR	RB	14.1	14.3	JK_v_DW	DW	17
+Bench	Empty	--	--	--	--	JK_v_DW	DW	17
+QB	Dak Prescott	Dal	QB	18.4	16.38	AY_v_SH	AY	17
+RB	Joe Mixon	Cin	RB	16.6	0.0	AY_v_SH	AY	17
+RB	Alvin Kamara	NO	RB	14.8	9.0	AY_v_SH	AY	17
+WR	Justin Jefferson	Min	WR	23.0	2.5	AY_v_SH	AY	17
+WR	CeeDee Lamb	Dal	WR	16.2	21.0	AY_v_SH	AY	17
+TE	Cole Kmet	Chi	TE	10.7	10.7	AY_v_SH	AY	17
+FLEX	Tee Higgins	Cin	WR	14.3	0.0	AY_v_SH	AY	17
+OP	Teddy Bridgewater	Mia	QB	16.1	10.04	AY_v_SH	AY	17
+D/ST	Giants	NYG	D/ST	8.7	15.0	AY_v_SH	AY	17
+Bench	Jalen Hurts	Phi	QB	0.0	0.0	AY_v_SH	AY	17
+Bench	AJ Dillon	GB	RB	11.8	10.1	AY_v_SH	AY	17
+Bench	Jakobi Meyers	LV	WR	10.9	16.9	AY_v_SH	AY	17
+Bench	Dallas Goedert	Phi	TE	10.4	7.5	AY_v_SH	AY	17
+Bench	Rachaad White	TB	RB	10.1	9.8	AY_v_SH	AY	17
+Bench	Darren Waller	NYG	TE	9.5	16.2	AY_v_SH	AY	17
+Bench	David Blough	Ari	QB	15.0	13.58	AY_v_SH	AY	17
+QB	Patrick Mahomes	KC	QB	21.1	26.52	AY_v_SH	SH	17
+RB	Christian McCaffrey	SF	RB	21.9	31.3	AY_v_SH	SH	17
+RB	Saquon Barkley	NYG	RB	20.4	7.3	AY_v_SH	SH	17
+WR	Chris Godwin	TB	WR	14.7	21.0	AY_v_SH	SH	17
+WR	Amari Cooper	Cle	WR	13.1	25.5	AY_v_SH	SH	17
+TE	Travis Kelce	KC	TE	16.7	11.3	AY_v_SH	SH	17
+FLEX	Tyler Lockett	Sea	WR	14.1	3.5	AY_v_SH	SH	17
+OP	Jared Goff	Det	QB	18.9	22.4	AY_v_SH	SH	17
+D/ST	49ers	SF	D/ST	8.9	-3.0	AY_v_SH	SH	17
+Bench	Aaron Rodgers	GB	QB	17.7	16.56	AY_v_SH	SH	17
+Bench	Jamaal Williams	NO	RB	12.1	22.7	AY_v_SH	SH	17
+Bench	Adam Thielen	FA	WR	10.9	2.6	AY_v_SH	SH	17
+Bench	Mike White	Mia	QB	16.4	5.6	AY_v_SH	SH	17
+Bench	Jordan Mason	SF	RB	3.9	7.3	AY_v_SH	SH	17
+Bench	Matt Breida	NYG	RB	4.2	7.7	AY_v_SH	SH	17
+Bench	Zack Moss	Ind	RB	11.9	7.4	AY_v_SH	SH	17

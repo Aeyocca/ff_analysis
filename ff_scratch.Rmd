@@ -1,0 +1,147 @@
+---
+title: "ff_scratch"
+output: html_document
+date: "2025-10-13"
+editor_options: 
+  chunk_output_type: console
+---
+
+#install errythang
+
+```{r}
+install.packages("tidyverse")
+install.packages("ggplot2")
+```
+
+#null matrix
+```{r}
+library(tidyverse)
+library(ggplot2)
+#for a number of losses / wins, probability of getting to at least 7 or more wins with however many weeks remain.
+#pretty straight forward, can also get the heatmap plotting code in place while doing the null matrix
+
+win=1
+loss=4
+#remaining_games
+rg=14 - win + loss
+pbinom(7 - win, rg, 0.5)
+
+#geom_tile takes tidy instead of matrix.
+out_df = data.frame("Wins" = c(),
+                    "Losses" = c(),
+                    "Probability" = c())
+#for week, all possible records
+for (week in c(1:14)) {
+  for (wins in c(0:week)) {
+    loop_df = data.frame("Wins" = wins,
+                    "Losses" = week - wins,
+                    "Probability" = pbinom(7 - wins, 14 - week, 0.5, lower.tail = F))
+    out_df = rbind(out_df, loop_df)
+  }
+}
+
+out_df_sub = out_df[which(out_df$Wins < 7 & out_df$Losses < 7),]
+out_df_sub$Wins = factor(out_df_sub$Wins, levels = c(0:14))
+out_df_sub$Losses = factor(out_df_sub$Losses, levels = c(0:14))
+null_dist = out_df_sub %>% 
+  ggplot(aes(x = Wins, y = Losses, fill = Probability)) +
+  geom_tile() +
+  geom_text(aes(label = round(Probability, 4)), color = "white", size = 3) +
+  scale_fill_gradient(low="darkorchid4", high="darkorchid1") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(),
+        legend.position = "none")
+null_dist
+
+#I can cut out all zero and 1 values since they aren't very fun
+wkdir = "/Users/aeyap/Documents/ff_analysis/plots/"
+height = 4
+width = 4
+png(filename = paste0(wkdir,"Null_Prob_Matrix.png"), height = height, width = width, units = "in", res = 200)
+null_dist
+dev.off()
+
+```
+
+#experimental probabilities
+```{r}
+wkdir = "/Users/aeyap/Documents/ff_analysis/"
+exp_mat = read.table(file = paste0(wkdir,"19_to_24_playoff_mat.txt"), sep = "\t")
+count_mat = read.table(file = paste0(wkdir,"19_to_24_playoff_mat_count.txt"), sep = "\t")
+
+out_df = data.frame("Wins" = c(),
+                    "Losses" = c(),
+                    "Probability" = c(),
+                    "Count" = c())
+#for week, all possible records
+for (week in c(1:14)) {
+  for (wins in c(0:week)) {
+    loop_df = data.frame("Wins" = wins,
+                    "Losses" = week - wins,
+                    "Probability" = exp_mat[week - wins + 1, wins + 1],
+                    "Count" = count_mat[week - wins + 1, wins + 1])
+    out_df = rbind(out_df, loop_df)
+  }
+}
+
+out_df_sub = out_df[which(out_df$Wins < 7 & out_df$Losses < 7),]
+out_df_sub$Wins = factor(out_df_sub$Wins, levels = c(0:14))
+out_df_sub$Losses = factor(out_df_sub$Losses, levels = c(0:14))
+
+exp_dist = out_df_sub %>% 
+  ggplot(aes(x = Wins, y = Losses, fill = Probability)) +
+  geom_tile() +
+  geom_text(aes(label = round(Probability, 4)), nudge_y = 0.2, color = "white", size = 3) +
+  geom_text(aes(label = Count), nudge_y = -0.2, color = "white", size = 3) +
+  scale_fill_gradient(low="darkorchid4", high="darkorchid1") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(),
+        legend.position = "none")
+exp_dist
+
+#for QC, the number of 0-1 should == the number of 1-0
+
+#I can cut out all zero and 1 values since they aren't very fun
+wkdir = "/Users/aeyap/Documents/ff_analysis/plots/"
+height = 4
+width = 4
+png(filename = paste0(wkdir,"Exp_Prob_Matrix.png"), height = height, width = width, units = "in", res = 200)
+exp_dist
+dev.off()
+
+
+```
+
+# Who has the highest scoring players from each position?
+
+```{r}
+wkdir=""
+
+#load years, add year as a column
+
+#siphon off week 14 for years before 2022
+
+#gather by owner, then by SLOT, summarise mean? That actually should work
+```
+
+
+# What are people's positional decisions at the superflex spot?
+
+# What are people's start accuracy? Ugh, this one is going to be a huge pain. that will be one week by itself
+
+# what are roster percentages for players on playoff teams in our league? (any repeat champions?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
